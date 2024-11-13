@@ -1,0 +1,25 @@
+1	A. World Geography	What is the largest country by area?	Russia
+2	A. World Geography	Which country has the highest population?	China
+3	A. World Geography	What is the capital of Australia?	Canberra
+4	A. World Geography	Which desert is the largest hot desert in the world?	Sahara
+5	A. World Geography	In which country is Mount Kilimanjaro located?	Tanzania
+1	B. Ancient Civilizations	Which ancient civilization built the pyramids?	Egypt
+2	B. Ancient Civilizations	What was the writing system of ancient Mesopotamia?	Cuneiform
+3	B. Ancient Civilizations	Which civilization is known for creating democracy?	Greece
+4	B. Ancient Civilizations	Who was the king of the Babylonian Empire known for a code of laws?	Hammurabi
+5	B. Ancient Civilizations	What ancient South American civilization built Machu Picchu?	Inca
+1	C. Science & Nature	What planet is known as the "Red Planet"?	Mars
+2	C. Science & Nature	What gas do plants absorb from the atmosphere?	Carbon Dioxide
+3	C. Science & Nature	What is the largest mammal on Earth?	Blue Whale
+4	C. Science & Nature	Which element has the chemical symbol 'O'?	Oxygen
+5	C. Science & Nature	What branch of science studies insects?	Entomology
+1	D. National Parks	Which national park is home to Old Faithful geyser?	Yellowstone
+2	D. National Parks	In which state is the Grand Canyon National Park?	Arizona
+3	D. National Parks	Which U.S. national park is known for its giant sequoias?	Yosemite
+4	D. National Parks	What national park is located in the U.S. Virgin Islands?	Virgin Islands
+5	D. National Parks	Which national park has the longest cave system in the world?	Mammoth Cave
+1	E. Classic Novels	Who wrote "Moby-Dick"?	Herman Melville
+2	E. Classic Novels	What is the last name of "Pride and Prejudice" author?	Austen
+3	E. Classic Novels	In which novel does the character Atticus Finch appear?	To Kill a Mockingbird
+4	E. Classic Novels	Who wrote "Crime and Punishment"?	Dostoevsky
+5	E. Classic Novels	Which novel features the character Jay Gatsby?	The Great Gatsby
