@@ -1,25 +1,25 @@
-1	Day 3	What is the largest country by area?	Russia
-2	A. World Geography	Which country has the highest population?	China
-3	A. World Geography	What is the capital of Australia?	Canberra
-4	A. World Geography	Which desert is the largest hot desert in the world?	Sahara
-5	A. World Geography	In which country is Mount Kilimanjaro located?	Tanzania
-1	B. Ancient Civilizations	Which ancient civilization built the pyramids?	Egypt
-2	B. Ancient Civilizations	What was the writing system of ancient Mesopotamia?	Cuneiform
-3	B. Ancient Civilizations	Which civilization is known for creating democracy?	Greece
-4	B. Ancient Civilizations	Who was the king of the Babylonian Empire known for a code of laws?	Hammurabi
-5	B. Ancient Civilizations	What ancient South American civilization built Machu Picchu?	Inca
-1	C. Science & Nature	What planet is known as the "Red Planet"?	Mars
-2	C. Science & Nature	What gas do plants absorb from the atmosphere?	Carbon Dioxide
-3	C. Science & Nature	What is the largest mammal on Earth?	Blue Whale
-4	C. Science & Nature	Which element has the chemical symbol 'O'?	Oxygen
-5	C. Science & Nature	What branch of science studies insects?	Entomology
-1	D. National Parks	Which national park is home to Old Faithful geyser?	Yellowstone
-2	D. National Parks	In which state is the Grand Canyon National Park?	Arizona
-3	D. National Parks	Which U.S. national park is known for its giant sequoias?	Yosemite
-4	D. National Parks	What national park is located in the U.S. Virgin Islands?	Virgin Islands
-5	D. National Parks	Which national park has the longest cave system in the world?	Mammoth Cave
-1	E. Classic Novels	Who wrote "Moby-Dick"?	Herman Melville
-2	E. Classic Novels	What is the last name of "Pride and Prejudice" author?	Austen
-3	E. Classic Novels	In which novel does the character Atticus Finch appear?	To Kill a Mockingbird
-4	E. Classic Novels	Who wrote "Crime and Punishment"?	Dostoevsky
-5	E. Classic Novels	Which novel features the character Jay Gatsby?	The Great Gatsby
+1	A. Literary Characters	Who is the famous detective created by Arthur Conan Doyle?	Holmes
+2	A. Literary Characters	Who is the tragic lover of Juliet in Shakespeare's play?	Romeo
+3	A. Literary Characters	Which character sails on the Pequod in "Moby-Dick"?	Ishmael
+4	A. Literary Characters	What is the name of the central character in "Jane Eyre"?	Jane
+5	A. Literary Characters	Who is the vampire in Bram Stoker's famous novel?	Dracula
+1	B. Medical Terms	What is the common term for "hypertension"?	High BP
+2	B. Medical Terms	What is the medical term for low blood sugar?	Hypoglycemia
+3	B. Medical Terms	What does MRI stand for?	Imaging
+4	B. Medical Terms	What is the term for inflammation of the joints?	Arthritis
+5	B. Medical Terms	What is the scientific name for "white blood cells"?	Leukocytes
+1	C. Math & Numbers	What is 10 squared?	100
+2	C. Math & Numbers	What is the term for a shape with four equal sides?	Square
+3	C. Math & Numbers	What is the value of pi rounded to two decimal places?	3.14
+4	C. Math & Numbers	What is the formula for the area of a circle?	Pi*r^2
+5	C. Math & Numbers	What is the term for a number that only has itself and 1 as divisors?	Prime
+1	D. Art & Artists	Who painted the "Mona Lisa"?	Da Vinci
+2	D. Art & Artists	What nationality was Vincent van Gogh?	Dutch
+3	D. Art & Artists	Who painted "The Persistence of Memory"?	Dali
+4	D. Art & Artists	In which art style did Picasso excel?	Cubism
+5	D. Art & Artists	Who painted "The Night Watch"?	Rembrandt
+1	E. Word Origins	What does the word "alphabet" originate from?	Greek
+2	E. Word Origins	What language does the word "tsunami" come from?	Japanese
+3	E. Word Origins	From which language does the word "pajamas" come?	Persian
+4	E. Word Origins	What is the origin language of "tulip"?	Turkish
+5	E. Word Origins	The word "robot" originates from which language?	Czech
