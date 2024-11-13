@@ -5,14 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flashcard Memory Exercise</title>
     <link rel="stylesheet" href="styles.css">
-    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="icon" type="image/png" href="favicon.png"> <!-- Favicon link -->
 </head>
 <body>
     <div class="flashcard">
-        <h1 id="category"></h1>
+        <!-- Date display -->
+        <h2 id="date"></h2> <!-- New element for date display -->
+
+        <!-- Category and Question Display -->
+        <h3 id="category"></h3>
         <p id="question"></p>
+        
         <button id="show-answer" onclick="showAnswer()">Show Answer</button>
         <p id="answer" style="display: none;"></p>
+
         <div id="response-buttons">
             <button onclick="recordAnswer(true)" id="knew-it">Knew it</button>
             <button onclick="recordAnswer(false)" id="missed-it">Missed it</button>
