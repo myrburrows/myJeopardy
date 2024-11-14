@@ -8,16 +8,16 @@
 3	B. Word Origins	The word "algebra" originates from which language?	Arabic
 4	B. Word Origins	Renaissance is derived from which language?	French
 5	B. Word Origins	From which language does "ketchup" originate?	Chinese
-1	C. Music Legends	Who is known as the "King of Pop"?	Michael
+1	C. Music Legends	Who is known as the "King of Pop"?	Michael Jackson
 2	C. Music Legends	Who sang "Purple Rain"?	Prince
-3	C. Music Legends	Who was the lead singer of Queen?	Freddie
-4	C. Music Legends	Who is the "Queen of Soul"?	Aretha
-5	C. Music Legends	Who was nicknamed "The Boss"?	Springsteen
-1	D. Rhyme Time	A feline that is overweight.	Fat cat
-2	D. Rhyme Time	A green vegetable that is small.	Pea tree
-3	D. Rhyme Time	An amphibian that has scales.	Fish dish
-4	D. Rhyme Time	A big brown bear.	Large bar
-5	D. Rhyme Time	A small juicy grape.	Sweet treat
+3	C. Music Legends	Who was the lead singer of Queen?	Freddie Mercury
+4	C. Music Legends	Who is the "Queen of Soul"?	Aretha Franklin
+5	C. Music Legends	Who was nicknamed "The Boss"?	Bruce Springsteen
+1	D. Movie Monsters	Who is the giant lizard that terrorizes Tokyo?	Godzilla
+2	D. Movie Monsters	Who is the vampire in Bram Stoker’s famous novel?	Dracula
+3	D. Movie Monsters	What is the name of Frankenstein’s monster's creator?	Frankenstein
+4	D. Movie Monsters	An undead Egyptian priest wrapped in bandages	The Mummy
+5	D. Movie Monsters	What 1922 silent film featured the vampire Count Orlok?	Nosferatu
 1	E. Mythical Creatures	A single-horned horse-like creature?	Unicorn
 2	E. Mythical Creatures	A giant, fire-breathing lizard?	Dragon
 3	E. Mythical Creatures	A creature that is half-man, half-horse?	Centaur
