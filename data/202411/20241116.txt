@@ -1,0 +1,25 @@
+1	A. The Solar System	What is the closest planet to the Sun?	Mercury
+2	A. The Solar System	Which planet is known as the Red Planet?	Mars
+3	A. The Solar System	What is the largest planet in our solar system?	Jupiter
+4	A. The Solar System	Which planet has a prominent ring system?	Saturn
+5	A. The Solar System	What is the name of our galaxy?	Milky Way
+1	B. Famous Inventions	Who invented the light bulb?	Thomas Edison
+2	B. Famous Inventions	What device did Alexander Graham Bell invent?	Telephone
+3	B. Famous Inventions	Who invented the printing press?	J. Gutenberg
+4	B. Famous Inventions	Who invented the airplane?	Wright Brothers
+5	B. Famous Inventions	Who invented the World Wide Web?	Tim Berners-Lee
+1	C. Wine & Spirits	Which country is famous for producing Champagne?	France
+2	C. Wine & Spirits	What is the main ingredient in sake?	Rice
+3	C. Wine & Spirits	From which region does Port wine originate?	Portugal
+4	C. Wine & Spirits	What type of spirit is associated with juniper berries?	Gin
+5	C. Wine & Spirits	What is tequila primarily made from?	Agave
+1	D. Creation Stories	In Greek mythology, who was the first woman created by the gods?	Pandora
+2	D. Creation Stories	In Christianity, who are the first humans?	Adam & Eve
+3	D. Creation Stories	According to Hindu belief, who is the creator god?	Brahma
+4	D. Creation Stories	In Norse mythology, who is the father of all gods?	Odin
+5	D. Creation Stories	In Egyptian mythology, who created the universe?	Atum
+1	E. Famous Firsts	Who was the first person to walk on the moon?	Neil Armstrong
+2	E. Famous Firsts	Who was the first woman to fly solo across the Atlantic?	Amelia Earhart
+3	E. Famous Firsts	Who was the first US president?	George Washington
+4	E. Famous Firsts	Who was the first African American US president?	Barack Obama
+5	E. Famous Firsts	Who was the first man to reach the South Pole?	Roald Amundsen
