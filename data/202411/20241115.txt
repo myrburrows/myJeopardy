@@ -1,11 +1,11 @@
-1	A. Literary Characters	Who is the famous detective created by Arthur Conan Doyle?	Holmes
+1	A. Literary Characters	Who is the famous detective created by Arthur Conan Doyle?	Sherlock Holmes
 2	A. Literary Characters	Who is the tragic lover of Juliet in Shakespeare's play?	Romeo
 3	A. Literary Characters	Which character sails on the Pequod in "Moby-Dick"?	Ishmael
-4	A. Literary Characters	What is the name of the central character in "Jane Eyre"?	Jane
+4	A. Literary Characters	What is the name of the central character in "Jane Eyre"?	Jane Eyre
 5	A. Literary Characters	Who is the vampire in Bram Stoker's famous novel?	Dracula
-1	B. Medical Terms	What is the common term for "hypertension"?	High BP
+1	B. Medical Terms	What is the common term for "hypertension"?	High Blood Pressure
 2	B. Medical Terms	What is the medical term for low blood sugar?	Hypoglycemia
-3	B. Medical Terms	What does MRI stand for?	Imaging
+3	B. Medical Terms	What does MRI stand for?	Magnetic Resonance Imaging.
 4	B. Medical Terms	What is the term for inflammation of the joints?	Arthritis
 5	B. Medical Terms	What is the scientific name for "white blood cells"?	Leukocytes
 1	C. Math & Numbers	What is 10 squared?	100
@@ -15,11 +15,11 @@
 5	C. Math & Numbers	What is the term for a number that only has itself and 1 as divisors?	Prime
 1	D. Art & Artists	Who painted the "Mona Lisa"?	Da Vinci
 2	D. Art & Artists	What nationality was Vincent van Gogh?	Dutch
-3	D. Art & Artists	Who painted "The Persistence of Memory"?	Dali
+3	D. Art & Artists	Who painted "The Persistence of Memory"?	Salvador Dali
 4	D. Art & Artists	In which art style did Picasso excel?	Cubism
 5	D. Art & Artists	Who painted "The Night Watch"?	Rembrandt
-1	E. Word Origins	What does the word "alphabet" originate from?	Greek
-2	E. Word Origins	What language does the word "tsunami" come from?	Japanese
-3	E. Word Origins	From which language does the word "pajamas" come?	Persian
-4	E. Word Origins	What is the origin language of "tulip"?	Turkish
-5	E. Word Origins	The word "robot" originates from which language?	Czech
+1	E. Movie Quotes	May the Force be with you is from which movie series?	Star Wars
+2	E. Movie Quotes	I'll be back is a famous line from which movie?	Terminator 2
+3	E. Movie Quotes	In which movie does the character say, "You can't handle the truth!"?	A Few Good Men
+4	E. Movie Quotes	Here's looking at you, kid is a quote from which classic film?	Casablanca
+5	E. Movie Quotes	I drink your milkshake is a line from which 2007 movie?	There Will Be Blood
