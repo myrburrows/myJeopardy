@@ -10,7 +10,13 @@ const options = { weekday: 'long', month: 'short', day: '2-digit', year: 'numeri
 const formattedDate = today.toLocaleDateString('en-US', options);
 document.getElementById('date').textContent = formattedDate;
 
-// Determine today's date and the corresponding file path
+fetch('https://roger-that-bridge-flashcards-5bffcbb5d89a.herokuapp.com/track', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ app_name: 'myJeopardy' })
+  });
+  
+  // Determine today's date and the corresponding file path
 const yearMonth = `${today.getFullYear()}${String(today.getMonth() + 1).padStart(2, '0')}`; // Format: YYYYMM
 const day = String(today.getDate()).padStart(2, '0'); // Format: DD
 const fileName = `data/${yearMonth}/${yearMonth}${day}.txt`; // Path: data/YYYYMM/YYYYMMDD.txt
