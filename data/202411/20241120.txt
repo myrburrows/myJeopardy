@@ -1,25 +1,25 @@
-20241120	1	A. Fashion Designers	Who is known as the founder of Chanel?	Coco Chanel
-20241120	2	A. Fashion Designers	Which designer is famous for red-soled shoes?	Christian Louboutin
-20241120	3	A. Fashion Designers	Who founded the Italian fashion house Versace?	Gianni Versace
-20241120	4	A. Fashion Designers	Who introduced the New Look in fashion?	Christian Dior
-20241120	5	A. Fashion Designers	Which designer created the wrap dress?	Diane von Furstenberg
-20241120	1	B. World Religions	What is the holy book of Islam?	Quran
-20241120	2	B. World Religions	Which religion worships in a synagogue?	Judaism
-20241120	3	B. World Religions	Who is the founder of Buddhism?	Siddhartha Gautama
-20241120	4	B. World Religions	What is the oldest monotheistic religion?	Zoroastrianism
-20241120	5	B. World Religions	Which religion follows the teachings of Guru Nanak?	Sikhism
-20241120	1	C. Historical Figures	Who was the first President of the United States?	George Washington
-20241120	2	C. Historical Figures	Who wrote the Gettysburg Address?	Abraham Lincoln
-20241120	3	C. Historical Figures	Who is known for her role in the Underground Railroad?	Harriet Tubman
-20241120	4	C. Historical Figures	Who was the last queen of France before the revolution?	Marie Antoinette
-20241120	5	C. Historical Figures	Who is considered the "Father of the Renaissance"?	Leonardo da Vinci
-20241120	1	D. Animal Kingdom	What is the fastest land animal?	Cheetah
-20241120	2	D. Animal Kingdom	What animal is known as the "Ship of the Desert"?	Camel
-20241120	3	D. Animal Kingdom	Which bird is known for its ability to mimic sounds?	Parrot
-20241120	4	D. Animal Kingdom	What insect is known for its hive and honey production?	Bee
-20241120	5	D. Animal Kingdom	What is the largest mammal on Earth?	Blue Whale
-20241120	1	E. Books & Authors	Who wrote "Romeo and Juliet"?	William Shakespeare
-20241120	2	E. Books & Authors	Who wrote "Pride and Prejudice"?	Jane Austen
-20241120	3	E. Books & Authors	Who is the author of "1984"?	George Orwell
-20241120	4	E. Books & Authors	Who created the character Sherlock Holmes?	Arthur Conan Doyle
-20241120	5	E. Books & Authors	Who wrote "The Catcher in the Rye"?	J.D. Salinger
+1	A. Fashion Designers	Who is known as the founder of Chanel?	Coco Chanel
+2	A. Fashion Designers	Which designer is famous for red-soled shoes?	Christian Louboutin
+3	A. Fashion Designers	Who founded the Italian fashion house Versace?	Gianni Versace
+4	A. Fashion Designers	Who introduced the New Look in fashion?	Christian Dior
+5	A. Fashion Designers	Which designer created the wrap dress?	Diane von Furstenberg
+1	B. World Religions	What is the holy book of Islam?	Quran
+2	B. World Religions	Which religion worships in a synagogue?	Judaism
+3	B. World Religions	Who is the founder of Buddhism?	Siddhartha Gautama
+4	B. World Religions	What is the oldest monotheistic religion?	Zoroastrianism
+5	B. World Religions	Which religion follows the teachings of Guru Nanak?	Sikhism
+1	C. Historical Figures	Who was the first President of the United States?	George Washington
+2	C. Historical Figures	Who wrote the Gettysburg Address?	Abraham Lincoln
+3	C. Historical Figures	Who is known for her role in the Underground Railroad?	Harriet Tubman
+4	C. Historical Figures	Who was the last queen of France before the revolution?	Marie Antoinette
+5	C. Historical Figures	Who is considered the "Father of the Renaissance"?	Leonardo da Vinci
+1	D. Animal Kingdom	What is the fastest land animal?	Cheetah
+2	D. Animal Kingdom	What animal is known as the "Ship of the Desert"?	Camel
+3	D. Animal Kingdom	Which bird is known for its ability to mimic sounds?	Parrot
+4	D. Animal Kingdom	What insect is known for its hive and honey production?	Bee
+5	D. Animal Kingdom	What is the largest mammal on Earth?	Blue Whale
+1	E. Books & Authors	Who wrote "Romeo and Juliet"?	William Shakespeare
+2	E. Books & Authors	Who wrote "Pride and Prejudice"?	Jane Austen
+3	E. Books & Authors	Who is the author of "1984"?	George Orwell
+4	E. Books & Authors	Who created the character Sherlock Holmes?	Arthur Conan Doyle
+5	E. Books & Authors	Who wrote "The Catcher in the Rye"?	J.D. Salinger
