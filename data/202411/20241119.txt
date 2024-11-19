@@ -1,25 +1,25 @@
-20241119	1	A. Lakes and Rivers	What is the largest freshwater lake by surface area?	Lake Superior
-20241119	2	A. Lakes and Rivers	Which river flows through Egypt?	Nile
-20241119	3	A. Lakes and Rivers	What is the longest river in South America?	Amazon
-20241119	4	A. Lakes and Rivers	Which river forms part of the border between Texas and Mexico?	Rio Grande
-20241119	5	A. Lakes and Rivers	What lake is known as the "Jewel of the Sierra"?	Lake Tahoe
-20241119	1	B. Fairy Tales	Who lived in a house made of candy in the forest?	Hansel Gretel
-20241119	2	B. Fairy Tales	What fruit caused Snow White to fall asleep?	Apple
-20241119	3	B. Fairy Tales	What was Cinderella's carriage made from?	Pumpkin
-20241119	4	B. Fairy Tales	Who spun straw into gold for a queen?	Rumpelstiltskin
-20241119	5	B. Fairy Tales	Who climbed a beanstalk and found a giant?	Jack
-20241119	1	C. Olympic Sports	What sport uses a vaulting pole?	Pole Vault
-20241119	2	C. Olympic Sports	In which sport do athletes perform flips on a bar?	Gymnastics
-20241119	3	C. Olympic Sports	What Olympic sport involves swords?	Fencing
-20241119	4	C. Olympic Sports	What Olympic sport uses a shuttlecock?	Badminton
-20241119	5	C. Olympic Sports	Which Olympic event combines skiing and shooting?	Biathlon
-20241119	1	D. Foods Around the World	Which Italian dish is made with thin dough and toppings?	Pizza
-20241119	2	D. Foods Around the World	Which Japanese dish often includes raw fish?	Sushi
-20241119	3	D. Foods Around the World	What is France's famous flaky pastry called?	Croissant
-20241119	4	D. Foods Around the World	What spice is often used in Indian curry?	Turmeric
-20241119	5	D. Foods Around the World	What fermented cabbage dish is popular in Korea?	Kimchi
-20241119	1	E. Historic Wars	What war began in 1914 and ended in 1918?	World War I
-20241119	2	E. Historic Wars	Who was the U.S. president during the Civil War?	Abraham Lincoln
-20241119	3	E. Historic Wars	Which conflict lasted from 1955 to 1975 in Vietnam?	Vietnam War
-20241119	4	E. Historic Wars	What war was fought between Athens and Sparta?	Peloponnesian
-20241119	5	E. Historic Wars	What war did the Battle of Hastings occur in?	Norman Conquest
+1	A. Lakes and Rivers	What is the largest freshwater lake by surface area?	Lake Superior
+2	A. Lakes and Rivers	Which river flows through Egypt?	Nile
+3	A. Lakes and Rivers	What is the longest river in South America?	Amazon
+4	A. Lakes and Rivers	Which river forms part of the border between Texas and Mexico?	Rio Grande
+5	A. Lakes and Rivers	What lake is known as the "Jewel of the Sierra"?	Lake Tahoe
+1	B. Fairy Tales	Who lived in a house made of candy in the forest?	Hansel Gretel
+2	B. Fairy Tales	What fruit caused Snow White to fall asleep?	Apple
+3	B. Fairy Tales	What was Cinderella's carriage made from?	Pumpkin
+4	B. Fairy Tales	Who spun straw into gold for a queen?	Rumpelstiltskin
+5	B. Fairy Tales	Who climbed a beanstalk and found a giant?	Jack
+1	C. Olympic Sports	What sport uses a vaulting pole?	Pole Vault
+2	C. Olympic Sports	In which sport do athletes perform flips on a bar?	Gymnastics
+3	C. Olympic Sports	What Olympic sport involves swords?	Fencing
+4	C. Olympic Sports	What Olympic sport uses a shuttlecock?	Badminton
+5	C. Olympic Sports	Which Olympic event combines skiing and shooting?	Biathlon
+1	D. Foods Around the World	Which Italian dish is made with thin dough and toppings?	Pizza
+2	D. Foods Around the World	Which Japanese dish often includes raw fish?	Sushi
+3	D. Foods Around the World	What is France's famous flaky pastry called?	Croissant
+4	D. Foods Around the World	What spice is often used in Indian curry?	Turmeric
+5	D. Foods Around the World	What fermented cabbage dish is popular in Korea?	Kimchi
+1	E. Historic Wars	What war began in 1914 and ended in 1918?	World War I
+2	E. Historic Wars	Who was the U.S. president during the Civil War?	Abraham Lincoln
+3	E. Historic Wars	Which conflict lasted from 1955 to 1975 in Vietnam?	Vietnam War
+4	E. Historic Wars	What war was fought between Athens and Sparta?	Peloponnesian
+5	E. Historic Wars	What war did the Battle of Hastings occur in?	Norman Conquest
