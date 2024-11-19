@@ -93,6 +93,16 @@ function recordAnswer(knewIt) {
     }
 }
 
+// Navigate to the previous question
+function goToLastQuestion() {
+    if (currentQuestionIndex > 0) {
+        currentQuestionIndex--; // Move to the previous question
+        displayQuestion(); // Update the display
+    } else {
+        console.log('Already at the first question.'); // Optional: Log if at the first question
+    }
+}
+
 // Start reviewing missed questions
 function startReview() {
     reviewingMissedQuestions = true;
