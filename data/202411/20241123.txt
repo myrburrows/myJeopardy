@@ -1,0 +1,25 @@
+1	A. Chemistry	What gas do plants use in photosynthesis?	Carbon Dioxide
+2	A. Chemistry	What element has the atomic number 1?	Hydrogen
+3	A. Chemistry	What is the chemical formula for water?	H2O
+4	A. Chemistry	What is the symbol for gold?	Au
+5	A. Chemistry	What is the periodic table symbol for iron?	Fe
+1	B. Famous Landmarks	Where is the Statue of Liberty?	New York
+2	B. Famous Landmarks	What tower is located in Paris, France?	Eiffel Tower
+3	B. Famous Landmarks	What is the name of the ancient amphitheater in Rome?	Colosseum
+4	B. Famous Landmarks	What landmark is located in Agra, India?	Taj Mahal
+5	B. Famous Landmarks	The tallest building in the world. It's in Dubai UAE, 2717 feet.	Burj Khalifa
+1	C. U.S. Presidents	Who was the first U.S. president?	George Washington
+2	C. U.S. Presidents	Which U.S. president was known as "Honest Abe"?	Abraham Lincoln
+3	C. U.S. Presidents	Which president signed the Emancipation Proclamation?	Abraham Lincoln
+4	C. U.S. Presidents	Who was the U.S. president during the Great Depression?	Herbert Hoover
+5	C. U.S. Presidents	Who was the 32nd president of the United States?	Franklin Roosevelt
+1	D. Unsolved Mysteries	What is the name of the mysterious creature in Loch Ness?	Nessie
+2	D. Unsolved Mysteries	What is the name of the lost city of gold?	El Dorado
+3	D. Unsolved Mysteries	What ancient city vanished beneath the sea?	Atlantis
+4	D. Unsolved Mysteries	Who was Jack the Ripper?	Unknown, never solved
+5	D. Unsolved Mysteries	What ship’s crew disappeared in the Bermuda Triangle?	Mary Celeste
+1	E. Hollywood Couples	Who were known as "Brangelina"?	Brad Pitt, Angelina Jolie
+2	E. Hollywood Couples	Who are the longtime couple from "Grease"?	D Zuko, Sandy Olsson
+3	E. Hollywood Couples	Who are the actors in "Mr. & Mrs. Smith"?	Brad Pitt, Angelina Jolie
+4	E. Hollywood Couples	Who is Goldie Hawn’s longtime partner?	Kurt Russell
+5	E. Hollywood Couples	Who starred in "The Notebook" together?	Gosling,  McAdams

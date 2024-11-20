@@ -1,0 +1,25 @@
+1	A. British Royalty	The current King of the United Kingdom since 9/8/2022?	Charles III
+2	A. British Royalty	Who was the longest-reigning British monarch (70 years)?	Elizabeth II
+3	A. British Royalty	Which British king abdicated the throne in 1936?	Edward VIII
+4	A. British Royalty	Known as the Virgin Queen -- no husband, no children?	Elizabeth I
+5	A. British Royalty	Which king signed the Magna Carta in 1215?	King John (no John II)
+1	B. Famous Battles	Where was Napoleon defeated in 1815?	Waterloo
+2	B. Famous Battles	What was the turning point battle in WWII Europe (1942-43)?	Stalingrad
+3	B. Famous Battles	Where was D-Day launched (began 6/6/1944)?	Normandy
+4	B. Famous Battles	The first major battle of the U.S. Civil War (7/21/1861)	Bull Run
+5	B. Famous Battles	Where did the Spartans make their stand in 480 BC?	Thermopylae
+1	C. Famous Duos	Who are the two brothers in "Super Mario"?	Mario and Luigi
+2	C. Famous Duos	Who is Sherlock Holmes' partner?	Dr. John Watson
+3	C. Famous Duos	Who are the two best-known "Dynamic Duo"?	Batman and Robin
+4	C. Famous Duos	Who starred as Woody and Buzz Lightyear?	Tom Hanks, Tim Allen
+5	C. Famous Duos	Who sang "Endless Love" together?	Lionel Richie, Diana Ross
+1	D. Spelling Bee	Spell the R word meaning "to quit voluntarily."	Resign
+2	D. Spelling Bee	Spell the H word for a strong windstorm.	Hurricane
+3	D. Spelling Bee	Spell the A word meaning "of or relating to beauty."	Aesthetic
+4	D. Spelling Bee	Spell the H word for an "educated guess."	Hypothesis
+5	D. Spelling Bee	Spell the Super word meaning "beyond what is required."	Superfluous
+1	E. World Flags	What country's flag has a red circle on a white background?	Japan
+2	E. World Flags	Which country has a maple leaf on its flag?	Canada
+3	E. World Flags	What Nordic country’s flag is blue with a yellow cross?	Sweden
+4	E. World Flags	Which country’s flag has a dragon on it?	Bhutan
+5	E. World Flags	What African country’s flag has green, yellow, and red stripes?	Ghana
