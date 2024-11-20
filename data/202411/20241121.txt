@@ -1,0 +1,25 @@
+1	A. Broadway Musicals	What musical is about a witch and a good witch?	Wicked
+2	A. Broadway Musicals	Which musical features the song "Memory"?	Cats
+3	A. Broadway Musicals	What musical is based on Alexander Hamilton's life?	Hamilton
+4	A. Broadway Musicals	Which musical is about the French Revolution?	Les Misérables
+5	A. Broadway Musicals	What musical is set at Rydell High School?	Grease
+1	B. a, b, c, d, e	List of items, often found at the end of a book, for additional details	Appendix
+2	B. a, b, c, d, e	A phrase used to describe someone becoming extremely angry: Going	Ballistic
+3	B. a, b, c, d, e	The hard, protective outer covering found on crabs and other arthropods?	Carapace
+4	B. a, b, c, d, e	Communications pro who receives and sends info to coordinate ops	Dispatcher
+5	B. a, b, c, d, e	Spiral-horned African antelope, the largest of the antelopes.	Eland
+1	C. Fictional Places	Where does Superman live?	Metropolis
+2	C. Fictional Places	What fictional city is home to Batman?	Gotham
+3	C. Fictional Places	Where is the Shire located?	Middle-earth
+4	C. Fictional Places	What is the name of Harry Potter's school?	Hogwarts
+5	C. Fictional Places	What fictional place is ruled by Aslan?	Narnia
+1	D. Science Fiction	What is the name of the ship in Star Trek?	Enterprise
+2	D. Science Fiction	Who is the author of "Dune"?	Frank Herbert
+3	D. Science Fiction	What is the term for a robot with human features?	Android
+4	D. Science Fiction	What is the term for faster-than-light travel?	Warp Drive
+5	D. Science Fiction	What device powers a lightsaber?	Kyber Crystal
+1	E. Famous Paintings	Who painted "Mona Lisa"?	Leonardo da Vinci
+2	E. Famous Paintings	Who painted "The Starry Night"?	Vincent van Gogh
+3	E. Famous Paintings	Who painted "The Last Supper"?	Leonardo da Vinci
+4	E. Famous Paintings	What painting shows a woman holding an ermine?	Lady with an Ermine
+5	E. Famous Paintings	What painting features melting clocks?	Persistence of Memory
