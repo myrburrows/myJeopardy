@@ -1,0 +1,25 @@
+1	A. Musical Groups with Five	"Aquarius/Let the Sunshine In"	The Fifth Dimension
+2	A. Musical Groups with Five	"Never Can Say Goodbye", "One Bad Apple", "I'll Be There"	The Jackson Five
+3	A. Musical Groups with Five	"Love Shack"	B-52s
+4	A. Musical Groups with Five	"Glad All Over"	Dave Clark Five
+5	A. Musical Groups with Five	Miles Davis's group	Miles Davis Quintet
+1	B. Iconic Roads	What road stretches from Chicago to Los Angeles?	Route 66
+2	B. Iconic Roads	What is the longest national highway in Canada?	Trans-Canada Highway
+3	B. Iconic Roads	What road is historically known as the ancient trade route?	Silk Road
+4	B. Iconic Roads	What is the highway that runs along California's coast?	Pacific Coast Highway
+5	B. Iconic Roads	What road leads to the Acropolis in Athens?	Panathenaic Way
+1	C. Global Religions	What religion is based on the teachings of Jesus Christ?	Christianity
+2	C. Global Religions	What religion's sacred text is the Quran?	Islam
+3	C. Global Religions	What religion follows the teachings of Buddha?	Buddhism
+4	C. Global Religions	What religion originated in Israel around 2000 BCE?	Judaism
+5	C. Global Religions	What is the primary religion of India?	Hinduism
+1	D. Native American Tribes	What tribe was famously associated with Pocahontas?	Powhatan
+2	D. Native American Tribes	What is the largest Native American tribe in the U.S.?	Navajo
+3	D. Native American Tribes	Which tribe was part of the Iroquois Confederacy?	Mohawk
+4	D. Native American Tribes	Which Great Plains tribe followed the buffalo herds?	Sioux
+5	D. Native American Tribes	What tribe was forced on the Trail of Tears?	Cherokee
+1	E. Medieval Kings	Who was known as the Lionheart?	Richard I
+2	E. Medieval Kings	Who signed the Magna Carta in 1215?	King John
+3	E. Medieval Kings	What French king was called "The Sun King"?	Louis XIV
+4	E. Medieval Kings	What king led England during the Battle of Hastings?	William I
+5	E. Medieval Kings	Which king was famously killed in his sleep at Stirling?	James I

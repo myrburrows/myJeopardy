@@ -1,0 +1,25 @@
+1	A. Proverbial Wisdom	"Actions speak louder than..."?	Words
+2	A. Proverbial Wisdom	"The early bird catches the..."?	Worm
+3	A. Proverbial Wisdom	"A stitch in time saves..."?	Nine
+4	A. Proverbial Wisdom	"All that glitters is not..."?	Gold
+5	A. Proverbial Wisdom	"Don't bite the hand that..."?	feeds you
+1	B. Famous Speeches	Who gave the "I Have a Dream" speech?	Martin Luther King Jr.
+2	B. Famous Speeches	Who delivered the Gettysburg Address?	Abraham Lincoln
+3	B. Famous Speeches	Who warned "The British are coming"?	Paul Revere
+4	B. Famous Speeches	Who said, "Tear down this wall!"?	Ronald Reagan
+5	B. Famous Speeches	Who declared, "Give me liberty, or give me death"?	Patrick Henry
+1	C. Famous Castles	What castle houses the British Crown Jewels?	Tower of London
+2	C. Famous Castles	What castle is linked to King Arthur's legend?	Camelot
+3	C. Famous Castles	What castle is the Queen's official residence in Scotland?	Balmoral
+4	C. Famous Castles	What is the iconic castle in Bavaria, Germany?	Neuschwanstein
+5	C. Famous Castles	What is the famous castle in Transylvania?	Bran
+1	D. Pirates and Explorers	What explorer "discovered" the Americas in 1492?	Columbus
+2	D. Pirates and Explorers	What explorer circumnavigated the globe?	Magellan
+3	D. Pirates and Explorers	Who is the pirate captain of the "Queen Anne's Revenge"?	Blackbeard
+4	D. Pirates and Explorers	Who was called "Blackbeard"?	Edward Teach
+5	D. Pirates and Explorers	Who founded the city of Quebec in 1608?	Samuel de Champlain
+1	E. Astronomy	Region where gravity is so strong that nothing can escape it.	Black Hole
+2	E. Astronomy	What is the hottest planet in our solar system?	Venus
+3	E. Astronomy	A day on this planet is longer than a year on this planet	Venus
+4	E. Astronomy	Rotating neutron stars with beams of electromagnetic radiation.	Pulsars
+5	E. Astronomy	The closest spiral galaxy to the Milky Way	Andromeda Galaxy
