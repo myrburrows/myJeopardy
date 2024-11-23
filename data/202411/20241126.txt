@@ -1,0 +1,25 @@
+1	A. Space Phenomena	Another name for a meteor - a streak of light from a meteorid	Shooting star
+2	A. Space Phenomena	What is the closest star system to Earth after the Sun?	Alpha Centauri
+3	A. Space Phenomena	The asteroid belt is between what two planets?	Mars and Jupiter
+4	A. Space Phenomena	What is the explosion of a dying massive star called?	Supernova
+5	A. Space Phenomena	What is the largest moon in our Solar System (Jupiter)	Ganymede
+1	B. Constellations	What constellation contains the Big Dipper?	Ursa Major
+2	B. Constellations	What constellation is known as the Hunter?	Orion
+4	B. Constellations	What is the zodiac constellation associated with a scorpion?	Scorpius
+5	B. Constellations	What is the smallest constellation by area?	Crux
+5	B. Constellations	What constellation resembles a winged horse?	Pegasus
+1	C. Fossil Finds	What type of fossilized tree resin is often golden and preserves ancient insects?	Amber
+2	C. Fossil Finds	What is the largest fossilized species of shark ever discovered?	Megalodon
+3	C. Fossil Finds	The name of the 3.2-million-year-old hominin fossil discovered in Ethiopia?	Lucy
+4	C. Fossil Finds	What is the site of a mass dinosaur fossil find in Canada called?	Dinosaur Provincial Park
+5	C. Fossil Finds	What dinosaur's fossils were first discovered by Mary Anning?	Ichthyosaurus
+1	D. Notable Inventions	Service, invented in 1971, used to send electronic messages over the internet?	Email
+2	D. Notable Inventions	What communication device did Alexander Graham Bell invent in 1876?	Telephone
+3	D. Notable Inventions	What 15th-century invention revolutionized book production?	Printing Press
+4	D. Notable Inventions	What device invented in 1590 helps scientists observe tiny organisms?	Microscope
+5	D. Notable Inventions	What is the engine patented by James Watt?	steam engine
+1	E. Aviation History	What famous female aviator disappeared in 1937 over the Pacific?	Amelia Earhart
+2	E. Aviation History	What U.S. aviator completed the first solo nonstop transatlantic flight?	Charles Lindbergh
+3	E. Aviation History	What was the name of the first airplane flown by the Wright brothers?	Flyer
+4	E. Aviation History	What is the name of the supersonic passenger jet retired in 2003?	Concorde
+5	E. Aviation History	What is the name of the stealth bomber nicknamed the "Spirit"?	B-2

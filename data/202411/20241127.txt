@@ -1,0 +1,25 @@
+1	A. Famous Painters	Who painted the "Mona Lisa"?	Leonardo da Vinci
+2	A. Famous Painters	Who is known for the painting "Starry Night"?	Vincent van Gogh
+3	A. Famous Painters	Who painted the ceiling of the Sistine Chapel?	Michelangelo
+4	A. Famous Painters	Who painted "The Persistence of Memory" with melting clocks?	Salvador Dalí
+5	A. Famous Painters	Created surreal painting "The Son of Man" with an apple?	René Magritte
+1	B. Sports Teams	What NBA team is based in Los Angeles and wears purple and gold?	Lakers
+2	B. Sports Teams	What team won the first Super Bowl in 1967?	Green Bay Packers
+3	B. Sports Teams	What is the nickname of the New York Yankees?	Bronx Bombers
+4	B. Sports Teams	What is the mascot of the Chicago Cubs?	Cubby Bear
+5	B. Sports Teams	What soccer team is based in Barcelona and nicknamed "Barça"?	FC Barcelona
+1	C. Famous Astronomers	Who first observed Jupiter's moons with a telescope?	Galileo Galilei
+2	C. Famous Astronomers	Who proposed the heliocentric model of the solar system?	Nicolaus Copernicus
+3	C. Famous Astronomers	Who cataloged over 1,000 stars in "The Almagest"?	Ptolemy
+4	C. Famous Astronomers	Who discovered the relationship between a star's brightness and distance?	Henrietta Leavitt
+5	C. Famous Astronomers	Who developed the laws of planetary motion?	Johannes Kepler
+1	D. Math and Numbers	What is the value of pi to 3 decimal places?	3.142
+2	D. Math and Numbers	What is 12 squared?	144
+3	D. Math and Numbers	What is the term for a number divisible only by 1 and itself?	Prime
+4	D. Math and Numbers	What is the name of the longest side of a right triangle?	Hypotenuse
+5	D. Math and Numbers	What is the mathematical constant symbolized by e?	Euler's Number
+1	E. The Renaissance	Painter of the famous work "The Last Supper"	Leonardo da Vinci
+2	E. The Renaissance	What is the term for Renaissance-era support of the arts by wealthy patrons?	Patronage
+3	E. The Renaissance	What city is considered the birthplace of the Renaissance?	Florence
+4	E. The Renaissance	Who wrote "The Prince," a political treatise of the Renaissance?	Niccolò Machiavelli
+5	E. The Renaissance	Who sculpted the bronze statue of David during the Renaissance?	Donatello
