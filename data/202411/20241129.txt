@@ -1,0 +1,25 @@
+1	A. Famous Cities	What city is nicknamed "The Big Apple"?	New York
+2	A. Famous Cities	What city is home to the Eiffel Tower?	Paris
+3	A. Famous Cities	What city is known as the "Eternal City"?	Rome
+4	A. Famous Cities	What city is famous for its canals and gondolas?	Venice
+5	A. Famous Cities	What city has the Clinton Presidential Library	Little Rock, Ark
+1	B. Classical Music	What stringed instrument is central to orchestras?	Violin
+2	B. Classical Music	What is the name of Beethoven's famous symphony about joy?	Symphony No. 9
+3	B. Classical Music	What composer wrote "Clair de Lune"?	Claude Debussy
+4	B. Classical Music	What is the musical term for playing softly?	Piano
+5	B. Classical Music	What famous opera by Verdi includes "La donna è mobile"?	Rigoletto
+1	C. Historical Artifacts	What is the stone tablet used to decode Egyptian hieroglyphs?	Rosetta Stone
+2	C. Historical Artifacts	What is the name of King Tut’s coffin?	Sarcophagus
+3	C. Historical Artifacts	What clay army was found in the tomb of China's first emperor?	Terracotta Army
+4	C. Historical Artifacts	In what city is the Ishtar Gate kept?	Berlin
+5	C. Historical Artifacts	What is the Viking ship found in Norway called?	Oseberg
+1	D. Legendary Weapons	What sword is associated with King Arthur?	Excalibur
+2	D. Legendary Weapons	What is Thor’s hammer called?	Mjolnir
+3	D. Legendary Weapons	Joy Buzzer and Acid Flower are weapons of what supervillain?	The Joker
+4	D. Legendary Weapons	What is the name of the weapon wielded by Zeus?	Thunderbolt
+5	D. Legendary Weapons	The Wolverines weapons were mad of adamantium.	His claws
+1	E. Comic Book Characters	What superhero is nicknamed the “Dark Knight”?	Batman
+2	E. Comic Book Characters	What character is known as the “Man of Steel”?	Superman
+3	E. Comic Book Characters	What Marvel character is the “God of Thunder”?	Thor
+4	E. Comic Book Characters	What character wields a vibranium shield?	Captain America
+5	E. Comic Book Characters	What comic book villain is also known as the “Clown Prince of Crime”?	The Joker

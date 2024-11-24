@@ -1,0 +1,25 @@
+1	A. Famous Dancers	Who is known for the dance "The Moonwalk"?	Michael Jackson
+2	A. Famous Dancers	Which famous dancer starred in "Singin' in the Rain"?	Gene Kelly
+3	A. Famous Dancers	Famous ballet dancer often called the “Lord of the Dance”?	Mikhail Baryshnikov
+4	A. Famous Dancers	Who founded the Martha Graham Dance Company?	Martha Graham
+5	A. Famous Dancers	Who choreographed "The Rite of Spring"?	Vaslav Nijinsky
+1	B. The Middle Ages	What is the period from 476 to 1453 often called?	Middle Ages
+2	B. The Middle Ages	What event in 1066 led to Norman control of England?	Battle of Hastings
+3	B. The Middle Ages	What pandemic killed millions in the 14th century?	Black Death
+4	B. The Middle Ages	What was the main economic system in medieval Europe?	Feudalism
+5	B. The Middle Ages	What war lasted from 1337 to 1453 between England and France?	Hundred Years’ War
+1	C. Classic Cars	What classic car is nicknamed the "Beetle"?	Volkswagen
+2	C. Classic Cars	What American car debuted in 1964 as a "pony car"?	Mustang
+3	C. Classic Cars	What classic car was used in the film "Back to the Future"?	DeLorean
+4	C. Classic Cars	What car is famously associated with James Bond?	Aston Martin
+5	C. Classic Cars	The Model T Ford, made from 1908-27, was called what?	Tin Lizzie
+1	D. Global Markets	What is the term for buying and selling goods internationally?	Trade
+2	D. Global Markets	What is the stock market index for the United States?	Dow Jones
+3	D. Global Markets	What currency is used by most countries in the European Union?	Euro
+4	D. Global Markets	What country is known for its “Silicon Valley of Asia”?	India
+5	D. Global Markets	What is the primary index for the Tokyo Stock Exchange?	Nikkei 225
+1	E. Famous Composers	Who wrote the "Messiah"?	George Handel
+2	E. Famous Composers	Who composed "Symphony No. 9"?	Ludwig van Beethoven
+3	E. Famous Composers	Who composed "The Four Seasons"?	Antonio Vivaldi
+4	E. Famous Composers	Who is the composer of "The Magic Flute"?	Wolfgang Mozart
+5	E. Famous Composers	Who composed the "Rite of Spring"?	Igor Stravinsky
