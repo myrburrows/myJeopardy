@@ -5,8 +5,8 @@
 5	A. Space Phenomena	What is the largest moon in our Solar System (Jupiter)	Ganymede
 1	B. Constellations	What constellation contains the Big Dipper?	Ursa Major
 2	B. Constellations	What constellation is known as the Hunter?	Orion
-4	B. Constellations	What is the zodiac constellation associated with a scorpion?	Scorpius
-5	B. Constellations	What is the smallest constellation by area?	Crux
+3	B. Constellations	What is the zodiac constellation associated with a scorpion?	Scorpius
+4	B. Constellations	What is the smallest constellation by area?	Crux
 5	B. Constellations	What constellation resembles a winged horse?	Pegasus
 1	C. Fossil Finds	What type of fossilized tree resin is often golden and preserves ancient insects?	Amber
 2	C. Fossil Finds	What is the largest fossilized species of shark ever discovered?	Megalodon

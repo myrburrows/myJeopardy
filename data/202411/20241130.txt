@@ -1,0 +1,25 @@
+1	A. Famous Brands	What company has the slogan "Just Do It"?	Nike
+2	A. Famous Brands	Which brand's logo is a bitten apple?	Apple
+3	A. Famous Brands	What fast food chain is famous for the Big Mac?	McDonald's
+4	A. Famous Brands	Which car brand uses a prancing horse as its logo?	Ferrari
+5	A. Famous Brands	What is the brand name of Google's parent company?	Alphabet
+1	B. World Deserts	This desert is the largest hot desert in the world.	Sahara
+2	B. World Deserts	What desert spans parts of Mongolia and China?	Gobi
+3	B. World Deserts	Which desert is located in the southwestern United States?	Mojave
+4	B. World Deserts	This vast sandy savanna is in southern Africa.	Kalahari Desert
+5	B. World Deserts	Name of the Chilian desert known for its extreme dryness?	Atacama
+1	C. Famous Explorers	What explorer led the first successful expedition to circumnavigate the globe?	Ferdinand Magellan
+2	C. Famous Explorers	Venetian merchant renowned for his travels in Asia	Marco Polo
+3	C. Famous Explorers	Who was the first European to reach India by sea?	Vasco da Gama
+4	C. Famous Explorers	What Norwegian explorer reached the South Pole in 1911?	Roald Amundsen
+5	C. Famous Explorers	Who explored the Mississippi River for France?	Robert La Salle
+1	D. Famous Movie Directors	Who directed the movie "Jurassic Park"?	Steven Spielberg
+2	D. Famous Movie Directors	Which director is famous for the movie "Pulp Fiction"?	Quentin Tarantino
+3	D. Famous Movie Directors	Who directed "The Godfather"?	Francis Ford Coppola
+4	D. Famous Movie Directors	Which female director won an Oscar for "The Hurt Locker"?	Kathryn Bigelow
+5	D. Famous Movie Directors	What director is known for "Inception" and "The Dark Knight"?	Christopher Nolan
+1	E. Cryptocurrencies	What is the first cryptocurrency ever created?	Bitcoin
+2	E. Cryptocurrencies	Which cryptocurrency is known for its smart contracts?	Ethereum
+3	E. Cryptocurrencies	What cryptocurrency's symbol is a dog?	Dogecoin
+4	E. Cryptocurrencies	Which cryptocurrency focuses on privacy and anonymity?	Monero
+5	E. Cryptocurrencies	What cryptocurrency is commonly used for cross-border payments?	Ripple
