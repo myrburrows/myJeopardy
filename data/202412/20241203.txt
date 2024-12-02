@@ -1,0 +1,25 @@
+1	A. Famous Lighthouses	What lighthouse is on a famous rock in California?	Alcatraz
+2	A. Famous Lighthouses	What ancient lighthouse was one of the Seven Wonders of the World?	Pharos of Alexandria
+3	A. Famous Lighthouses	What is the oldest lighthouse in the U.S.?	Sandy Hook
+4	A. Famous Lighthouses	What lighthouse is a UNESCO World Heritage Site in Canada?	Peggy's Cove
+5	A. Famous Lighthouses	What is the name of the lighthouse at the southern tip of Africa?	Cape Agulhas
+1	B. Famous Palaces	What is the residence of the British monarch in London?	Buckingham Palace
+2	B. Famous Palaces	What palace was built by Louis XIV in France?	Versailles
+3	B. Famous Palaces	What is the winter residence of the Russian tsars?	Hermitage
+4	B. Famous Palaces	What is the residence of the Pope in Vatican City?	Apostolic Palace
+5	B. Famous Palaces	What is the palace of the Dalai Lama in Tibet?	Potala Palace
+1	C. Military Conflicts	What war was fought between the North and South in the U.S.?	Civil War
+2	C. Military Conflicts	What conflict involved trench warfare in the early 20th century?	World War I
+3	C. Military Conflicts	What war was fought between Athens and Sparta in ancient Greece?	Peloponnesian
+4	C. Military Conflicts	What was the war between England and France lasting over 100 years?	Hundred Years' War
+5	C. Military Conflicts	What global conflict ended in 1945?	World War II
+1	D. History of Computers	What company released the first personal computer?	IBM
+2	D. History of Computers	What device revolutionized handheld computing in 2007?	iPhone
+3	D. History of Computers	Who is considered the father of modern computing?	Alan Turing
+4	D. History of Computers	What machine was the first programmable computer?	Zuse Z3
+5	D. History of Computers	What programming language was invented by Dennis Ritchie?	C
+1	E. Famous Authors	Who wrote "Pride and Prejudice"?	Jane Austen
+2	E. Famous Authors	Who wrote "1984"?	George Orwell
+3	E. Famous Authors	Who wrote "The Great Gatsby"?	F. Scott Fitzgerald
+4	E. Famous Authors	Who wrote "To Kill a Mockingbird"?	Harper Lee
+5	E. Famous Authors	Who wrote "The Catcher in the Rye"?	J.D. Salinger

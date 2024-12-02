@@ -1,0 +1,25 @@
+1	A. Famous Women in History	Who was the first woman to fly solo across the Atlantic?	Amelia Earhart
+2	A. Famous Women in History	Who was the first woman to win a Nobel Prize?	Marie Curie
+3	A. Famous Women in History	Who led the women's suffrage movement in the U.S.?	Susan B. Anthony
+4	A. Famous Women in History	Who was the British prime minister known as the "Iron Lady"?	Margaret Thatcher
+5	A. Famous Women in History	Who founded the Missionaries of Charity?	Mother Teresa
+1	B. Military Ranks	What is the lowest enlisted rank in the U.S. Army?	Private
+2	B. Military Ranks	What is the title for the leader of a Navy ship?	Captain
+3	B. Military Ranks	What is the highest rank in the U.S. Army?	General
+4	B. Military Ranks	What is the naval equivalent of an Army captain?	Lieutenant
+5	B. Military Ranks	What rank follows major in the Army?	Lieutenant Colonel
+1	C. The Industrial Revolution	What invention allowed communication over long distances in the 19th century?	Telegraph
+2	C. The Industrial Revolution	Who improved the steam engine in 1765?	James Watt
+3	C. The Industrial Revolution	What industry was the primary driver of the Industrial Revolution?	Textile
+4	C. The Industrial Revolution	What movement organized labor during the Industrial Revolution?	Trade Unions
+5	C. The Industrial Revolution	What machine revolutionized the cotton industry in the 18th century?	Cotton Gin
+1	D. Asian Cuisine	What rice dish is a staple of Chinese cuisine?	Fried Rice
+2	D. Asian Cuisine	What Japanese dish consists of raw fish and rice?	Sushi
+3	D. Asian Cuisine	What Korean dish is fermented cabbage?	Kimchi
+4	D. Asian Cuisine	What Indian bread is baked in a tandoor?	Naan
+5	D. Asian Cuisine	What Thai dish is made with stir-fried noodles?	Pad Thai
+1	E. Famous Entrepreneurs	Who founded Microsoft?	Bill Gates
+2	E. Famous Entrepreneurs	Who founded Amazon?	Jeff Bezos
+3	E. Famous Entrepreneurs	Who founded Tesla and SpaceX?	Elon Musk
+4	E. Famous Entrepreneurs	Who founded Facebook?	Mark Zuckerberg
+5	E. Famous Entrepreneurs	Who founded the Ford Motor Company?	Henry Ford
