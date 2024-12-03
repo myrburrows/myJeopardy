@@ -1,0 +1,25 @@
+1	A. Famous Comedians	What comedian created the "Seinfeld" show?	Jerry Seinfeld
+2	A. Famous Comedians	What comedian starred in "Mrs. Doubtfire"?	Robin Williams
+3	A. Famous Comedians	Who hosted "The Tonight Show" before Jay Leno?	Johnny Carson
+4	A. Famous Comedians	Who starred in "The Tramp"?	Charlie Chaplin
+5	A. Famous Comedians	Who is known for the comedy special "Raw"?	Eddie Murphy
+1	B. Art Movements	What art movement is known for abstract forms and bright colors?	Cubism
+2	B. Art Movements	What movement included Claude Monet and landscapes?	Impressionism
+3	B. Art Movements	What surrealist painted melting clocks?	Salvador Dalí
+4	B. Art Movements	What movement rejected traditional forms in the 20th century?	Modernism
+5	B. Art Movements	What art movement focused on consumer culture?	Pop Art
+1	C. Dinosaurs	What dinosaur is known as the "King of the Dinosaurs"?	Tyrannosaurus Rex
+2	C. Dinosaurs	What dinosaur is known for its three horns?	Triceratops
+3	C. Dinosaurs	What flying reptile lived during the dinosaur era?	Pteranodon or Pterodactylus
+4	C. Dinosaurs	What herbivorous dinosaur had a long neck?	Brachiosaurus
+5	C. Dinosaurs	What armored dinosaur had a club tail?	Ankylosaurus
+1	D. Tropical Islands	What island state is famous for hula dancing?	Hawaii
+2	D. Tropical Islands	What island is known for its giant stone statues?	Easter Island
+3	D. Tropical Islands	Where lemurs are found in the Indian Ocean?	Madagascar
+4	D. Tropical Islands	What tropical island is home to Bora Bora?	Tahiti
+5	D. Tropical Islands	What Caribbean island is known for reggae music?	Jamaica
+1	E. Olympic Records	Who holds the record for most Olympic gold medals (23)?	Michael Phelps
+2	E. Olympic Records	Most iconic figure in sprinting history, retired in 2017	Usain Bolt
+3	E. Olympic Records	What country has hosted the Summer Olympics the most times?	United States
+4	E. Olympic Records	What athlete won four gold medals in the 1936 Olympics?	Jesse Owens
+5	E. Olympic Records	What Olympic event involves skiing and shooting?	Biathlon

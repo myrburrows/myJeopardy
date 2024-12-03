@@ -1,0 +1,25 @@
+1	A. Iconic Historical Paintings	What painting shows a woman with a mysterious smile?	Mona Lisa
+2	A. Iconic Historical Paintings	What mural was painted by Leonardo da Vinci?	The Last Supper
+3	A. Iconic Historical Paintings	What painting depicts a farmer and his daughter?	American Gothic
+4	A. Iconic Historical Paintings	What painting shows melting clocks?	The Persistence of Memory
+5	A. Iconic Historical Paintings	What painting by Edvard Munch shows a figure holding their face?	The Scream
+1	B. Jazz Legends	Who is known as the "Satchmo" of jazz?	Louis Armstrong
+2	B. Jazz Legends	Who was called the "First Lady of Song"?	Ella Fitzgerald
+3	B. Jazz Legends	Who played saxophone in the jazz album "Kind of Blue"?	John Coltrane
+4	B. Jazz Legends	Who is the composer of "Take Five"?	Dave Brubeck
+5	B. Jazz Legends	Who is a jazz trumpeter famous for "So What"?	Miles Davis
+1	C. Unusual Plants	What plant eats insects?	Venus Flytrap
+2	C. Unusual Plants	What tree is known for its upside-down appearance?	Baobab
+3	C. Unusual Plants	What plant is used to make tequila?	Agave
+4	C. Unusual Plants	What flower blooms only at night?	Night-Blooming Cereus
+5	C. Unusual Plants	What is the world's largest flower?	Rafflesia
+1	D. National Anthems	What is the national anthem of the United States?	Star-Spangled Banner
+2	D. National Anthems	What is the national anthem of Canada?	O Canada
+3	D. National Anthems	What is the French national anthem called?	La Marseillaise
+4	D. National Anthems	What is Germany's national anthem?	Deutschlandlied
+5	D. National Anthems	What is the name of South Africa’s anthem?	Nkosi Sikelel' iAfrika
+1	E. Ballet and Dance	What is a classical ballet often performed at Christmas?	The Nutcracker
+2	E. Ballet and Dance	What famous ballet features a swan queen?	Swan Lake
+3	E. Ballet and Dance	Who is a legendary ballet dancer known as "Lord of the Dance"?	Rudolf Nureyev
+4	E. Ballet and Dance	What style of dance involves spinning on a pole?	Pole Dance
+5	E. Ballet and Dance	What Broadway show features Fosse-style choreography?	Chicago
