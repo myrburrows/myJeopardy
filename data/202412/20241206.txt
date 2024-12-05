@@ -1,0 +1,25 @@
+1	A. Famous Fables	What is the moral of "The Tortoise and the Hare"?	Slow and steady
+2	A. Famous Fables	Who blew houses down in "The Three Little Pigs"?	Big Bad Wolf
+3	A. Famous Fables	Which fable teaches not to cry for help unnecessarily?	The Boy Who Cried Wolf
+4	A. Famous Fables	What animal did Androcles help in his fable?	Lion
+5	A. Famous Fables	"The Crow and the Pitcher" is a fable of what ancient Grecian storyteller?	Aesop
+1	B. African Geography	What is the largest desert in Africa?	Sahara
+2	B. African Geography	Which river is the longest in Africa?	Nile
+3	B. African Geography	Which mountain is Africa's highest peak?	Kilimanjaro
+4	B. African Geography	Which African country has Timbuktu?	Mali
+5	B. African Geography	What island nation is east of Mozambique?	Madagascar
+1	C. Famous Ships	What ship famously sank in 1912?	Titanic
+2	C. Famous Ships	What ship did Christopher Columbus sail on his first voyage?	Santa Maria
+3	C. Famous Ships	Which ship's mutiny became legendary?	Bounty
+4	C. Famous Ships	What British ship fought in the Battle of Trafalgar?	Victory
+5	C. Famous Ships	Which ship helped discover the wreck of the Titanic?	Knorr
+1	D. Explorers of the New World	Who accomplished the Europdean "discovery" of America in 1492?	Christopher Columbus
+2	D. Explorers of the New World	Which explorer circumnavigated the globe?	Ferdinand Magellan
+3	D. Explorers of the New World	Who explored the Mississippi River for France?	Robert La Salle
+4	D. Explorers of the New World	Who searched for the Fountain of Youth?	Juan Ponce de León
+5	D. Explorers of the New World	Who was the first European to reach India by sea?	Vasco da Gama
+1	E. The Roaring Twenties	What economic era followed World War I?	Roaring Twenties
+2	E. The Roaring Twenties	What music style became popular in the 1920s?	Jazz
+3	E. The Roaring Twenties	What illegal business thrived due to Prohibition?	Bootlegging
+4	E. The Roaring Twenties	What happened on Black Monday, 10/28/1929?	Stock market crash
+5	E. The Roaring Twenties	What dance craze, energetic with swinging movements, was famous in the 1920s?	Charleston
