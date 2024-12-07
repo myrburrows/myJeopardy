@@ -1,6 +1,6 @@
 1	A. 1800s Congressmen	Folklore, Faustian tale features a legendary lawyer and orafor.	The Devil and Daniel Webster
 2	A. 1800s Congressmen	States' rights secessionist leading figure from S. Carolina	John C. Calhoun
-3	A. 1800s Congressmen	"The Great Compromiiser" from Kentucky brokered the Missouri Compromise (1820)	Henry Clay
+3	A. 1800s Congressmen	"The Great Compromiser" from Kentucky brokered the Missouri Compromise (1820)	Henry Clay
 4	A. 1800s Congressmen	Abraham Lincoln was a congressman from what state?	Illinois
 5	A. 1800s Congressmen	Radical Republican of Pennsylnavia has a key role in the 14th amendment	Thaddeus Stevens
 1	B. Famous Stage Plays	Who wrote "Romeo and Juliet"?	William Shakespeare
