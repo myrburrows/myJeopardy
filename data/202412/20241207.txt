@@ -1,0 +1,25 @@
+1	A. 1800s Congressmen	Folklore, Faustian tale features a legendary lawyer and orafor.	The Devil and Daniel Webster
+2	A. 1800s Congressmen	States' rights secessionist leading figure from S. Carolina	John C. Calhoun
+3	A. 1800s Congressmen	"The Great Compromiiser" from Kentucky brokered the Missouri Compromise (1820)	Henry Clay
+4	A. 1800s Congressmen	Abraham Lincoln was a congressman from what state?	Illinois
+5	A. 1800s Congressmen	Radical Republican of Pennsylnavia has a key role in the 14th amendment	Thaddeus Stevens
+1	B. Famous Stage Plays	Who wrote "Romeo and Juliet"?	William Shakespeare
+2	B. Famous Stage Plays	What play features the character Willy Loman?	Death of a Salesman
+3	B. Famous Stage Plays	What play is about an orphaned girl who meets the King of Siam?	The King and I
+4	B. Famous Stage Plays	What play features Eliza Doolittle?	My Fair Lady
+5	B. Famous Stage Plays	What play is set in Grover's Corners?	Our Town
+1	C. Famous Inventors	Who invented the telephone?	Alexander Bell
+2	C. Famous Inventors	Who invented the light bulb?	Thomas Edison
+3	C. Famous Inventors	Who invented the printing press?	Johannes Gutenberg
+4	C. Famous Inventors	Who invented the airplane?	Wright Brothers
+5	C. Famous Inventors	Who invented the World Wide Web?	Tim Berners-Lee
+1	D. Famous Historical Letters	What document began "Four score and seven years ago"?	Gettysburg Address
+2	D. Famous Historical Letters	Who wrote the letter "I Have a Dream"?	Martin Luther King
+3	D. Famous Historical Letters	What letter declared American independence?	Declaration of Independence
+4	D. Famous Historical Letters	What letter announced emancipation in the U.S.?	Emancipation Proclamation
+5	D. Famous Historical Letters	Who wrote "Letter from Birmingham Jail"?	Martin Luther King
+1	E. Famous Dogs	Dorothy's loyal Cairn Terrier in "The Wizard of Oz"	Toto
+2	E. Famous Dogs	A Rough Collie known for heroic acts to save family members.	Lassie
+3	E. Famous Dogs	A German Shepher became a Hollywood star in the 1920s	Rin Tin Tin
+4	E. Famous Dogs	A stray dog from Moscow orbitted Earth in 1957	Laika
+5	E. Famous Dogs	A Siberian Husky helped deliver medicine to Nome, Alaska.	Balto
