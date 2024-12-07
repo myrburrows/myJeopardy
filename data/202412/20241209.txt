@@ -1,0 +1,25 @@
+1	A. Famous Airplanes	What was the first airplane to fly?	Wright Flyer
+2	A. Famous Airplanes	What British fighter plane was used in WWII?	Spitfire
+3	A. Famous Airplanes	What plane dropped the first atomic bomb?	Enola Gay
+4	A. Famous Airplanes	What airplane is nicknamed the "Dreamliner"?	Boeing 787
+5	A. Famous Airplanes	What is the largest passenger plane?	A380
+1	B. Famous Poems	What poem starts with "Once upon a midnight dreary"?	The Raven
+2	B. Famous Poems	Who wrote "The Road Not Taken"?	Robert Frost
+3	B. Famous Poems	What epic poem tells the story of a Trojan War hero?	The Iliad
+4	B. Famous Poems	What poem describes a tiger "burning bright"?	The Tyger
+5	B. Famous Poems	What poem contains the line "Do not go gentle into that good night"?	Villanelle
+1	C. Famous Pyramids	What pyramid is the tallest in Egypt?	Great Pyramid
+2	C. Famous Pyramids	What pyramid was built by Pharaoh Sneferu?	Bent Pyramid
+3	C. Famous Pyramids	What pyramid is guarded by the Sphinx?	Khafre's Pyramid
+4	C. Famous Pyramids	What is the largest pyramid in Mexico?	Cholula
+5	C. Famous Pyramids	What pyramid is part of the Mayan city of Chichen Itza?	El Castillo
+1	D. Famous Knights	Who was King Arthur’s best knight?	Lancelot
+2	D. Famous Knights	Who is famous for slaying a dragon?	Saint George
+3	D. Famous Knights	Who found the Holy Grail in Arthurian legend?	Galahad
+4	D. Famous Knights	Who was the knight of the "green sash"?	Sir Gawain
+5	D. Famous Knights	Who was the first knight of Camelot?	Sir Ector
+1	E. Famous Renaissance Artists	Who painted the ceiling of the Sistine Chapel?	Michelangelo
+2	E. Famous Renaissance Artists	Who painted the Mona Lisa?	Leonardo da Vinci
+3	E. Famous Renaissance Artists	Who painted The Last Supper?	Leonardo da Vinci
+4	E. Famous Renaissance Artists	Who created The Birth of Venus?	Botticelli
+5	E. Famous Renaissance Artists	Who painted The School of Athens?	Raphael

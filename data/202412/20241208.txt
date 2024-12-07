@@ -1,0 +1,25 @@
+1	A. Bridges and Tunnels	What bridge connects San Francisco and Marin County?	Golden Gate
+2	A. Bridges and Tunnels	What New York bridge connects Manhattan to Brooklyn?	Brooklyn Bridge
+3	A. Bridges and Tunnels	What bridge in Sydney, Australia, is nicknamed "The Coathanger"?	Sydney Harbour
+4	A. Bridges and Tunnels	What famous bridge in London was built in 1894?	Tower Bridge
+5	A. Bridges and Tunnels	What is the longest bridge in the world?	Danyang-Kunshan
+1	B. Winter Olympics	What sport uses a stone and a broom?	Curling
+2	B. Winter Olympics	What Winter Olympic event features a halfpipe?	Snowboarding
+3	B. Winter Olympics	What country has won the most Winter Olympic medals?	Norway
+4	B. Winter Olympics	What Winter Olympic event includes ski jumping, cross-country skiing, and shooting?	Biathlon
+5	B. Winter Olympics	What year were the first Winter Olympics held?	1924
+1	C. National Parks of Europe	Which country has the Swiss National Park?	Switzerland
+2	C. National Parks of Europe	What country is home to Doñana National Park?	Spain
+3	C. National Parks of Europe	What European national park is known for its fjords?	Jostedalsbreen
+4	C. National Parks of Europe	What country is Plitvice Lakes National Park in?	Croatia
+5	C. National Parks of Europe	What is the largest national park in Europe?	Vatnajökull
+1	D. The Seven Wonders	What is the only ancient wonder still standing?	Great Pyramid
+2	D. The Seven Wonders	Which wonder was built in Babylon?	Hanging Gardens
+3	D. The Seven Wonders	What statue in Rhodes was an ancient wonder?	Colossus of Rhodes
+4	D. The Seven Wonders	What wonder featured a giant lighthouse?	Lighthouse of Alexandria
+5	D. The Seven Wonders	What ancient wonder was built in Ephesus?	Temple of Artemis
+1	E. Famous Sculptures	What statue represents freedom in New York Harbor?	Statue of Liberty
+2	E. Famous Sculptures	What sculpture is Michelangelo famous for creating?	David
+3	E. Famous Sculptures	What sculpture was created by Auguste Rodin?	The Thinker
+4	E. Famous Sculptures	What sculpture is found at Mount Rushmore?	Presidents
+5	E. Famous Sculptures	What sculpture features a mother and children in Vietnam?	Mother Heroine
