@@ -1,0 +1,25 @@
+1	A. Central American Animals	What is the largest cat species native to Central America?	Jaguar
+2	A. Central American Animals	What species of monkey is commonly found in Central American rainforests?	Howler Monkey
+3	A. Central American Animals	What reptile is famous for its ability to change color and is native to Central America?	Green Iguana
+4	A. Central American Animals	What amphibian is known for its bright red eyes and vibrant green body?	Red-Eyed Tree Frog
+5	A. Central American Animals	What brightly colored bird is known for its long tail feathers?	Resplendent Quetzal
+1	B. Gemstones	What clear gemstone is the hardest substance?	Diamond
+2	B. Gemstones	What gemstone is red and symbolizes love?	Ruby
+3	B. Gemstones	What gemstone is green and often found in Colombia?	Emerald
+4	B. Gemstones	What blue gemstone is associated with September?	Sapphire
+5	B. Gemstones	What purple gemstone is associated with February?	Amethyst
+1	C. Logic and Puzzles	What is a puzzle that uses words and definitions?	Crossword
+2	C. Logic and Puzzles	What puzzle involves matching edges of pieces?	Jigsaw
+3	C. Logic and Puzzles	What puzzle uses numbers in a grid?	Sudoku
+4	C. Logic and Puzzles	What puzzle has a cube with six colored faces?	Rubik's Cube
+5	C. Logic and Puzzles	What logic game features "knights and knaves"?	Liar Puzzle
+1	D. Inventions and Discoveries	Who proposed the theory of evolution?	Charles Darwin
+2	D. Inventions and Discoveries	What woman coined the term radioactivity?	Madame Marie Curie
+3	D. Inventions and Discoveries	Watson and Crick discovered what structure of DNA?	Double Helix
+4	D. Inventions and Discoveries	Who discovered penicillin?	Alexander Fleming
+5	D. Inventions and Discoveries	What Navy officer invented the first compiler for computer programming?	Admiral Grace Hopper
+1	E. Architecture Styles	What is the style of ancient Greek columns?	Doric
+2	E. Architecture Styles	What style features pointed arches and spires?	Gothic
+3	E. Architecture Styles	What style is known for domes and mosaics?	Byzantine
+4	E. Architecture Styles	What modern style emphasizes simplicity?	Minimalist
+5	E. Architecture Styles	What style includes elaborate scrolls and carvings?	Baroque

@@ -1,0 +1,25 @@
+1	A. Cryptids	What is Scotland's famous lake monster?	Loch Ness
+2	A. Cryptids	What cryptid is called Bigfoot?	Sasquatch
+3	A. Cryptids	What cryptid is said to inhabit the Himalayas?	Yeti
+4	A. Cryptids	What cryptid haunts West Virginia?	Mothman
+5	A. Cryptids	What creature is linked to New Jersey folklore?	Jersey Devil
+1	B. Famous Mathematicians	The square of the hypotenuse of a right triangle, is equal to ...	Pythagorean theorem
+2	B. Famous Mathematicians	Who developed the theory of relativity?	Albert Einstein
+3	B. Famous Mathematicians	Who is the father of calculus?	Isaac Newton
+4	B. Famous Mathematicians	Named for Leonardo of Pisa, a series where each number is the sum of the 2 preceding ones	Fibonacci sequence
+5	B. Famous Mathematicians	Used binary values to represent logical ops AND, OR, and NOT	George Boole
+1	C. Game Shows	Monty Hall "Let's see what's behind door number 1"	Let's Make a Deal
+2	C. Game Shows	What show used PHONE-A-FRIEND?	Who Wants to Be a Millionaire
+3	C. Game Shows	What game show involves spinning a big wheel?	Wheel Fortune
+4	C. Game Shows	What show involves guessing prices of items?	Price Right
+5	C. Game Shows	What show features "Daily Doubles"?	Jeopardy
+1	D. Central Amerca	What is the canal connecting the Atlantic and Pacific Oceans?	Panama Canal
+2	D. Central Amerca	What is the largest country in Central America by land area?	Nicaragua
+3	D. Central Amerca	What Central American country has the official language of English?	Belize
+4	D. Central Amerca	Which Central American country is known as the "Land of Volcanoes"?	El Salvador
+5	D. Central Amerca	What is the currency of Costa Rica?	Colón
+1	E. Culinary Techniques	What is the technique of cooking in water vapor?	Steaming
+2	E. Culinary Techniques	What is the technique of quick frying in a wok?	Stir Frying
+3	E. Culinary Techniques	What is the process of cooking meat with dry heat?	Roasting
+4	E. Culinary Techniques	What is the French term for thinly slicing vegetables?	Julienne
+5	E. Culinary Techniques	What is the technique for preserving food in acid?	Pickling
