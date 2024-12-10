@@ -1,0 +1,25 @@
+1	A. Famous Revolutionaries	Who led the American Revolution against British rule?	George Washington
+2	A. Famous Revolutionaries	Which revolutionary is known for the phrase "Give me liberty or give me death"?	Patrick Henry
+3	A. Famous Revolutionaries	Who led the fight for Indian independence?	Mahatma Gandhi
+4	A. Famous Revolutionaries	Who led the Cuban Revolution?	Che Guevara
+5	A. Famous Revolutionaries	Which French revolutionary was associated with the guillotine?	Robespierre
+1	B. Mountain Ranges	Which mountain range is the tallest in the world?	Himalayas
+2	B. Mountain Ranges	What mountain range spans North and South America?	Andes
+3	B. Mountain Ranges	Which mountain range is in the eastern United States?	Apalachians
+4	B. Mountain Ranges	Which mountain range is located in Europe?	Alps
+5	B. Mountain Ranges	What mountain range forms the border between Europe and Asia?	Urals
+1	C. Science Gadgets	What handheld device measures temperature?	Thermometer
+2	C. Science Gadgets	What scientific tool magnifies tiny objects?	Microscope
+3	C. Science Gadgets	What device measures atmospheric pressure?	Barometer
+4	C. Science Gadgets	What instrument is used to measure electrical current?	Multimeter
+5	C. Science Gadgets	What tool allows astronomers to observe distant stars?	Telescope
+1	D. Desert Landscapes	What is a mound, hill or ridge of loose sand called?	Sand Dune
+2	D. Desert Landscapes	What is a fertile area in a desert with water called?	Oasis
+3	D. Desert Landscapes	What is a dry riverbed in a desert called?	Wadi
+4	D. Desert Landscapes	Which flat-topped, elevated desert feature is made of exposed, hard rock?	Plateau
+5	D. Desert Landscapes	What is large, flat plain is used for land speed records?	Bonneville Salt Flats
+1	E. Hollywood Stars	Which Hollywood star was nicknamed "The Duke"?	John Wayne
+2	E. Hollywood Stars	Which Hollywood star played in "Casablanca"?	Humphrey Bogart
+3	E. Hollywood Stars	Who played Forrest Gump in the movie?	Tom Hanks
+4	E. Hollywood Stars	Which Hollywood actress starred in "The Wizard of Oz"?	Judy Garland
+5	E. Hollywood Stars	Who is the actress famous for "Breakfast at Tiffany's"?	Audrey Hepburn

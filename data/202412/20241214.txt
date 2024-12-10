@@ -1,0 +1,25 @@
+1	A. Desert Animals	Which venomous desert reptile has a rattle on its tail?	Rattlesnake
+2	A. Desert Animals	Which desert animal is known as the "ship of the desert"?	Camel
+3	A. Desert Animals	A large, venomous lizard of SW USA and northern Mexico.	Gila Monster
+4	A. Desert Animals	What bird can run up to 20 mph in the desert?	Roadrunner
+5	A. Desert Animals	What nocturnal desert animal is known for its large ears?	Fennec Fox
+1	B. The Periodic Table	Which element is represented by the symbol O?	Oxygen
+2	B. The Periodic Table	What is the lightest element on the periodic table?	Hydrogen
+3	B. The Periodic Table	Which element, Au,  is known as the "king of metals"?	Gold
+4	B. The Periodic Table	What element has the symbol K?	Potassium
+5	B. The Periodic Table	Which element is commonly used in batteries?	Lithium
+1	C. Writing Instruments	What writing tool uses graphite and wood?	Pencil
+2	C. Writing Instruments	Chalk is the main tool used for writing on ______.	Chalkboards
+3	C. Writing Instruments	What writing instrument uses ink in a ball tip?	Ballpoint Pen
+4	C. Writing Instruments	What was the ancient tool for writing on papyrus?	Stylus
+5	C. Writing Instruments	What writing instrument uses a nib and ink?	Fountain Pen
+1	D. Weather Phenomena	What weather phenomenon involves a rotating column of air?	Tornado
+2	D. Weather Phenomena	What is a sudden discharge of electricity during a storm?	Lightning
+3	D. Weather Phenomena	What is a massive rotating storm over the ocean?	Hurricane
+4	D. Weather Phenomena	Which weather phenomenon causes heavy snow and high winds?	Blizzard
+5	D. Weather Phenomena	What scale measures the intensity of tornadoes (aka F-scale)?	Fujita
+1	E. Spy Novels	What fictional spy is known by the code number 007?	James Bond
+2	E. Spy Novels	Who wrote "The Spy Who Came in from the Cold"?	John le Carré
+3	E. Spy Novels	What novel features the spy George Smiley?	Tinker Tailor Soldier Spy
+4	E. Spy Novels	Who created the character Jason Bourne?	Robert Ludlum
+5	E. Spy Novels	What 1980s novel involves Cold War espionage in Moscow?	Gorky Park
