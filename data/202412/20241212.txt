@@ -1,0 +1,25 @@
+1	A. Windows File Extensions	Extension for a file with plain, unformatted text	.txt
+2	A. Windows File Extensions	Extension for a file with binary, executable code	.exe
+3	A. Windows File Extensions	Extension for an Excel workbook file	.xls or .xlsx
+4	A. Windows File Extensions	Extension for a portable, universal file format developed by Adobe	.pdf
+5	A. Windows File Extensions	Extension for a web-ready file with HyperText Markup text	.html
+1	B. Popular Board Games	What game involves buying and trading properties?	Monopoly
+2	B. Popular Board Games	What game uses tiles with dots for scoring?	Dominoes
+3	B. Popular Board Games	What game involves guessing words from drawings?	Pictionary
+4	B. Popular Board Games	What game uses a board and 15 checkers per player?	Backgammon
+5	B. Popular Board Games	What game involves placing tiles to build cities?	Carcassonne
+1	C. Global Trade Routes	What ancient route connected China and Europe?	Silk Road
+2	C. Global Trade Routes	Carried slaves, sugar, and rum: Africe - America - Europe?	Triangle Trade Route
+3	C. Global Trade Routes	What modern canal connects the Atlantic to the Pacific?	Panama Canal
+4	C. Global Trade Routes	What Arctic route has become navigable due to melting ice?	Northwest Passage
+5	C. Global Trade Routes	What maritime route connects Asia to the Middle East?	Spice Route
+1	D. Famous Zoos	What zoo in Washington, D.C., is known for pandas?	National Zoo
+2	D. Famous Zoos	Which German zoo is the most species-diverse in the world?	Berlin Zoo
+3	D. Famous Zoos	Which zoo in California is famous for conservation efforts?	San Diego Zoo
+4	D. Famous Zoos	What is the oldest zoo in the world, aka Tiergarten Schönbrunn'?	Vienna Zoo
+5	D. Famous Zoos	What zoo is associated with Steve Irwin, the Crocodile Hunter?	Australia Zoo
+1	E. Texas Hold'em	What is the best possible hand in Texas Hold'em?	Royal Flush
+2	E. Texas Hold'em	What is the term for going all in with nothing?	Bluff
+3	E. Texas Hold'em	What is the term for the fifth community card in Texas Hold'em?	River
+4	E. Texas Hold'em	What is a pair of aces in the hole in poker slang?	Pocket Rockets
+5	E. Texas Hold'em	What is the name of the first betting round in Texas Hold'em?	Preflop

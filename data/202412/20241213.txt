@@ -1,0 +1,25 @@
+1	A. The Space Race	What was the first artificial satellite launched into space?	Sputnik
+2	A. The Space Race	Which country launched the first space station?	Soviet Union
+3	A. The Space Race	What was the first spacecraft to land on the Moon?	Apollo 11
+4	A. The Space Race	What program aimed to land humans on Mars in the 1970s?	Viking
+5	A. The Space Race	What was the first human spaceflight mission?	Vostok 1
+1	B. World Rivers	What is the longest river in the world?	Nile
+2	B. World Rivers	Which river flows through the Grand Canyon?	Colorado
+3	B. World Rivers	Which European river passes through 10 countries?	Danube
+4	B. World Rivers	What river is sacred to Hindus in India?	Ganges
+5	B. World Rivers	What river is the primary water source in Pakistan?	Indus
+1	C. Shakespeare Sonnets	Where was Shakespeare born and raised?	Stratford-upon-Avon
+2	C. Shakespeare Sonnets	Besides sonnets, he wrote plays! famously performed at ___	The Globe Theater
+3	C. Shakespeare Sonnets	A sonnet is a ___-line poem, 3 quatrains and a closing couplet	14
+4	C. Shakespeare Sonnets	His sonnets were typically in ___, 10 syllables, stressed then unstressed	iambic pentameter
+5	C. Shakespeare Sonnets	What is the opening line of Sonnet 18?	Shall I Compare
+1	D. Science Experiments	What Greek polymath demonstrated Earth's curvature?	Eratosthenes
+2	D. Science Experiments	What experiment disproved spontaneous generation?	Pasteur Flask
+3	D. Science Experiments	The double-slit experiment demonstrated the nature of ______.	light waves
+4	D. Science Experiments	What eclipse was used to confirm general relativity?	Eddington Eclipse
+5	D. Science Experiments	What experiment discovered electrons (JJ Thompson, 1897)?	Cathode Ray
+1	E. Historic Eras	What period is known as the rebirth of arts?	Renaissance
+2	E. Historic Eras	What era followed the Industrial Revolution?	Modern Age
+3	E. Historic Eras	What era followed the fall of Rome?	Dark Ages
+4	E. Historic Eras	What era (aka "Middle" era) saw the rise of knights and castles?	Medieval
+5	E. Historic Eras	What was the era of Greek and Roman civilization?	Classical
