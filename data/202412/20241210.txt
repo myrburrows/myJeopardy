@@ -1,4 +1,4 @@
-1	A. Cryptids	What is Scotland's famous lake monster?	Loch Ness
+1	A. Cryptids	What is Scotland's famous lake monster?	Loch Ness Monster
 2	A. Cryptids	What cryptid is called Bigfoot?	Sasquatch
 3	A. Cryptids	What cryptid is said to inhabit the Himalayas?	Yeti
 4	A. Cryptids	What cryptid haunts West Virginia?	Mothman
@@ -10,8 +10,8 @@
 5	B. Famous Mathematicians	Used binary values to represent logical ops AND, OR, and NOT	George Boole
 1	C. Game Shows	Monty Hall "Let's see what's behind door number 1"	Let's Make a Deal
 2	C. Game Shows	What show used PHONE-A-FRIEND?	Who Wants to Be a Millionaire
-3	C. Game Shows	What game show involves spinning a big wheel?	Wheel Fortune
-4	C. Game Shows	What show involves guessing prices of items?	Price Right
+3	C. Game Shows	What game show involves spinning a big wheel?	Wheel of Fortune
+4	C. Game Shows	What show involves guessing prices of items?	Price Is Right
 5	C. Game Shows	What show features "Daily Doubles"?	Jeopardy
 1	D. Central Amerca	What is the canal connecting the Atlantic and Pacific Oceans?	Panama Canal
 2	D. Central Amerca	What is the largest country in Central America by land area?	Nicaragua
