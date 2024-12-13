@@ -1,0 +1,25 @@
+1	A. Tennis Major Tournaments	What is the tennis major tournament played on grass courts?	Wimbledon
+2	A. Tennis Major Tournaments	What is the tennis major tournament played on clay courts?	French Open
+3	A. Tennis Major Tournaments	What city is host to the US Open tennis tournament?	US Open
+4	A. Tennis Major Tournaments	The player to win all 4 majors in a calendar year, plus the Olympic gold medal (1988)	Steffi Graf
+5	A. Tennis Major Tournaments	Who is the only player to win all 4 majors in 1 calendar year twice?	Rod Laver
+1	B. Birds of the World	What is the national bird of the USA?	Bald Eagle
+2	B. Birds of the World	What bird is known for its vibrant tail feathers and dance?	Peacock
+3	B. Birds of the World	What bird is associated with delivering babies in folklore?	Stork
+4	B. Birds of the World	Which bird is the fastest flyer in the world?	Peregrine Falcon
+5	B. Birds of the World	What is the name of the large flightless bird native to Africa?	Ostrich
+1	C. Famous Historical Landings	What landing was the site of D-Day during WWII?	Normandy
+2	C. Famous Historical Landings	Where did Christopher Columbus first land in the Americas?	San Salvador
+3	C. Famous Historical Landings	Which landing marked the first human step on the Moon?	Apollo 11
+4	C. Famous Historical Landings	What historic Norman landing preceded this battle in 1066?	Hastings
+5	C. Famous Historical Landings	Which Mars rover successfully landed in 2021?	Perseverance
+1	D. Famous Battleships	Which battleship is famously associated with Pearl Harbor?	USS Arizona
+2	D. Famous Battleships	Which German battleship was sunk in WWII?	Bismarck
+3	D. Famous Battleships	What battleship was used in the Battle of Trafalgar?	HMS Victory
+4	D. Famous Battleships	What was the name of the ship commanded by John Paul Jones?	Bonhomme Richard
+5	D. Famous Battleships	What was the name of the ship in the famous "Damn the torpedoes" quote?	USS Hartford
+1	E. Famous Philosophers	Who is the author of "The Republic"?	Plato
+2	E. Famous Philosophers	Who wrote "Meditations"?	Marcus Aurelius
+3	E. Famous Philosophers	Who is famous for the statement "I think, therefore I am"?	Descartes
+4	E. Famous Philosophers	Who is known for his work "Critique of Pure Reason"?	Immanuel Kant
+5	E. Famous Philosophers	Who founded the philosophical school of Stoicism?	Zeno
