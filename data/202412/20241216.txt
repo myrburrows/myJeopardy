@@ -1,6 +1,6 @@
 1	A. Tennis Major Tournaments	What is the tennis major tournament played on grass courts?	Wimbledon
 2	A. Tennis Major Tournaments	What is the tennis major tournament played on clay courts?	French Open
-3	A. Tennis Major Tournaments	What city is host to the US Open tennis tournament?	US Open
+3	A. Tennis Major Tournaments	What city is host to the US Open tennis tournament?	New York
 4	A. Tennis Major Tournaments	The player to win all 4 majors in a calendar year, plus the Olympic gold medal (1988)	Steffi Graf
 5	A. Tennis Major Tournaments	Who is the only player to win all 4 majors in 1 calendar year twice?	Rod Laver
 1	B. Birds of the World	What is the national bird of the USA?	Bald Eagle
