@@ -1,25 +1,25 @@
-1	A. Tennis Major Tournaments	What is the tennis major tournament played on grass courts?	Wimbledon
-2	A. Tennis Major Tournaments	What is the tennis major tournament played on clay courts?	French Open
-3	A. Tennis Major Tournaments	What city is host to the US Open tennis tournament?	US Open
-4	A. Tennis Major Tournaments	The player to win all 4 majors in a calendar year, plus the Olympic gold medal (1988)	Steffi Graf
-5	A. Tennis Major Tournaments	Who is the only player to win all 4 majors in 1 calendar year twice?	Rod Laver
-1	B. Birds of the World	What is the national bird of the USA?	Bald Eagle
-2	B. Birds of the World	What bird is known for its vibrant tail feathers and dance?	Peacock
-3	B. Birds of the World	What bird is associated with delivering babies in folklore?	Stork
-4	B. Birds of the World	Which bird is the fastest flyer in the world?	Peregrine Falcon
-5	B. Birds of the World	What is the name of the large flightless bird native to Africa?	Ostrich
-1	C. Famous Historical Landings	What landing was the site of D-Day during WWII?	Normandy
-2	C. Famous Historical Landings	Where did Christopher Columbus first land in the Americas?	San Salvador
-3	C. Famous Historical Landings	Which landing marked the first human step on the Moon?	Apollo 11
-4	C. Famous Historical Landings	What historic Norman landing preceded this battle in 1066?	Hastings
-5	C. Famous Historical Landings	Which Mars rover successfully landed in 2021?	Perseverance
-1	D. Famous Battleships	Which battleship is famously associated with Pearl Harbor?	USS Arizona
-2	D. Famous Battleships	Which German battleship was sunk in WWII?	Bismarck
-3	D. Famous Battleships	What battleship was used in the Battle of Trafalgar?	HMS Victory
-4	D. Famous Battleships	What was the name of the ship commanded by John Paul Jones?	Bonhomme Richard
-5	D. Famous Battleships	What was the name of the ship in the famous "Damn the torpedoes" quote?	USS Hartford
-1	E. Famous Philosophers	Who is the author of "The Republic"?	Plato
-2	E. Famous Philosophers	Who wrote "Meditations"?	Marcus Aurelius
-3	E. Famous Philosophers	Who is famous for the statement "I think, therefore I am"?	Descartes
-4	E. Famous Philosophers	Who is known for his work "Critique of Pure Reason"?	Immanuel Kant
-5	E. Famous Philosophers	Who founded the philosophical school of Stoicism?	Zeno
+1	A. Rare Animals	What is the world's smallest primate (adult is the size of a golf ball)?	Madame Berthe's Mouse Lemur
+2	A. Rare Animals	Which animal is known as the unicorn of the sea?	Narwhal
+3	A. Rare Animals	What rare fox is found in the Sahara Desert?	Fennec Fox
+4	A. Rare Animals	Which rare animal of Laos and Vietnam is also called the "Saola"?	Asian Unicorn
+5	A. Rare Animals	What is the name of the rare pink Amazon river dolphin?	Boto
+1	B. Ancient Egypt	What massive structure was built as a tomb for pharaohs?	Pyramids
+2	B. Ancient Egypt	What stone was key to deciphering Egyptian writing?	Rosetta Stone
+3	B. Ancient Egypt	What boy-king's tomb was famously discovered in 1922?	Tutankhamun
+4	B. Ancient Egypt	What was the writing system used in Ancient Egypt?	Hieroglyphics
+5	B. Ancient Egypt	Which Egyptian goddess is associated with motherhood?	Isis
+1	C. Ice Cream Flavors	What plain, ol' whitish ice cream flavor comes from the second most expensive spice (after saffron)	Vanilla
+2	C. Ice Cream Flavors	Which flavor is chocolate ice cream mixed with nuts?	Rocky Road
+3	C. Ice Cream Flavors	What flavor is mint ice cream mixed with chocolate chips?	Mint Chip
+4	C. Ice Cream Flavors	What cookie is commonly used in Cookies and Cream ice cream?	Oreo
+5	C. Ice Cream Flavors	What flavor combines cherries and chocolate?	Cherry Garcia
+1	D. Explorers and Adventurers	Columbus' voyages to the New World were sponsored by King ______ and Queen ______	Ferdinand II, Isabella
+2	D. Explorers and Adventurers	Magellan was from ______, and sailed under the ______ flag.	Portugal, Spanish
+3	D. Explorers and Adventurers	Who Norwegian reached the South Pole first, 1911?	Roald Amundsen
+4	D. Explorers and Adventurers	Who New Zealander climbed Mount Everest first, 1953?	Sir Edmund Hillary
+5	D. Explorers and Adventurers	Who explored the Amazon and wrote "The River of Doubt"?	Theodore Roosevelt
+1	E. Rare Birds	What bird is the national symbol of New Zealand?	Kiwi
+2	E. Rare Birds	What rare bird of the Central and South American rain forests is known for its colorful beak?	Toucan
+3	E. Rare Birds	This country, called PNG, is a native habitat of the bird of paradise.	Papua New Guinea
+4	E. Rare Birds	What critically endangered bird is native to California?	Condor
+5	E. Rare Birds	In several bird species, to attract females, males perform elaborage, noisy displays called ______	Lekking
