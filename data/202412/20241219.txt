@@ -1,0 +1,25 @@
+1	A. TV Show Catchphrases	Who says, "D’oh!" in a famous animated TV show?	Homer Simpson
+2	A. TV Show Catchphrases	Who shouts, "How you doin’?" in "Friends"?	Joey Tribbiani
+3	A. TV Show Catchphrases	What TV host says, "Come on down!"?	Bob Barker
+4	A. TV Show Catchphrases	Which character says, "Winter is coming"?	Ned Stark
+5	A. TV Show Catchphrases	Who says, "That’s what she said" in “The Office”?	Michael Scott
+1	B. Global Holidays	What day celebrates Mexican heritage on May 5th?	Cinco de Mayo
+2	B. Global Holidays	What Irish holiday is celebrated on March 17th?	St. Patrick's Day
+3	B. Global Holidays	Which holiday includes a dragon dance in China?	Lunar New Year
+4	B. Global Holidays	What is the Hindu festival of lights called?	Diwali
+5	B. Global Holidays	What holiday marks the end of Ramadan for Muslims?	Eid al-Fitr
+1	C. Astronomy Terms	Which term describes the path of a planet around the sun?	Orbit
+2	C. Astronomy Terms	What term refers to a group of stars forming a pattern?	Constellation
+3	C. Astronomy Terms	What word describes the explosion of a dying star?	Supernova
+4	C. Astronomy Terms	What is the name for the shadow during a solar eclipse?	Umbra
+5	C. Astronomy Terms	What is the name of the Milky Way’s massive black hole?	Sagittarius A
+1	D. Iconic Robots	What golden robot serves humans in "Star Wars"?	C-3PO
+2	D. Iconic Robots	Which robot model says, "I’ll be back" in "The Terminator II"?	T-800
+3	D. Iconic Robots	What robot is WALL-E’s love interest?	EVE
+4	D. Iconic Robots	In The Terminator II", what robot model is liquid metal?	T-1000
+5	D. Iconic Robots	What is the giant robot piloted in "Pacific Rim"?	Jaeger
+1	E. Card Games	What kid's 2-player card game involves a tiebreaker called the game's name?	War
+2	E. Card Games	What game requires players to shout "Uno!"?	Uno
+3	E. Card Games	Which casino game involves a spinning wheel?	Roulette
+4	E. Card Games	What poker hand is unbeatable?	Royal Flush
+5	E. Card Games	What card game, played to 121 points, uses a board and pegs?	Cribbage

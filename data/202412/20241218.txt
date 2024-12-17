@@ -1,0 +1,25 @@
+1	A. Needle Crafts	What needle craft uses loops of yarn to create fabric?	Knitting
+2	A. Needle Crafts	What craft uses a needle to stitch thread onto fabric?	Embroidery
+3	A. Needle Crafts	A design made by stitching X-shaped stitches on fabric with a grid pattern	Cross-Stitch
+4	A. Needle Crafts	What is the art of quilting small fabric pieces together?	Patchwork
+5	A. Needle Crafts	Which craft involves punching yarn through fabric to create rugs?	Rug Hooking
+1	B. Mythological Beasts	What horse-like beast has a single horn on its forehead?	Unicorn
+2	B. Mythological Beasts	What mythological bird is said to rise from its own ashes?	Phoenix
+2	B. Mythological Beasts	What beast did St. George slay?	Dragon
+4	B. Mythological Beasts	Which serpent-haired woman turned people to stone?	Medusa
+5	B. Mythological Beasts	What Greek beast is half-man, half-bull?	Minotaur
+1	C. Hidden Treasures	A mythical city in South America of immense gold and wealth.	El Dorado
+2	C. Hidden Treasures	Edward Teach, whose treasure was never found, was known as _____.	Blackbeard
+3	C. Hidden Treasures	Ancient Jewwish texts discovered in Qumran 1947-1956	Dead Sea Scrolls
+4	C. Hidden Treasures	This island, off Nova Scotia, is rumored to have hidden treasure, including the Holy Grail.	Oak Island
+5	C. Hidden Treasures	The treasure of what Spanish galleon, lost in 1622, was discovered in 1985?	The Atocha
+1	D. Fictional Characters	Who is the boy who refused to grow up in Neverland?	Peter Pan
+2	D. Fictional Characters	What detective lives at 221B Baker Street?	Sherlock Holmes
+3	D. Fictional Characters	What fictional character hails from Krypton?	Superman
+4	D. Fictional Characters	Who created the Wonka Chocolate Factory?	Willy Wonka
+5	D. Fictional Characters	Who is the mischievous hobbit from Middle-earth?	Frodo Baggins
+1	E. Sci-Fi Technology	What futuristic sword glows and hums when activated?	Lightsaber
+2	E. Sci-Fi Technology	What vehicle in “Star Trek” can teleport people?	Transporter
+3	E. Sci-Fi Technology	What device in “Doctor Who” resembles a blue police box?	TARDIS
+4	E. Sci-Fi Technology	Which android technology allows humans to merge with machines?	Cybernetics
+5	E. Sci-Fi Technology	What technology in "The Matrix" plugs humans into a virtual world?	Neural Link
