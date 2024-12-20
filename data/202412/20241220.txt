@@ -1,0 +1,25 @@
+1	A. Geography	What is the largest country in the world by area?	Russia
+2	A. Geography	Which river is the longest in the world?	Nile
+3	A. Geography	What is the smallest country in the world?	Vatican City
+4	A. Geography	Which country has the most time zones?	France
+5	A. Geography	Mount Everest is located on the border of which two countries?	Nepal and China
+1	B. Literature & Poetry	Who wrote "The Raven"?	Edgar A. Poe
+2	B. Literature & Poetry	Who is the author of "Pride and Prejudice"?	Jane Austen
+3	B. Literature & Poetry	Which poet wrote "The Road Not Taken"?	Robert Frost
+4	B. Literature & Poetry	Who wrote "Moby-Dick"?	Herman Melville
+5	B. Literature & Poetry	Who wrote "Paradise Lost"?	John Milton
+1	C. Shakespeare Plays	Which Shakespeare play features the characters Romeo and Juliet?	Romeo Juliet
+2	C. Shakespeare Plays	In which play does Hamlet deliver the "To be, or not to be" soliloquy?	Hamlet
+3	C. Shakespeare Plays	Who is the villain in "Othello"?	Iago
+4	C. Shakespeare Plays	Which play features the characters Oberon and Titania?	Midsummer Night's Dream
+5	C. Shakespeare Plays	In which play does the character Lady Macbeth appear?	Macbeth
+1	D. Pop Culture	Who directed the movie "Jurassic Park"?	Steven Spielberg
+2	D. Pop Culture	Which music group is known for the album "Abbey Road"?	The Beatles
+3	D. Pop Culture	Who played the character Iron Man in the Marvel movies?	Robert Downey
+4	D. Pop Culture	Who created "Star Wars"?	George Lucas
+5	D. Pop Culture	Who is the famous TV host of "The Oprah Winfrey Show"?	Oprah Winfrey
+1	E. Superheroes & Villains	Who is Superman's archenemy?	Lex Luthor
+2	E. Superheroes & Villains	What is Batman's real name?	Bruce Wayne
+3	E. Superheroes & Villains	Who is the Marvel superhero with a hammer?	Thor
+4	E. Superheroes & Villains	Who is the nemesis of Spider-Man, known for a metal suit and green mask?	Green Goblin
+5	E. Superheroes & Villains	What is the real name of the villain Magneto?	Erik Lehnsherr
