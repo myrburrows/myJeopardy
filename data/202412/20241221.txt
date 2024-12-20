@@ -1,0 +1,25 @@
+1	A. The Wild West	The iconic outlaw William H. Bonney was known as ______.	Billy the Kid
+2	A. The Wild West	The iconic showman William F. Cody was known as ______.	Buffalo Bill
+3	A. The Wild West	What tough deputy US marshal was involved in the Gunfight at the O.K. Corral?	Wyatt Earl
+4	A. The Wild West	Which Native American leader fought at the Battle of Little Bighorn?	Sitting Bull
+5	A. The Wild West	In what historic town was the Gunfight at the O.K. Corral?	Tombstone, Arizona
+1	B. U.S. National Symbols	What bird is the national symbol of the U.S.?	Bald Eagle
+2	B. U.S. National Symbols	What does the Statue of Liberty hold in her right hand?	Torch
+3	B. U.S. National Symbols	What is the U.S. national motto?	In God We Trust
+4	B. U.S. National Symbols	What U.S. national park is home to Old Faithful?	Yellowstone
+5	B. U.S. National Symbols	What colors are on the U.S. flag?	Red, White, Blue
+1	C. Space Exploration	What was the first satellite sent into space by the U.S.?	Explorer 1
+2	C. Space Exploration	Who was the first American astronaut to orbit Earth?	John Glenn
+3	C. Space Exploration	What is the name of the first successful Mars rover?	Sojourner
+4	C. Space Exploration	What telescope was launched into space in 1990?	Hubble
+5	C. Space Exploration	What is the name of NASA’s space shuttle replacement?	Orion
+1	D. Endangered Species	What animal is known as the "King of the Jungle"?	Lion
+2	D. Endangered Species	What large marine mammal is endangered due to whaling?	Blue Whale
+3	D. Endangered Species	What rainforest bird is famous for its colorful beak?	Toucan
+4	D. Endangered Species	What species of tiger is critically endangered?	Siberian Tiger
+5	D. Endangered Species	What type of bear is native to China and endangered?	Giant Panda
+1	E. Nobel Prize Winners	Who was the first woman to win a Nobel Prize?	Marie Curie
+2	E. Nobel Prize Winners	What Nobel category did Albert Einstein win?	Physics
+3	E. Nobel Prize Winners	What country awards the Nobel Prizes?	Sweden
+4	E. Nobel Prize Winners	Who won the Nobel Peace Prize in 1964?	Martin Luther King Jr.
+5	E. Nobel Prize Winners	Who is the youngest Nobel Prize winner (Pakistani, Peace Prize)?	Malala Yousafzai

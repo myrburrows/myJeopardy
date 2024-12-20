@@ -1,0 +1,25 @@
+1	A. Gemstone Colors	What color is an emerald?	Green
+2	A. Gemstone Colors	What color is a sapphire?	Blue
+3	A. Gemstone Colors	What color is a ruby?	Red
+4	A. Gemstone Colors	What is the rare color of alexandrite?	Red-Green
+5	A. Gemstone Colors	What gemstone is known for its deep purple color?	Amethyst
+1	B. Ancient Greek Gods	Who is the Greek god of the sea?	Poseidon
+2	B. Ancient Greek Gods	Who is the Greek goddess of wisdom?	Athena
+3	B. Ancient Greek Gods	Who is the Greek god of the underworld?	Hades
+4	B. Ancient Greek Gods	Who is the king of the Greek gods?	Zeus
+5	B. Ancient Greek Gods	Who is the Greek god of music and prophecy?	Apollo
+1	C. Denver, Colorado	What is the name of Denver's NFL football team?	Broncos
+2	C. Denver, Colorado	What is Denver's nickname relted to its elevation?	Mile High City
+3	C. Denver, Colorado	What iconic food item was invented in Denver early 20th century?	Denver Omelette
+4	C. Denver, Colorado	What historic Denver building has a step marked exacle 1 mile above sea level?	Colorado State Capitol Building
+5	C. Denver, Colorado	What was the name of the pre-1995 Denver International Airport?	Stapleton
+1	D. Modern Architecture	What modern architect designed Fallingwater?	Frank Lloyd Wright
+2	D. Modern Architecture	Who designed the Guggenheim Museum in New York?	Frank Gehry
+3	D. Modern Architecture	What building is known for its spiral design?	Guggenheim
+4	D. Modern Architecture	What is the name of the tallest building in Dubai?	Burj Khalifa
+5	D. Modern Architecture	Who designed the glass pyramid at the Louvre?	I.M. Pei
+1	E. Famous Monuments	What monument is shaped like a giant gateway?	Gateway Arch,  St. Louis
+2	E. Famous Monuments	What ancient monument is located in Giza?	Great Pyramid
+3	E. Famous Monuments	What monument honors the 16th U.S. president?	Lincoln Memorial
+4	E. Famous Monuments	What is the tallest monument in Washington, D.C.?	Washington Monument
+5	E. Famous Monuments	What French monument is known for its iron lattice?	Eiffel Tower
