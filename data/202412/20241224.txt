@@ -1,0 +1,25 @@
+1	A. Underground Rivers	Which Italian city has canals instead of streets?	Venice
+2	A. Underground Rivers	What underground river runs through Mammoth Cave?	Echo River
+3	A. Underground Rivers	What famous underground river is in Mexico?	Sac Actun
+4	A. Underground Rivers	What underground river flows in Slovenia?	Postojna
+5	A. Underground Rivers	Which underground river flows in the Philippines?	Puerto Princesa
+1	B. Famous Prisons	Which U.S. prison is on an island in San Francisco Bay?	Alcatraz
+2	B. Famous Prisons	Which French prison housed the Man in the Iron Mask?	Bastille
+3	B. Famous Prisons	What is the largest maximum-security prison in the U.S.?	Angola
+4	B. Famous Prisons	Which infamous Soviet prison camp system was vast?	Gulag
+5	B. Famous Prisons	What English prison housed Oscar Wilde?	Reading Gaol
+1	C. Car Models of the 1960s	What 1964 car is often credited with starting the "pony car" craze?	Ford Mustang
+2	C. Car Models of the 1960s	Which German 1960s car was known for its rear-engine design and air-cooled engine?	Volkswagen Beetle
+3	C. Car Models of the 1960s	What Chevrolet muscle car debuted in 1967 to compete with the Ford Mustang?	Camaro
+4	C. Car Models of the 1960s	What iconic British sports car was featured in the James Bond film "Goldfinger"?	Aston Martin DB5
+5	C. Car Models of the 1960s	What 1968 Dodge car was nicknamed "The General Lee" in "The Dukes of Hazzard"?	Charger
+1	D. Unique Sports	What is the national sport of Japan?	Sumo wrestling
+2	D. Unique Sports	What sport uses a broom and a stone on ice?	Curling
+3	D. Unique Sports	Which sport involves climbing steep indoor walls?	Bouldering
+4	D. Unique Sports	What movie referenced the Obscure Sports Quarterly?	Dodgeball
+5	D. Unique Sports	What sport uses a long curved wicker basket (cesta)?	Jai alai
+1	E. Deep Sea Creatures	What deep-sea fish has a glowing lure?	Anglerfish
+2	E. Deep Sea Creatures	Which cephalopod can change color instantly?	Octopus
+3	E. Deep Sea Creatures	What fish is nicknamed the 'living fossil'?	Coelacanth
+4	E. Deep Sea Creatures	What crustacean is known for its powerful punch?	Mantis Shrimp
+5	E. Deep Sea Creatures	What jellyfish can regenerate itself indefinitely?	Immortal Jellyfish

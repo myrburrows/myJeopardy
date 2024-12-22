@@ -1,0 +1,25 @@
+1	A. Rivers and Lakes	Which river flows through London?	Thames
+2	A. Rivers and Lakes	Which U.S. lake is known for its great depth, 1943 feet?	Crater Lake
+3	A. Rivers and Lakes	What river runs through the Grand Canyon?	Colorado
+4	A. Rivers and Lakes	Which African lake (Tanzania, Uganda, and Kenya) is the second-largest by area?	Lake Victoria
+5	A. Rivers and Lakes	What is the longest river in France (flows through Tours and Nantes)?	Loire River
+1	B. Berlin, Germany	Who did Reagan tell to "tear down this wall"?	Mr. Gorbachev
+2	B. Berlin, Germany	What US President famously said "Ich bin ein Berliner"?	John F. Kennedy
+3	B. Berlin, Germany	What iconic Berlin landmark features a Quadriga statue on top?	Brandenburg Gate
+4	B. Berlin, Germany	Which river flows through Berlin?	Spree
+5	B. Berlin, Germany	What famous museum island in Berlin is a UNESCO World Heritage Site?	Museum Island
+1	C. Boston Celtics	Which team has the most NBA championships along with the Boston Celtics?	Los Angeles Lakers
+2	C. Boston Celtics	Who was the legendary coach of the Celtics during their 1950s-60s dynasty?	Red Auerbach
+3	C. Boston Celtics	Which player is known as the greatest winner in NBA history with 11 championships for the Celtics?	Bill Russell
+4	C. Boston Celtics	Who was the "Hick from French Lick"?	Larry Bird
+5	C. Boston Celtics	What is the nickname of the Celtics' iconic patterned floor?	Parquet Palace
+1	D. Famous Trials	Who was O.J. Simpson's lead lawyer at his 1885 murder trial?	Johnnie Cochran
+2	D. Famous Trials	Which trial convicted two anarchists in the 1920s?	Sacco and Vanzetti
+3	D. Famous Trials	Which trial is famous for a teacher teaching evolution?	Scopes Trial
+4	D. Famous Trials	Which trial tried a Nazi leader after WWII?	Nuremberg Trials
+5	D. Famous Trials	Which trial ended segregation in U.S. schools?	Brown v. Board of Education
+1	E. U.S. History	Which purchase doubled U.S. territory in 1803?	Louisiana Purchase
+2	E. U.S. History	What treaty was signed for formally conclude the Revolutionary War?	Treaty of Paris, 1783
+3	E. U.S. History	Where are the final major battle of the Revolutionary War in 1781?	Yorktown, VA
+4	E. U.S. History	Which event started the American Civil War?	Battle of Fort Sumter
+5	E. U.S. History	What year was the U.S. Constitution ratified?	1788
