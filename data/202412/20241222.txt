@@ -9,9 +9,9 @@
 4	B. Ancient Greek Gods	Who is the king of the Greek gods?	Zeus
 5	B. Ancient Greek Gods	Who is the Greek god of music and prophecy?	Apollo
 1	C. Denver, Colorado	What is the name of Denver's NFL football team?	Broncos
-2	C. Denver, Colorado	What is Denver's nickname relted to its elevation?	Mile High City
+2	C. Denver, Colorado	What is Denver's nickname related to its elevation?	Mile High City
 3	C. Denver, Colorado	What iconic food item was invented in Denver early 20th century?	Denver Omelette
-4	C. Denver, Colorado	What historic Denver building has a step marked exacle 1 mile above sea level?	Colorado State Capitol Building
+4	C. Denver, Colorado	What historic Denver building has a step marked exactly 1 mile above sea level?	Colorado State Capitol Building
 5	C. Denver, Colorado	What was the name of the pre-1995 Denver International Airport?	Stapleton
 1	D. Modern Architecture	What modern architect designed Fallingwater?	Frank Lloyd Wright
 2	D. Modern Architecture	Who designed the Guggenheim Museum in New York?	Frank Gehry
