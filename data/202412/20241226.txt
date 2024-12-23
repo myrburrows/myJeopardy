@@ -1,0 +1,25 @@
+1	A. Famous Teachers	Who was Anne Sullivan a teacher to, famously known as the "Miracle Worker"?	Helen Keller
+2	A. Famous Teachers	Who was the African American educator and advisor to U.S. presidents, founding the Tuskegee Institute?	Booker T. Washington
+3	A. Famous Teachers	What actress played Prof Minerva McGonagall in the Harry Potter films?	Maggie Smith
+4	A. Famous Teachers	Who was the ancient Greek philosopher who taught Alexander the Great?	Aristotle
+5	A. Famous Teachers	Who is known as the "Father of the American Public School System"?	Horace Mann
+1	B. Fast Food Franchises	"I'm Lovin It"	McDonalds
+2	B. Fast Food Franchises	"We Got You"  "Where's the Beef?"	Wendy's
+3	B. Fast Food Franchises	"Have It Your Way"  "You Rule"	Burger King
+4	B. Fast Food Franchises	"Finger Lickin Good"	KFC
+5	B. Fast Food Franchises	"A Sub Above"	Jersey Mike's
+1	C. EGOT (Emmy, Grammy, Oscar & Tony) 	"My Fair Lady", "Roman Holiday", "Breakfast at Tiffany's"	Audrey Hepburn
+2	C. EGOT (Emmy, Grammy, Oscar & Tony) 	"Young Frankenstein", "The Producer's", "Blazing Saddles"	Mel Brooks
+3	C. EGOT (Emmy, Grammy, Oscar & Tony) 	"The View", "The Color Purple", "Ghost"	Whoopi Goldberg
+4	C. EGOT (Emmy, Grammy, Oscar & Tony) 	"Can You Feel the Love Tonight", "Candle in the Wind", "Aida"	Elton John
+5	C. EGOT (Emmy, Grammy, Oscar & Tony) 	"How To Get Away with Murder", "The Help", "The Woman King"	Viola Davis
+1	D. Iconic Statues	What statue is located in New York Harbor?	Statue of Liberty
+2	D. Iconic Statues	What statue represents Abraham Lincoln in Washington, D.C.?	Lincoln Memorial
+3	D. Iconic Statues	What is the famous statue in Rio de Janeiro called?	Christ the Redeemer
+4	D. Iconic Statues	What is the name of the ancient statues on Easter Island?	Moai
+5	D. Iconic Statues	What is the name of the statue of the seated Buddha in Hong Kong?	Tian Tan Buddha
+1	E. Computer Programming	What does HTML stand for?	Hypertext Markup Language
+2	E. Computer Programming	What is the main programming language for Android apps?	Java
+3	E. Computer Programming	What does API stand for in programming?	Application Programming Interface
+4	E. Computer Programming	What is the programming paradigm focused on objects?	Object-Oriented
+5	E. Computer Programming	What does CSS stand for?	Cascading Style Sheets

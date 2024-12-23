@@ -1,0 +1,25 @@
+1	A. Elements and Compounds	What is the chemical symbol for water?	H2O
+2	A. Elements and Compounds	What gas do plants primarily produce during photosynthesis?	Oxygen
+3	A. Elements and Compounds	What 3 nutrients (NPK) are found in plant fertilizers?	Nitrogen, Phosphorous, Potassium
+4	A. Elements and Compounds	What element is known as the lightest metal?	Lithium
+5	A. Elements and Compounds	What is the most abundant element in the Earth's crust?	Oxygen
+1	B. Video Game Characters	Who is the main character of the game "Super Mario"?	Mario
+2	B. Video Game Characters	Who is the princess Mario often rescues?	Princess Peach
+3	B. Video Game Characters	What character collects rings in "Sonic the Hedgehog"?	Sonic
+4	B. Video Game Characters	Who is the main protagonist in the "Halo" series?	Master Chief
+5	B. Video Game Characters	What is the name of Link’s horse in "The Legend of Zelda"?	Epona
+1	C. Famous Spies	Who was the British spy known as 007?	James Bond
+2	C. Famous Spies	Who is the fictional spy in "Mission: Impossible"?	Ethan Hunt
+3	C. Famous Spies	What was the real name of the Soviet spy known as "The Red Spy"?	Julius Rosenberg
+4	C. Famous Spies	Who was the double agent responsible for the Cambridge Five spy ring?	Kim Philby
+5	C. Famous Spies	Which American spy was known for her work in WWII as a secret agent?	Virginia Hall
+1	D. Historical Mythologies	Who was the king of the Norse gods?	Odin
+2	D. Historical Mythologies	Who was the Greek god of the sea?	Poseidon
+3	D. Historical Mythologies	In Roman mythology, who was the goddess of love?	Venus
+4	D. Historical Mythologies	What is the name of the Hindu god with the elephant head?	Ganesha
+5	D. Historical Mythologies	Who is the Egyptian god of the afterlife?	Osiris
+1	E. Just Do It. Nike	In Greek mythology, Nike was the goddess of _____	Victory
+2	E. Just Do It. Nike	Who founded Nike?	Phil Knight
+3	E. Just Do It. Nike	Where is Nike's global campus located?	Beaverton, OR
+4	E. Just Do It. Nike	What runner, who died at 24, was an early Nike inspiration and icon?	Steve Prefontaine ("Pre")
+5	E. Just Do It. Nike	What movie was about the Nike and Michael Jordan connection?	"Air"
