@@ -1,0 +1,25 @@
+1	A. Florida Cities	Which Florida city is home to Walt Disney World?	Orlando
+2	A. Florida Cities	Which Florida city is the oldest continuously inhabited city in the United States?	St. Augustine
+3	A. Florida Cities	What city is the capital of Florida?	Tallahassee
+4	A. Florida Cities	Which Florida city is located at the southernmost point of the continental U.S.?	Key West
+5	A. Florida Cities	What Florida city is known for its historic cigar factories and Cuban culture?	Tampa
+1	B. US Holidays about People	What holiday celebrates the contributions of mothers and maternal figures in the United States?	Mother's Day
+2	B. US Holidays about People	Which U.S. holiday, celebrated on the third Sunday in June, recognizes fatherhood and paternal bonds?	Father's Day
+3	B. US Holidays about People	What holiday, observed on the third Monday of January, honors a key figure in the fight for racial equality?	Martin Luther King Jr. Day
+4	B. US Holidays about People	Which holiday in February honors the birthdays of George Washington and Abraham Lincoln?	Presidents' Day
+5	B. US Holidays about People	What U.S. holiday, observed on the first Monday of September, was first celebrated in 1882 in New York City?	Labor Day
+1	C. US Customs Contraband	What common contraband is often intercepted at U.S. borders for being unpasteurized and potentially unsafe?	Raw Milk
+2	C. US Customs Contraband	What counterfeit items, often imitating luxury brands, are regularly confiscated at U.S. ports of entry?	Fake Handbags
+3	C. US Customs Contraband	What precious metal, often smuggled to evade taxes or sanctions, is frequently confiscated by Customs?	Gold
+4	C. US Customs Contraband	Which fruit is banned from importation to the U.S. due to pests and disease risks?	Mangoes from Certain Countries
+5	C. US Customs Contraband	What type of exotic pets are commonly seized by Customs for violating wildlife trade laws?	Reptiles
+1	D. Stephen King	What was Stephen King's first published novel?	Carrie
+2	D. Stephen King	Which Stephen King novel features a haunted Overlook Hotel?	The Shining
+3	D. Stephen King	What Stephen King series follows the adventures of Roland Deschain, a gunslinger?	The Dark Tower
+4	D. Stephen King	Which Stephen King book tells the story of a dog infected with rabies?	Cujo
+5	D. Stephen King	Which Stephen King novel centers around a writer held captive by an obsessed fan?	Misery
+1	E. French and Italian Designers	Which French designer is famous for the "little black dress" and Chanel No. 5 perfume?	Coco Chanel
+2	E. French and Italian Designers	What Italian fashion house is known for its Medusa logo and bold, colorful designs?	Versace
+3	E. French and Italian Designers	What Italian luxury brand is famous for its interlocking "G" logo?	Gucci
+4	E. French and Italian Designers	Which French designer founded a fashion house known for its iconic red-soled shoes?	Christian Louboutin
+5	E. French and Italian Designers	Which French designer created the "New Look" that revolutionized women’s fashion in the 1940s?	Christian Dior

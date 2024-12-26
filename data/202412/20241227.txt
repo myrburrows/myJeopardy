@@ -1,0 +1,25 @@
+1	A. British Structures	What is the name of the clock tower at the Palace of Westminster?	Big Ben
+2	A. British Structures	Which ancient stone circle is one of Britain's most famous landmarks?	Stonehenge
+3	A. British Structures	Which British castle is the official residence of the monarch in Scotland?	Balmoral Castle
+4	A. British Structures	Which British fortress has housed the Crown Jewels for centuries?	Tower of London
+5	A. British Structures	What famous Roman structure stretches across northern England?	Hadrian's Wall
+1	B. Theater Film Formats	What film format creates depth perception by showing two slightly offset images, often viewed with special glasses?	3-D
+2	B. Theater Film Formats	What large-format film technology is known for its massive screens and high-resolution image?	IMAX
+3	B. Theater Film Formats	Which film technology was first introduced in the 1920s and used three-strip color processing?	Technicolor
+4	B. Theater Film Formats	What compact film format introduced by Kodak in the 1960s became popular for home movies and amateur filmmaking?	Super 8
+5	B. Theater Film Formats	Which widescreen format debuted with the movie "The Robe" in 1953?	CinemaScope
+1	C. Sandwiches	What type of sandwich traditionally contains corned beef, Swiss cheese, sauerkraut, and Russian dressing?	Reuben
+2	C. Sandwiches	Which sandwich is made with grilled chicken or beef, onions, and peppers, served on a hoagie roll?	Philly Cheesesteak
+3	C. Sandwiches	What English tea-time favorite consists of thinly sliced cucumber and buttered bread?	Cucumber Sandwich
+4	C. Sandwiches	Which Middle Eastern sandwich is made with pita bread and filled with spiced, ground chickpea patties?	Falafel Sandwich
+5	C. Sandwiches	What sandwich from New Orleans is typically made with meat, cheese, olive salad, and Italian bread?	Muffuletta
+1	D. US Patriotic Holidays	What U.S. holiday is often marked by visiting cemeteries and placing flags on the graves of fallen soldiers?	Memorial Day
+2	D. US Patriotic Holidays	What U.S. holiday celebrates the adoption of the American flag on June 14, 1777?	Flag Day
+3	D. US Patriotic Holidays	What U.S. holiday honors military veterans and is observed on November 11?	Veterans Day
+4	D. US Patriotic Holidays	What holiday is also known as Independence Day in the United States?	4th of July
+5	D. US Patriotic Holidays	What is the historical name of Veterans Day before it was renamed in 1954?	Armistice Day
+1	E. Famous US Mayors	Which mayor of South Bend, Indiana, became a 2020 Democratic presidential candidate?	Pete Buttigieg
+2	E. Famous US Mayors	What New York City mayor served for 12 years and was known for implementing the soda size ban?	Michael Bloomberg
+3	E. Famous US Mayors	Which former mayor of Newark, New Jersey, became a U.S. Senator in 2013?	Cory Booker
+4	E. Famous US Mayors	Who served as the mayor of San Francisco and later became the first openly gay elected official in California?	Harvey Milk
+5	E. Famous US Mayors	Who served as the first female mayor of Houston, Texas, from 2010 to 2016?	Annise Parker
