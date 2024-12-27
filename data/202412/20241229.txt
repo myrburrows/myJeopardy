@@ -1,0 +1,25 @@
+1	A. Famous Chemists Pre-1900	Which chemist's experiments with gases led to the discovery of the relationship between pressure and volume, now known as his law?	Robert Boyle
+2	A. Famous Chemists Pre-1900	Who developed the chemical notation system that uses symbols to represent elements and formulas to show compounds?	John Dalton
+3	A. Famous Chemists Pre-1900	What English chemist discovered the element chlorine and proved it was a true chemical element in the early 1800s?	Humphry Davy
+4	A. Famous Chemists Pre-1900	Which chemist is credited with discovering oxygen, though he called it "dephlogisticated air"?	Joseph Priestley
+5	A. Famous Chemists Pre-1900	Which chemist developed the first periodic table of elements in 1869?	Dmitri Mendeleev
+1	B. Banks and Bankers	Which U.S. bank introduced the first widely used credit card, BankAmericard, in 1958?	Bank of America
+2	B. Banks and Bankers	Which Italian family established one of the first major banking systems in the 15th century?	Medici family
+3	B. Banks and Bankers	Which British bank was founded in 1694 and serves as the central bank of the United Kingdom?	Bank of England
+4	B. Banks and Bankers	Which banker famously bailed out the U.S. government during the Panic of 1907?	J.P. Morgan
+5	B. Banks and Bankers	Which Scottish economist proposed the concept of fractional-reserve banking in the 18th century?	Adam Smith
+1	C. Famous Hunters	Who is the American frontiersman known for his legendary hunting and exploration skills, and for wearing a coonskin cap?	Davy Crockett
+2	C. Famous Hunters	Which 19th-century trapper and hunter is often credited with opening the American West and served as a guide for expeditions?	Kit Carson
+3	C. Famous Hunters	What legendary figure is said to have killed a bear at the age of three and became a symbol of American frontier hunting?	Daniel Boone
+4	C. Famous Hunters	What legendary female hunter and sharpshooter toured with Buffalo Bill's Wild West show?	Annie Oakley
+5	C. Famous Hunters	Who was the Native American guide and hunter that helped Lewis and Clark on their expedition?	Sacagawea
+1	D. The Sunday Comics	What is the name of the comic strip created by Charles Schulz in 1950 featuring Charlie Brown and Snoopy?	Peanuts
+2	D. The Sunday Comics	Which comic strip, first published in 1924, features a redheaded girl and her dog Sandy?	Little Orphan Annie
+3	D. The Sunday Comics	Which comic strip follows the life of a lazy cat who loves lasagna and hates Mondays?	Garfield
+4	D. The Sunday Comics	Which comic strip introduced a mischievous boy and his stuffed tiger, Hobbes?	Calvin and Hobbes
+5	D. The Sunday Comics	Which Sunday comic, created by Gary Larson, features single-panel humor with anthropomorphic animals and absurd situations?	The Far Side
+1	E. Canadian Cities	Which Canadian city is known as the "City of Festivals"?	Montreal
+2	E. Canadian Cities	What is the capital city of Canada?	Ottawa
+3	E. Canadian Cities	Which Canadian city hosted the 1988 Winter Olympics?	Calgary
+4	E. Canadian Cities	Which Canadian city is home to the CN Tower?	Toronto
+5	E. Canadian Cities	What is the largest city in the province of British Columbia?	Vancouver
