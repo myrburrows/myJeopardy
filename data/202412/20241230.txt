@@ -1,0 +1,25 @@
+1	A. Capitals of Europe	Which city is the capital of Germany?	Berlin
+2	A. Capitals of Europe	What is the capital of Spain?	Madrid
+3	A. Capitals of Europe	Which city is the capital of the Netherlands?	Amsterdam
+4	A. Capitals of Europe	Which European capital is divided by the River Danube?	Budapest
+5	A. Capitals of Europe	Which European capital is known as the "City of Music"?	Vienna
+1	B. Ancient Egypt	Who was the famous queen of Ancient Egypt known for her alliance with Julius Caesar and Mark Antony?	Cleopatra
+2	B. Ancient Egypt	What was the primary material used to make paper in Ancient Egypt?	Papyrus
+3	B. Ancient Egypt	What is the name of the sun god in Ancient Egyptian mythology?	Ra
+4	B. Ancient Egypt	What writing system did the Ancient Egyptians use?	Hieroglyphics
+5	B. Ancient Egypt	Who was the boy king whose tomb was discovered in 1922?	Tutankhamun
+1	C. Classic Movies	Who directed the classic 1941 film "Citizen Kane"?	Orson Welles
+2	C. Classic Movies	What is the name of the fictional plantation in "Gone with the Wind"?	Tara
+3	C. Classic Movies	What iconic line is spoken in "Casablanca": "Here's looking at you, ___"?	Kid
+4	C. Classic Movies	Which 1960 film features the character Norman Bates?	Psycho
+5	C. Classic Movies	What 1959 historical epic starred Charlton Heston as a Jewish prince?	Ben-Hur
+1	D. Ancient Greek Epics	Who is the author of the epic poem "The Iliad"?	Homer
+2	D. Ancient Greek Epics	What creature does Odysseus encounter that has one eye?	Cyclops
+3	D. Ancient Greek Epics	What city is under siege in "The Iliad"?	Troy
+4	D. Ancient Greek Epics	Which warrior is considered the greatest Greek hero in "The Iliad"?	Achilles
+5	D. Ancient Greek Epics	Who is the wife of Odysseus, known for her loyalty?	Penelope
+1	E. Galaxies	What is the study of galaxies and their formation called?	Galactic astronomy
+2	E. Galaxies	What is the main factor determining a galaxy's color?	Age of its stars
+3	E. Galaxies	What is the term for galaxies moving away from us?	Redshift
+4	E. Galaxies	What type of galaxy is the Milky Way?	Spiral galaxy
+5	E. Galaxies	What is the closest galaxy to the Milky Way?	Andromeda galaxy
