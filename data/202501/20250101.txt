@@ -1,0 +1,25 @@
+1	A. Mariana Trench	In which ocean is the Mariana Trench located?	Pacific Ocean
+2	A. Mariana Trench	Which country is closest to the Mariana Trench?	Philippines
+3	A. Mariana Trench	In what year did the first descent to the Mariana Trench occur?	1960
+4	A. Mariana Trench	Which filmmaker explored the Mariana Trench solo in 2012?	James Cameron
+5	A. Mariana Trench	What is the pressure at the bottom of the Mariana Trench?	16,000 psi
+1	B. Formation of the United Nations 	What city is the headquarters of the United Nations located in?	New York
+2	B. Formation of the United Nations 	Which U.S. president proposed the idea of a United Nations during World War II?	Franklin D. Roosevelt
+3	B. Formation of the United Nations 	What job is the chief administrative officer of the UN?	Secretary-General
+4	B. Formation of the United Nations 	Which body of the United Nations is responsible for maintaining international peace and security?	Security Council
+5	B. Formation of the United Nations 	Which predecessor organization was replaced by the United Nations?	League of Nations
+1	C. Longest-Running TV Shows	Which children’s TV show aired for over 50 years?	Sesame Street
+2	C. Longest-Running TV Shows	What long-running news show first aired in 1947?	Meet the Press
+3	C. Longest-Running TV Shows	Which animated series surpassed The Flintstones in longevity?	The Simpsons
+4	C. Longest-Running TV Shows	What medical drama became the longest-running in its genre?	Grey's Anatomy
+5	C. Longest-Running TV Shows	Which TV show holds the record for the longest-running soap opera?	Guiding Light
+1	D. Artist: Claude Monet	In which country was Claude Monet born?	France
+2	D. Artist: Claude Monet	What was Monet's famous series of paintings called?	Water Lilies
+3	D. Artist: Claude Monet	What is the name of Monet's famous garden?	Giverny
+4	D. Artist: Claude Monet	What was Monet's primary focus in his paintings?	Light
+5	D. Artist: Claude Monet	Which museum houses many of Monet's Water Lilies?	Orangerie
+1	E. Ecosystems	What is the largest ecosystem on Earth?	Ocean
+2	E. Ecosystems	Which ecosystem is known for its high biodiversity?	Rainforest
+3	E. Ecosystems	What is the primary energy source for most ecosystems?	Sunlight
+4	E. Ecosystems	What process do plants use to convert sunlight into energy?	Photosynthesis
+5	E. Ecosystems	A species that has a disproportionately large impact on its ecosystem	Keystone species
