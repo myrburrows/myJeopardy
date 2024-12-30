@@ -1,25 +1,25 @@
-1	History of Baseball	Who holds the record for the longest hitting streak in MLB history?	Joe DiMaggio
-2	History of Baseball	What year did Jackie Robinson break the color barrier in MLB?	1947
-3	History of Baseball	Who was the first player inducted into the Baseball Hall of Fame?	Ty Cobb
-4	History of Baseball	Which stadium is the oldest Major League Baseball park still in use?	Fenway Park
-5	History of Baseball	What year was the first World Series played?	1903
-1	Physics - Mechanics	What is the force that opposes motion between two surfaces in contact?	Friction
-2	Physics - Mechanics	What term describes the tendency of an object to resist changes in motion?	Inertia
-3	Physics - Mechanics	Who formulated the three laws of motion?	Isaac Newton
-4	Physics - Mechanics	What is the product of mass and velocity called?	Momentum
-5	Physics - Mechanics	What is the center point of an object's weight distribution called?	Center of Gravity
-1	Classic Fairy Tales	What did Cinderella lose at the ball?	Glass Slipper
-2	Classic Fairy Tales	Who climbed a beanstalk to find a giant?	Jack
-3	Classic Fairy Tales	Which fairy tale features a house made of candy?	Hansel and Gretel
-4	Classic Fairy Tales	Who was locked in a tower by a witch?	Rapunzel
-5	Classic Fairy Tales	Who spun straw into gold for the miller's daughter?	Rumpelstiltskin
-1	Movies: Action and Adventure	Which 1981 film follows the adventures of archaeologist Indiana Jones?	Raiders of the Lost Ark
-2	Movies: Action and Adventure	Which action film series features a character named John McClane?	Die Hard
-3	Movies: Action and Adventure	In which 2003 film does a pirate captain search for the Black Pearl?	Pirates of the Caribbean
-4	Movies: Action and Adventure	What 2015 action film was subtitled "Fury Road"?	Mad Max
-5	Movies: Action and Adventure	Which James Bond film introduced the character Jaws?	The Spy Who Loved Me
-1	The Magna Carta	What does "Magna Carta" translate to in English?	Great Charter
-2	The Magna Carta	Who was the English king forced to sign the Magna Carta?	King John
-3	The Magna Carta	Where was the Magna Carta signed?	Runnymede
-4	The Magna Carta	What year was the Magna Carta signed?	1215
-5	The Magna Carta	Which clause of the Magna Carta is still part of English and U.S. law?	Habeas Corpus
+1	A. History of Baseball	Who holds the record for the longest hitting streak in MLB history?	Joe DiMaggio
+2	A. History of Baseball	What year did Jackie Robinson break the color barrier in MLB?	1947
+3	A. History of Baseball	Who was the first player inducted into the Baseball Hall of Fame?	Ty Cobb
+4	A. History of Baseball	Which stadium is the oldest Major League Baseball park still in use?	Fenway Park
+5	A. History of Baseball	What year was the first World Series played?	1903
+1	B. Physics - Mechanics	What is the force that opposes motion between two surfaces in contact?	Friction
+2	B. Physics - Mechanics	What term describes the tendency of an object to resist changes in motion?	Inertia
+3	B. Physics - Mechanics	Who formulated the three laws of motion?	Isaac Newton
+4	B. Physics - Mechanics	What is the product of mass and velocity called?	Momentum
+5	B. Physics - Mechanics	What is the center point of an object's weight distribution called?	Center of Gravity
+1	C. Classic Fairy Tales	What did Cinderella lose at the ball?	Glass Slipper
+2	C. Classic Fairy Tales	Who climbed a beanstalk to find a giant?	Jack
+3	C. Classic Fairy Tales	Which fairy tale features a house made of candy?	Hansel and Gretel
+4	C. Classic Fairy Tales	Who was locked in a tower by a witch?	Rapunzel
+5	C. Classic Fairy Tales	Who spun straw into gold for the miller's daughter?	Rumpelstiltskin
+1	D. Movies: Action and Adventure	Which 1981 film follows the adventures of archaeologist Indiana Jones?	Raiders of the Lost Ark
+2	D. Movies: Action and Adventure	Which action film series features a character named John McClane?	Die Hard
+3	D. Movies: Action and Adventure	In which 2003 film does a pirate captain search for the Black Pearl?	Pirates of the Caribbean
+4	D. Movies: Action and Adventure	What 2015 action film was subtitled "Fury Road"?	Mad Max
+5	D. Movies: Action and Adventure	Which James Bond film introduced the character Jaws?	The Spy Who Loved Me
+1	E. The Magna Carta	What does "Magna Carta" translate to in English?	Great Charter
+2	E. The Magna Carta	Who was the English king forced to sign the Magna Carta?	King John
+3	E. The Magna Carta	Where was the Magna Carta signed?	Runnymede
+4	E. The Magna Carta	What year was the Magna Carta signed?	1215
+5	E. The Magna Carta	Which clause of the Magna Carta is still part of English and U.S. law?	Habeas Corpus
