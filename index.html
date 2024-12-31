@@ -9,16 +9,20 @@
 </head>
 <body>
     <div class="flashcard">
-        <!-- Date display -->
-        <h2 id="date"></h2> <!-- New element for date display -->
-
+        <!-- Date Input Section -->
+        <div class="date-input-section">
+            <label for="date-input">Enter a date (MM/DD/YY):</label>
+            <input type="text" id="date-input" placeholder="MM/DD/YY" title="Enter date as MM/DD/YY">
+            <p id="error-message" style="color: red; margin-top: 5px; height: 20px;"></p> <!-- Error message container -->
+        </div>
+    
         <!-- Category and Question Display -->
         <h3 id="category"></h3>
         <p id="question"></p>
         
         <button id="show-answer" onclick="showAnswer()">Show Answer</button>
         <p id="answer" style="display: none;"></p>
-
+    
         <div id="response-buttons">
             <button id="last-btn" onclick="goToLastQuestion()">Last</button>
             <button onclick="recordAnswer(true)" id="knew-it">Knew it</button>
@@ -27,6 +31,10 @@
         <button id="next-review" onclick="nextReviewQuestion()" style="display: none;">Next</button>
         <button id="review-button" onclick="startReview()" style="display: none;">Review Missed Questions</button>
     </div>
+    
+    <!-- Message Display -->
+    <div id="message" style="margin-top: 10px; font-size: 14px; color: green;"></div>
+    
     <script src="app.js"></script>
 </body>
 </html>

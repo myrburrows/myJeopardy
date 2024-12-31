@@ -1,50 +1,86 @@
+// Initialize variables
 let data = [];
 let currentQuestionIndex = 0;
 let missedQuestions = [];
 let reviewingMissedQuestions = false;
 let reviewIndex = 0; // Separate index for reviewing missed questions
 
-// Display today's date at the top in the desired format
-const today = new Date();
-const options = { weekday: 'long', month: 'short', day: '2-digit', year: 'numeric' };
-const formattedDate = today.toLocaleDateString('en-US', options);
-document.getElementById('date').textContent = formattedDate;
+// Function to retrieve data file based on date
+function retrieveDataFile(date) {
+    const [month, day, year] = date.split('/');
+    const yearMonth = `20${year}${month}`; // Assume 20XX for the year
+    const fileName = `data/${yearMonth}/${yearMonth}${day}.txt`; // Path: data/YYYYMM/YYYYMMDD.txt
 
-fetch('https://roger-that-bridge-flashcards-5bffcbb5d89a.herokuapp.com/track', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ app_name: 'myJeopardy' })
-  });
-  
-  // Determine today's date and the corresponding file path
-const yearMonth = `${today.getFullYear()}${String(today.getMonth() + 1).padStart(2, '0')}`; // Format: YYYYMM
-const day = String(today.getDate()).padStart(2, '0'); // Format: DD
-const fileName = `data/${yearMonth}/${yearMonth}${day}.txt`; // Path: data/YYYYMM/YYYYMMDD.txt
-
-// Load data from the dynamically determined file for today
-fetch(fileName)
-    .then(response => {
-        if (!response.ok) {
-            throw new Error(`File not found: ${fileName}`);
-        }
-        return response.text();
-    })
-    .then(text => {
-        // Parse the text file into data objects
-        data = text.split('\n').map(line => {
-            const [key, category, question, answer] = line.split('\t');
-            return { key, category, question, answer };
+    fetch(fileName)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`No data file found for the entered date: ${date}`);
+            }
+            return response.text();
+        })
+        .then(text => {
+            if (!text.trim()) {
+                throw new Error(`The data file for ${date} exists but is empty.`);
+            }
+            // Parse the text file into data objects
+            data = text.split('\n').map(line => {
+                const [key, category, question, answer] = line.split('\t');
+                return { key, category, question, answer };
+            });
+            currentQuestionIndex = 0; // Reset index for new data
+            missedQuestions = []; // Clear missed questions
+            reviewingMissedQuestions = false; // Reset review mode
+            document.getElementById('error-message').textContent = ''; // Clear any previous error
+            displayQuestion(); // Start displaying questions after data loads
+        })
+        .catch(error => {
+            console.error('Error loading data:', error);
+            document.getElementById('error-message').textContent = error.message; // Display error in reserved space
         });
-        displayQuestion(); // Start displaying questions after data loads
-    })
-    .catch(error => console.error('Error loading data:', error));
+}
+
+// Display today's date in the input field as default
+const today = new Date();
+const smallerFormattedDate = today.toLocaleDateString('en-US', { month: '2-digit', day: '2-digit', year: '2-digit' });
+document.getElementById('date-input').value = smallerFormattedDate;
+retrieveDataFile(smallerFormattedDate); // Load data for today's date on app load
+
+// Event listener for Enter key in the date input field
+document.getElementById('date-input').addEventListener('keypress', (event) => {
+    if (event.key === 'Enter') {
+        const enteredDate = document.getElementById('date-input').value.trim();
+
+        // Validate the format first
+        const datePattern = /^\d{2}\/\d{2}\/\d{2}$/;
+        if (!datePattern.test(enteredDate)) {
+            document.getElementById('error-message').textContent = 'Invalid date format. Use MM/DD/YY.';
+            return;
+        }
+
+        // Parse and validate the actual date
+        const [month, day, year] = enteredDate.split('/').map(Number);
+        const parsedDate = new Date(`20${year}`, month - 1, day); // Create a Date object
+        if (
+            parsedDate.getFullYear() !== 2000 + year || // Ensure the year matches
+            parsedDate.getMonth() !== month - 1 || // Ensure the month matches
+            parsedDate.getDate() !== day // Ensure the day matches
+        ) {
+            document.getElementById('error-message').textContent = 'Invalid date. Please enter a real calendar date.';
+            return;
+        }
+
+        // Clear error message and retrieve data
+        document.getElementById('error-message').textContent = '';
+        retrieveDataFile(enteredDate);
+    }
+});
 
 // Display the current question and category
 function displayQuestion() {
     const currentQuestion = reviewingMissedQuestions ? missedQuestions[reviewIndex] : data[currentQuestionIndex];
     document.getElementById('category').textContent = currentQuestion.category;
     document.getElementById('question').textContent = `${currentQuestion.key}. ${currentQuestion.question}`;
-    
+
     // Reset the Show Answer button text, style, and enable it for the next question
     const showAnswerButton = document.getElementById('show-answer');
     showAnswerButton.textContent = "Show Answer";

@@ -19,6 +19,45 @@ body {
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
     background-color: #ffffff; /* White background for flashcard box */
     margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.date-input-section {
+    margin-bottom: 0; /* Keep spacing minimal */
+    text-align: center;
+    font-size: 0.95em; /* Adjust label font size */
+    color: #333; /* Slightly softened text color for the label */
+}
+
+#date-input {
+    padding: 5px;
+    font-size: 14px; /* Slightly smaller font size */
+    width: 160px;
+    text-align: center; /* Center-align text inside the box */
+    border: 1px solid #ccc; /* Soft border for the input box */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #f9f9f9; /* Light gray background */
+    color: #333; /* Neutral text color */
+    box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.1); /* Subtle inset shadow */
+    transition: border-color 0.3s ease; /* Smooth transition for focus effect */
+}
+
+#date-input:focus {
+    border-color: #4caf50; /* Green border when focused */
+    outline: none; /* Remove default outline */
+    background-color: #fff; /* White background on focus */
+}
+
+#error-message {
+    font-size: 0.9em;
+    color: red;
+    height: 20px; /* Reserve space for error message */
+    margin-bottom: 5px; /* Adjust spacing to keep category on next line */
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #category {
