@@ -1,0 +1,25 @@
+1	A. Largest Islands by Area	What is the largest island in the world?	Greenland
+2	A. Largest Islands by Area	What is the largest island in the United States by area?	Hawaii (Big Island)
+3	A. Largest Islands by Area	Which island is the largest in the Mediterranean Sea?	Sicily
+4	A. Largest Islands by Area	What is the largest island in Asia?	Borneo
+5	A. Largest Islands by Area	Which island is the largest in Japan?	Honshu
+1	B. Photosynthesis	What gas is absorbed by plants during photosynthesis?	Carbon dioxide
+2	B. Photosynthesis	What gas is released by plants as a byproduct of photosynthesis?	Oxygen
+3	B. Photosynthesis	What is the main source of energy for photosynthesis?	Sunlight
+4	B. Photosynthesis	What is the primary pigment involved in photosynthesis?	Chlorophyll
+5	B. Photosynthesis	What is the term for the tiny openings on leaves where gas exchange occurs?	Stomata
+1	C. Famous Concert Venues	What is the name of the iconic concert venue in New York City known for hosting major events since 1879?	Madison Square Garden
+2	C. Famous Concert Venues	Which concert venue in Los Angeles is famous for its distinctive shell-shaped structure?	Hollywood Bowl
+3	C. Famous Concert Venues	Which arena in Sydney, Australia, is famous for its iconic sail-like design?	Sydney Opera House
+4	C. Famous Concert Venues	Which historic concert venue in London is known for its annual Proms concerts?	Royal Albert Hall
+5	C. Famous Concert Venues	What is the largest stadium in the United Kingdom, often used for concerts and major events?	Wembley Stadium
+1	D. Feudalism	What is the name of the code of conduct that medieval knights followed?	Chivalry
+2	D. Feudalism	What term describes a person who pledged loyalty and service to a lord in exchange for land?	Vassal
+3	D. Feudalism	What group of people worked the land and were tied to it under the feudal system?	Serfs
+4	D. Feudalism	What was the ceremony called where a vassal pledged allegiance to their lord?	Homage
+5	D. Feudalism	In feudalism, what was the land granted by a lord to a vassal called?	Fief
+1	E. Essential Camping Gear	What item is necessary for sleeping comfortably while camping?	Sleeping bag
+2	E. Essential Camping Gear	What piece of gear is essential for carrying all your camping items?	Backpack
+3	E. Essential Camping Gear	What is used for cooking meals while camping?	Camp stove
+4	E. Essential Camping Gear	What item should you bring to protect yourself from insects while camping?	Insect repellent
+5	E. Essential Camping Gear	What piece of equipment is essential for navigation during hiking or camping?	Map and compass
