@@ -1,0 +1,25 @@
+1	A. Classic Sitcoms	What 1960s sitcom focused on a group of castaways on a deserted island?	Gilligan's Island
+2	A. Classic Sitcoms	Which sitcom featured the characters Lucy and Ricky Ricardo?	I Love Lucy
+3	A. Classic Sitcoms	Which classic sitcom followed the lives of a blended family of six kids?	The Brady Bunch
+4	A. Classic Sitcoms	Which sitcom featured a talking horse named Mister Ed?	Mister Ed
+5	A. Classic Sitcoms	What was the name of the witch in the sitcom "Bewitched"?	Samantha Stephens
+1	B. Ocean Currents	What is the name of the major current in the North Atlantic Ocean?	Gulf Stream
+2	B. Ocean Currents	What is the primary driver of surface ocean currents?	Wind
+3	B. Ocean Currents	What phenomenon is caused by the interaction of ocean currents and wind patterns along the Pacific coast of South America?	El Niño
+4	B. Ocean Currents	Which current flows along the west coast of South America, bringing nutrient-rich cold water?	Humboldt Current (or Peru Current)
+5	B. Ocean Currents	What circular movement of ocean currents occurs in the major ocean basins?	Gyre
+1	C. Tropical Rainforests	What is the largest tropical rainforest in the world?	Amazon Rainforest
+2	C. Tropical Rainforests	What is the primary cause of deforestation in tropical rainforests?	Agriculture and logging
+3	C. Tropical Rainforests	Which Southeast Asian country is home to parts of the Borneo rainforest?	Indonesia
+4	C. Tropical Rainforests	Which layer of the rainforest is home to the tallest trees?	Canopy
+5	C. Tropical Rainforests	Which rainforest is located in central Africa?	Congo Rainforest
+1	D. Cricket Rules and Regulations	How many players are there in a cricket team?	11
+2	D. Cricket Rules and Regulations	How many bails are placed on the stumps?	2
+3	D. Cricket Rules and Regulations	How many runs are awarded for hitting the ball over the boundary without it touching the ground?	6
+4	D. Cricket Rules and Regulations	What does LBW stand for in cricket?	Leg Before Wicket
+5	D. Cricket Rules and Regulations	What is the maximum number of overs allowed per bowler in a One Day International (ODI)?	10
+1	E. Renaissance Art	Which artist painted the Mona Lisa?	Leonardo da Vinci
+2	E. Renaissance Art	What famous sculpture did Michelangelo create from a single block of marble?	David
+3	E. Renaissance Art	What city is considered the birthplace of the Renaissance?	Florence
+4	E. Renaissance Art	What famous painting by Leonardo da Vinci depicts Jesus and his disciples?	The Last Supper
+5	E. Renaissance Art	Who painted The School of Athens, which depicts famous philosophers?	Raphael
