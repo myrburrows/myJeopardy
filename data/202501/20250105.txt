@@ -1,0 +1,25 @@
+1	A. DNA Structure	What shape is the DNA molecule?	Double Helix
+2	A. DNA Structure	What does DNA stand for?	Deoxyribonucleic Acid
+3	A. DNA Structure	Who are credited with discovering the structure of DNA?	James Watson and Francis Crick
+4	A. DNA Structure	What are the building blocks of DNA called?	Nucleotides
+5	A. DNA Structure	What is the sugar found in DNA called?	Deoxyribose
+1	B. Countries with the Most Borders	Which country shares the most borders with other countries (14 land borders)?	China
+2	B. Countries with the Most Borders	Which European country shares borders with 9 countries, including Germany and Austria?	France
+3	B. Countries with the Most Borders	Which landlocked South American country borders 5 other countries?	Bolivia
+4	B. Countries with the Most Borders	What is the only country that borders both Portugal and Andorra?	Spain
+5	B. Countries with the Most Borders	Which country shares borders with the most nations in the Middle East?	Turkey
+1	C. Montgomery Bus Boycott	Who was the president of the Montgomery Improvement Association during the boycott?	Martin Luther King Jr.
+2	C. Montgomery Bus Boycott	Who was the woman whose arrest sparked the Montgomery Bus Boycott?	Rosa Parks
+3	C. Montgomery Bus Boycott	What year did the Montgomery Bus Boycott begin?	1955
+4	C. Montgomery Bus Boycott	What was the main goal of the Montgomery Bus Boycott?	To end racial segregation on public buses
+5	C. Montgomery Bus Boycott	What U.S. Supreme Court ruling ended segregation on public buses?	Browder v. Gayle
+1	D. Disney Animated Shorts	What was the first full-length animated feature film by Disney?	Snow White and the Seven Dwarfs
+2	D. Disney Animated Shorts	Which Disney film features a flying elephant?	Dumbo
+3	D. Disney Animated Shorts	Which Disney princess pricks her finger on a spinning wheel?	Aurora (Sleeping Beauty)
+4	D. Disney Animated Shorts	What is the name of the boy raised by wolves in "The Jungle Book"?	Mowgli
+5	D. Disney Animated Shorts	Which Disney film features the song "When You Wish Upon a Star"?	Pinocchio
+1	E. FIFA World Cup	Which country has won the most FIFA World Cups (5)?	Brazil
+2	E. FIFA World Cup	Who scored the "Hand of God" goal in the 1986 World Cup?	Diego Maradona
+3	E. FIFA World Cup	What is the only country to have appeared in every FIFA World Cup?	Brazil
+4	E. FIFA World Cup	What does FIFA stand for?	Fédération Internationale de Football Association
+5	E. FIFA World Cup	Who holds the record for the most goals scored in a single FIFA World Cup tournament?	Just Fontaine (13 goals in 1958)

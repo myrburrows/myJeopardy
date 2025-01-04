@@ -1,0 +1,25 @@
+1	A. The Great Wall of China	During which dynasty was the majority of the Great Wall we see today constructed?	Ming Dynasty
+2	A. The Great Wall of China	What was the main defensive feature of the Great Wall used for signaling?	Beacon towers
+3	A. The Great Wall of China	Is the Great Wall of China visible from space?	No, it is a common myth
+4	A. The Great Wall of China	Approximately how long is the Great Wall of China?	13,000 miles (21,000 kilometers)
+5	A. The Great Wall of China	Which Chinese dynasty began construction of the Great Wall?	Qin Dynasty
+1	B. Plate Tectonics	What are the large sections of Earth's crust that move over the mantle called?	Tectonic Plates
+2	B. Plate Tectonics	Which tectonic plate is the largest on Earth?	Pacific Plate
+3	B. Plate Tectonics	What is the name of the supercontinent that existed around 300 million years ago?	Pangaea
+4	B. Plate Tectonics	What is the term for molten rock that emerges from a tectonic plate?	Magma
+5	B. Plate Tectonics	What is the term for the process of one tectonic plate sinking beneath another?	Subduction
+1	C. Iconic Film Directors	Which director is known for creating the "Star Wars" franchise?	George Lucas
+2	C. Iconic Film Directors	Who directed the epic film "Titanic"?	James Cameron
+3	C. Iconic Film Directors	Who directed the classic suspense film "Psycho"?	Alfred Hitchcock
+4	C. Iconic Film Directors	Which iconic filmmaker is behind the "Indiana Jones" series?	Steven Spielberg
+5	C. Iconic Film Directors	Who directed the crime saga "The Godfather"?	Francis Ford Coppola
+1	D. Famous Art Museums	What is the name of the famous art museum in Paris that houses the Mona Lisa?	The Louvre
+2	D. Famous Art Museums	Which museum in London houses the Rosetta Stone?	The British Museum
+3	D. Famous Art Museums	Which museum in New York City is known for its modern art collection and spiral design by Frank Lloyd Wright?	The Guggenheim
+4	D. Famous Art Museums	Which museum in Washington, D.C., is famous for its free entry and diverse art collections?	Smithsonian American Art Museum
+5	D. Famous Art Museums	What is the name of the famous museum in Madrid known for its extensive collection of European art?	Prado Museum
+1	E. History of the Olympic Games	In which country did the ancient Olympic Games originate?	Greece
+2	E. History of the Olympic Games	Which city has hosted the Olympics the most times?	London (3 times)
+3	E. History of the Olympic Games	What year did women first participate in the Olympic Games?	1900
+4	E. History of the Olympic Games	Which sport was the only event in the ancient Olympic Games?	Running
+5	E. History of the Olympic Games	Which city was the first to host the Winter Olympic Games?	Chamonix, France
