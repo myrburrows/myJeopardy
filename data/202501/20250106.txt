@@ -1,0 +1,25 @@
+1	A. Tallest Mountain Peaks	What is the tallest mountain in the world?	Mount Everest
+2	A. Tallest Mountain Peaks	Which mountain is the highest in North America?	Denali (Mount McKinley)
+3	A. Tallest Mountain Peaks	What is the tallest mountain in Africa?	Mount Kilimanjaro
+4	A. Tallest Mountain Peaks	Which is the tallest mountain in the Alps?	Mont Blanc
+5	A. Tallest Mountain Peaks	Which mountain in the Himalayas is the second tallest in the world?	K2 (Mount Godwin-Austen)
+1	B. NBA Teams	Which NBA team is based in Los Angeles and known for its purple and gold colors?	Los Angeles Lakers
+2	B. NBA Teams	What is the name of the NBA team based in Miami?	Miami Heat
+3	B. NBA Teams	Which NBA team is based in Milwaukee and won the championship in 2021?	Milwaukee Bucks
+4	B. NBA Teams	What is the name of the NBA team based in Phoenix?	Phoenix Suns
+5	B. NBA Teams	Which NBA team is named after a type of dinosaur?	Toronto Raptors
+1	C. Iconic TV Shows	Which iconic sitcom is set in the fictional town of Mayberry?	The Andy Griffith Show
+2	C. Iconic TV Shows	What is the name of the fictional coffee shop where the characters of "Friends" often meet?	Central Perk
+3	C. Iconic TV Shows	In which city is "The Office" (US) set?	Scranton, Pennsylvania
+4	C. Iconic TV Shows	Which TV show is set in the fictional city of Westeros?	Game of Thrones
+5	C. Iconic TV Shows	What city is the setting for the TV show "Breaking Bad"?	Albuquerque, New Mexico
+1	D. British Empire	Which was the first British colony in the Americas?	Jamestown, Virginia
+2	D. British Empire	Which British explorer claimed Australia for the British Crown?	Captain James Cook
+3	D. British Empire	What phrase was often used to describe the British Empire's global reach?	The empire on which the sun never sets
+4	D. British Empire	What year marked the end of British rule in India?	1947
+5	D. British Empire	Which war resulted in the British gaining control of Canada from France?	Seven Years' War
+1	E. Leonardo da Vinci	What is Leonardo da Vinci's most famous painting?	Mona Lisa
+2	E. Leonardo da Vinci	Which museum houses the Mona Lisa?	Louvre Museum
+3	E. Leonardo da Vinci	Which city is home to Leonardo's mural, "The Last Supper"?	Milan
+4	E. Leonardo da Vinci	What is the name of Leonardo's famous drawing of a man in two superimposed positions?	Vitruvian Man
+5	E. Leonardo da Vinci	What is the name of Leonardo da Vinci's famous notebook containing scientific sketches and notes?	Codex
