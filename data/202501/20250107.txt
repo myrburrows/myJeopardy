@@ -1,0 +1,25 @@
+1	A. Olympic Swimmers	Who is the most decorated Olympian of all time?	Michael Phelps
+2	A. Olympic Swimmers	Which country did Ian Thorpe represent in the Olympics?	Australia
+3	A. Olympic Swimmers	What is Katie Ledecky’s main swimming style?	Freestyle
+4	A. Olympic Swimmers	Who was the first female swimmer to win 7 Olympic medals in one Games (for Australia)?	Emma McKeon
+5	A. Olympic Swimmers	In what year did Mark Spitz win 7 gold medals in one Olympics?	1972
+1	B. Comedy Specials	Who performed the comedy special "Delirious" in 1983? Eddie ______	Murphy
+2	B. Comedy Specials	Who starred in the HBO special "Bring the Pain," which won an Emmy? Chris ______	Rock
+3	B. Comedy Specials	What comedian starred in the 2019 comedy special "Irresponsible"? Kevin ______	Hart
+4	B. Comedy Specials	Who was the first comedian to release a Netflix comedy special? Bill ______	Burr
+5	B. Comedy Specials	Which comedian released a comedy special titled "Black Mitzvah" on Netflix in 2019? Tiffany ______	Haddish
+1	C. Printing Press	Who is credited with inventing the printing press?	Johannes Gutenberg
+2	C. Printing Press	In which century was the printing press invented?	15th century
+3	C. Printing Press	What is the name of the first major book printed using the printing press?	The Gutenberg Bible
+4	C. Printing Press	What key invention was essential to the functioning of Gutenberg's printing press?	Movable type
+5	C. Printing Press	How many copies of the Gutenberg Bible are estimated to have been printed?	Approximately 180
+1	D. World Heritage Cultures	What iconic cultural site in Peru is recognized as a World Heritage Site?	Machu Picchu
+2	D. World Heritage Cultures	What ancient city in Jordan is a UNESCO World Heritage Site known for its rock-cut architecture?	Petra
+3	D. World Heritage Cultures	What UNESCO World Heritage Site in Australia is known for its vast coral reef system?	Great Barrier Reef
+4	D. World Heritage Cultures	Which World Heritage Site in China is famous for its Terracotta Army?	The Mausoleum of the First Qin Emperor
+5	D. World Heritage Cultures	Which European city is home to a UNESCO-listed historic center known for its canals and architecture?	Venice
+1	E. Earthquakes	What is the name of the instrument used to record earthquake waves?	Seismograph
+2	E. Earthquakes	What is the point on the Earth's surface directly above the earthquake's origin called?	Epicenter
+3	E. Earthquakes	What scale is most commonly used to measure the magnitude of earthquakes?	Richter scale
+4	E. Earthquakes	What is the name of the region around the Pacific Ocean known for frequent earthquakes?	Ring of Fire
+5	E. Earthquakes	What year did the San Francisco earthquake that caused massive fires occur?	1906
