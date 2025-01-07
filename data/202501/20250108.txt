@@ -1,0 +1,25 @@
+1	A. Ancient Wonders	Which ancient wonder was located in Babylon?	Hanging Gardens of Babylon
+2	A. Ancient Wonders	What was the only ancient wonder still in existence today?	Great Pyramid of Giza
+3	A. Ancient Wonders	Where was the Lighthouse of Alexandria located?	Egypt
+4	A. Ancient Wonders	Which ancient wonder was a giant statue of the sun god Helios?	Colossus of Rhodes
+5	A. Ancient Wonders	Which ancient wonder was built as a tomb for Mausolus?	Mausoleum at Halicarnassus
+1	B. Largest Lakes in the World	Which lake is the largest freshwater lake by surface area?	Lake Superior
+2	B. Largest Lakes in the World	What is the largest saltwater lake in the United States?	Great Salt Lake
+3	B. Largest Lakes in the World	Which is the largest lake in Africa?	Lake Victoria
+4	B. Largest Lakes in the World	What is the largest lake in South America?	Lake Maracaibo
+5	B. Largest Lakes in the World	What is the largest lake in North America by volume?	Great Slave Lake
+1	C. Formula 1 Drivers	Dutch. Current star and multiple World Championships, Max ______	Verstappen
+2	C. Formula 1 Drivers	British. 7-time World Champion, Lewis ______	Hamilton
+3	C. Formula 1 Drivers	German. 7-time World Champion, Michael ______	Schumacher
+4	C. Formula 1 Drivers	Brazilian. 7-time World Champion, Ayrton ______	Senna
+5	C. Formula 1 Drivers	German. 4-time World Champion, Sebastian ______	Vettel
+1	D. Animal Behavior	What is the term for a group of lions living together?	Pride
+2	D. Animal Behavior	What is the term for the seasonal movement of animals from one region to another?	Migration
+3	D. Animal Behavior	What is the term for the long sleep some animals enter during winter?	Hibernation
+4	D. Animal Behavior	Which marine animal is known for its ability to mimic other creatures?	Octopus
+5	D. Animal Behavior	What is the term for animals that are active during the day?	Diurnal
+1	E. Renaissance Artists' Home Towns	Leonardo da Vinci home town	Vinci, Italy
+2	E. Renaissance Artists' Home Towns	Sandro Botticelli home town	Florence, Italy
+3	E. Renaissance Artists' Home Towns	Donatello home town	Florence, Italy
+4	E. Renaissance Artists' Home Towns	Filippo Brunelleschi home town	Florence, Italy
+5	E. Renaissance Artists' Home Towns	Albrecht Dürer home town	Nuremberg, Germany
