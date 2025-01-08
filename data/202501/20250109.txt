@@ -1,0 +1,25 @@
+1	A. Tour de France	What color is the leader’s jersey in the Tour de France?	Yellow
+2	A. Tour de France	How many stages are typically in the modern Tour de France?	21 stages
+3	A. Tour de France	What is the name of the final stage's finishing point in the Tour de France?	Champs-Élysées, Paris
+4	A. Tour de France	What is the polka dot jersey awarded for?	King of the Mountains (best climber)
+5	A. Tour de France	What is the nickname for the last rider in the general classification?	Lanterne Rouge
+1	B. Textile Industry	What raw material became the backbone of the textile industry during the Industrial Revolution?	Cotton
+2	B. Textile Industry	What invention by Eli Whitney in 1793 revolutionized cotton processing?	Cotton Gin
+3	B. Textile Industry	Which city in England became known as "Cottonopolis" for its dominance in textile production?	Manchester
+4	B. Textile Industry	Which invention by James Hargreaves revolutionized the spinning process?	Spinning Jenny
+5	B. Textile Industry	What machine, invented by Richard Arkwright, combined spinning and water power?	Water Frame
+1	C. Largest Deserts by Area	Which is the largest hot desert in the world?	Sahara Desert
+2	C. Largest Deserts by Area	What is the largest desert in Asia?	Gobi Desert
+3	C. Largest Deserts by Area	Which South American desert is known as the driest non-polar desert in the world?	Atacama Desert
+4	C. Largest Deserts by Area	What is the largest desert in North America?	Chihuahuan Desert
+5	C. Largest Deserts by Area	What is the largest desert in South Africa?	Kalahari Desert
+1	D. Cooking Competitions	What reality TV show pits professional chefs against each other in quickfire and elimination challenges?	Top Chef
+2	D. Cooking Competitions	Amateur chefs on "Master Chef" are trying to impress this lead judge star.	Gordon Ramsay
+3	D. Cooking Competitions	Which reality cooking show is hosted by Paul Hollywood and Prue Leith?	The Great British Bake Off
+4	D. Cooking Competitions	In which show do chefs face surprise ingredients in a basket to create a dish?	Chopped
+5	D. Cooking Competitions	On which cooking competition do contestants race against time to complete culinary tasks while being judged by Alton Brown?	Cutthroat Kitchen
+1	E. Greek Tragedy	In which city were most Greek tragedies performed during festivals?	Athens
+2	E. Greek Tragedy	Which playwright wrote the tragedy "Oedipus Rex"?	Sophocles
+3	E. Greek Tragedy	Who is considered the "Father of Greek Tragedy"?	Aeschylus
+4	E. Greek Tragedy	What is the central theme of Euripides' play "Medea"?	Revenge
+5	E. Greek Tragedy	What is the name of the trilogy written by Aeschylus that includes "Agamemnon"?	The Oresteia
