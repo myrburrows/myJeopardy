@@ -1,0 +1,25 @@
+1	A. War and Peace	Who is the author of War and Peace?	Leo Tolstoy
+2	A. War and Peace	What historical event forms the backdrop of War and Peace?	Napoleonic Wars
+3	A. War and Peace	How many volumes is War and Peace traditionally divided into?	Four
+4	A. War and Peace	Which family is central to the plot of War and Peace?	The Rostov family
+5	A. War and Peace	Which philosophical theme is deeply explored in War and Peace?	Free will vs. determinism
+1	B. Poker Hands	What is the highest-ranking hand in poker?	Royal Flush
+2	B. Poker Hands	What is a Full House in poker?	Three of a kind and a pair
+3	B. Poker Hands	What is the lowest-ranking hand that beats a High Card?	One Pair
+4	B. Poker Hands	What hand is commonly referred to as "The Wheel"?	A-2-3-4-5 (a low Straight)
+5	B. Poker Hands	In poker, what hand is nicknamed "Dead Man's Hand"?	Two Aces and two Eights
+1	C. Video Game Genres	What is the genre of games like The Sims, where players simulate real-life activities?	Simulation
+2	C. Video Game Genres	Which genre is known for storytelling and player choices, often featuring characters and quests?	Role-Playing Game (RPG)
+3	C. Video Game Genres	Which genre emphasizes physical challenges and hand-eye coordination?	Action
+4	C. Video Game Genres	What genre is characterized by open-ended exploration and world-building?	Sandbox
+5	C. Video Game Genres	What genre focuses on multiplayer battles in an arena, such as League of Legends?	MOBA (Multiplayer Online Battle Arena)
+1	D. Nuclear Arms Race	What two superpowers were involved in the Nuclear Arms Race during the Cold War?	United States and Soviet Union
+2	D. Nuclear Arms Race	What policy aimed to prevent the use of nuclear weapons by ensuring mutual destruction?	Mutually Assured Destruction (MAD)
+3	D. Nuclear Arms Race	What event in 1962 brought the world to the brink of nuclear war?	Cuban Missile Crisis
+4	D. Nuclear Arms Race	What program was nicknamed "Star Wars" during the 1980s?	Strategic Defense Initiative (SDI)
+5	D. Nuclear Arms Race	What is the term for the easing of tensions between the U.S. and the USSR during the 1970s?	Détente
+1	E. Avalanches	What is an avalanche?	A rapid flow of snow down a slope
+2	E. Avalanches	Which region is most prone to avalanches in the world?	The Himalayas
+3	E. Avalanches	What is the term for a tool used to search for buried avalanche victims?	Avalanche Beacon
+4	E. Avalanches	What are the two main types of avalanches?	Snow Avalanches and Debris Avalanches
+5	E. Avalanches	What is the deadliest avalanche on record, killing 20,000 people in 1970?	Huascarán Avalanche
