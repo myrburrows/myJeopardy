@@ -1,0 +1,25 @@
+1	A. Golden Age of Hollywood	Which movie is considered the first feature-length "talkie"?	The Jazz Singer
+2	A. Golden Age of Hollywood	Which 1939 film is often called the greatest movie of the Golden Age?	Gone with the Wind
+3	A. Golden Age of Hollywood	Which Golden Age director is famous for suspenseful films like Psycho and Rear Window?	Alfred Hitchcock
+4	A. Golden Age of Hollywood	Which actress earned the nickname "The Blonde Bombshell"?	Jean Harlow
+5	A. Golden Age of Hollywood	What was the production code that set moral guidelines for films?	Hays Code
+1	B. Age of Exploration	Who is credited with discovering the Americas in 1492?	Christopher Columbus
+2	B. Age of Exploration	Which Portuguese explorer was the first to reach India by sea?	Vasco da Gama
+3	B. Age of Exploration	Which explorer gave his name to the Americas?	Amerigo Vespucci
+4	B. Age of Exploration	What was the Northwest Passage sought by many explorers?	A sea route to Asia through North America
+5	B. Age of Exploration	Which Spanish conquistador defeated the Aztec Empire?	Hernán Cortés
+1	C. Ancient Greek Sculpture	What material was commonly used in Ancient Greek sculptures?	Marble
+2	C. Ancient Greek Sculpture	What is the Venus de Milo statue missing?	Arms
+3	C. Ancient Greek Sculpture	Which Ancient Greek sculptor created the statue of Athena Parthenos?	Phidias
+4	C. Ancient Greek Sculpture	Which Greek period emphasized realism and emotion in sculpture?	Hellenistic Period
+5	C. Ancient Greek Sculpture	Who is the famous sculptor of the statue of Zeus at Olympia?	Phidias
+1	D. Continents of the World	Which is the largest continent by area?	Asia
+2	D. Continents of the World	What continent is also considered a country?	Australia
+3	D. Continents of the World	Which is the smallest continent by area?	Australia
+4	D. Continents of the World	Which continent has the most countries?	Africa
+5	D. Continents of the World	Which continent is covered almost entirely by ice?	Antarctica
+1	E. Skeletal System	Which part of the skeleton protects the brain?	Skull
+2	E. Skeletal System	What is the scientific name for the collarbone?	Clavicle
+3	E. Skeletal System	What is the longest bone in the human body?	Femur
+4	E. Skeletal System	Which mineral is essential for strong bones?	Calcium
+5	E. Skeletal System	What are the bones in the fingers and toes called?	Phalanges
