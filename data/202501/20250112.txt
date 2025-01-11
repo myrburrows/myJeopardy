@@ -1,0 +1,25 @@
+1	A. American Revolution	Who was the commander of the Continental Army?	George Washington
+2	A. American Revolution	What document declared the American colonies independent from Britain?	Declaration of Independence
+3	A. American Revolution	Who was the principal author of the Declaration of Independence?	Thomas Jefferson
+4	A. American Revolution	What was the main reason for the American Revolution?	Taxation without representation
+5	A. American Revolution	What treaty officially ended the American Revolution?	Treaty of Paris (1783)
+1	B. Famous Actors	Which actor played Jack in Titanic?	Leonardo DiCaprio
+2	B. Famous Actors	Who starred as Forrest Gump in the movie of the same name?	Tom Hanks
+3	B. Famous Actors	Which actor is known for his roles in The Godfather and Scarface?	Al Pacino
+4	B. Famous Actors	Which actor is famous for playing Iron Man in the Marvel Cinematic Universe?	Robert Downey Jr.
+5	B. Famous Actors	Who played Harry Potter in all eight films?	Daniel Radcliffe
+1	C. Periodic Table	What is the first element on the periodic table?	Hydrogen
+2	C. Periodic Table	What element has the chemical symbol "O"?	Oxygen
+3	C. Periodic Table	What is the only metal that is liquid at room temperature?	Mercury
+4	C. Periodic Table	What is the chemical symbol for gold?	Au
+5	C. Periodic Table	What is the heaviest naturally occurring element?	Uranium
+1	D. Cultural Landscapes	What is a cultural landscape, a term defined by Carl Sauer?	A landscape shaped by human activity
+2	D. Cultural Landscapes	What are terraced rice fields an example of?	Agricultural Landscape
+3	D. Cultural Landscapes	Which UNESCO World Heritage Site is a cultural landscape in South America?	Machu Picchu
+4	D. Cultural Landscapes	What cultural landscape is associated with indigenous cultures in Australia?	Uluru (Ayers Rock)
+5	D. Cultural Landscapes	What is an example of a "vernacular landscape"?	Amish farmlands
+1	E. E-Sports	Which game is the most-watched e-sport in the world?	League of Legends
+2	E. E-Sports	Which country is often considered the birthplace of professional e-sports?	South Korea
+3	E. E-Sports	What popular battle royale game hosts the "Fortnite World Cup"?	Fortnite
+4	E. E-Sports	Which streaming platform is most commonly associated with e-sports?	Twitch
+5	E. E-Sports	What is the name of the first-person shooter developed by Blizzard Entertainment that became an e-sports sensation?	Overwatch
