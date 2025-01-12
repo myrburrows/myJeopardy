@@ -1,0 +1,25 @@
+1	Longest Rivers in the World	Which river forms part of the border between the United States and Mexico?	Rio Grande
+2	Longest Rivers in the World	Which river flows through 10 countries in Africa?	Nile River
+3	Longest Rivers in the World	What is the longest river in Asia?	Yangtze River
+4	Longest Rivers in the World	Which river is considered sacred in India and is one of the longest in the country?	Ganges River
+5	Longest Rivers in the World	What is the longest river in Europe?	Volga River
+1	Tudor Dynasty	Which Tudor monarch broke from the Catholic Church to form the Church of England?	Henry VIII
+2	Tudor Dynasty	How many wives did Henry VIII have?	Six
+3	Tudor Dynasty	Which Tudor queen is known as the "Virgin Queen"?	Elizabeth I
+4	Tudor Dynasty	Which Tudor monarch reigned for only nine days?	Lady Jane Grey
+5	Tudor Dynasty	What was the name of the palace built by Henry VIII?	Hampton Court Palace
+1	Alpine Skiing	What is another name for Alpine Skiing?	Downhill Skiing
+2	Alpine Skiing	What is the term for skiing between a series of poles in Alpine Skiing?	Slalom
+3	Alpine Skiing	What are the four main disciplines of Alpine Skiing in the Olympics?	Downhill, Slalom, Giant Slalom, Super-G
+4	Alpine Skiing	What does "Super-G" stand for in Alpine Skiing?	Super Giant Slalom
+5	Alpine Skiing	What country is known as the birthplace of Alpine Skiing?	Austria
+1	Wildlife Sanctuaries	What UNESCO World Heritage Site is both a sanctuary and a national park in the Galápagos Islands?	Galápagos National Park
+2	Wildlife Sanctuaries	Which wildlife sanctuary in Africa is known for the Great Migration?	Serengeti National Park
+3	Wildlife Sanctuaries	Which country is home to the world's first wildlife sanctuary?	Sri Lanka
+4	Wildlife Sanctuaries	Which wildlife sanctuary is famous for protecting giant pandas in China?	Wolong National Nature Reserve
+5	Wildlife Sanctuaries	Which wildlife sanctuary in Australia is known for its koalas?	Lone Pine Koala Sanctuary
+1	Music Genres	Which genre is often associated with the electric guitar and emerged in the 1950s?	Rock and Roll
+2	Music Genres	What genre of music originated in the Mississippi Delta in the early 20th century?	Blues
+3	Music Genres	What is the dominant style of music in Jamaica that emerged in the 1960s?	Reggae
+4	Music Genres	What genre is characterized by storytelling through sung lyrics, often with acoustic instruments?	Folk
+5	Music Genres	What genre of music originated in the Appalachian region of the United States?	Bluegrass
