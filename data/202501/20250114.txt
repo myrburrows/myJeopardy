@@ -1,0 +1,25 @@
+1	A. Alexander the Great	What was the name of the city Alexander founded in Egypt that became a center of learning?	Alexandria
+2	A. Alexander the Great	Which philosopher was Alexander's tutor during his youth?	Aristotle
+3	A. Alexander the Great	Which river marked the easternmost point of Alexander's conquests?	Indus River
+4	A. Alexander the Great	Who was Alexander the Great's father?	Philip II of Macedon
+5	A. Alexander the Great	What was the name of Alexander the Great's famous horse?	Bucephalus
+1	B. Academy Awards (Oscars)	What is the only sequel to win Best Picture?	The Godfather Part II
+2	B. Academy Awards (Oscars)	Name 2 or 3 films tied for the most Oscars in history at 11?	Ben-Hur, Titanic, The Lord of the Rings: The Return of the King
+3	B. Academy Awards (Oscars)	Who was the first woman to win the Oscar for Best Director?	Kathryn Bigelow
+4	B. Academy Awards (Oscars)	Who was the youngest-ever winner of an acting Oscar?	Tatum O'Neal
+5	B. Academy Awards (Oscars)	In which year were the first Academy Awards held?	1929
+1	C. Superhero Comics	Which superhero is known as the "Man of Steel"?	Superman
+2	C. Superhero Comics	What is the real name of Batman?	Bruce Wayne
+3	C. Superhero Comics	Which Marvel superhero wields the hammer Mjolnir?	Thor
+4	C. Superhero Comics	What fictional African nation is the home of Black Panther?	Wakanda
+5	C. Superhero Comics	Which superhero team includes Cyclops, Storm, and Wolverine?	X-Men
+1	D. Flags with Unique Shapes	Which flag has a red circle in the center on a white background?	Japan
+2	D. Flags with Unique Shapes	Which country’s flag features a cedar tree?	Lebanon
+3	D. Flags with Unique Shapes	Which country's flag is the only one that is non-rectangular?	Nepal
+4	D. Flags with Unique Shapes	What is the shape of Nepal's flag?	Two overlapping triangles
+5	D. Flags with Unique Shapes	Which flag has an AK-47 rifle depicted on it?	Mozambique
+1	E. Stanley Cup	What is the Stanley Cup awarded for?	Winning the NHL Championship
+2	E. Stanley Cup	What is engraved on the Stanley Cup each time a team wins?	The names of the players, coaches, and staff
+3	E. Stanley Cup	Which team won the Stanley Cup in 2023?	Vegas Golden Knights
+4	E. Stanley Cup	Which team has won the most Stanley Cups in NHL history?	Montreal Canadiens
+5	E. Stanley Cup	Which team is known as the first-ever NHL team to win the Stanley Cup?	Toronto Arenas
