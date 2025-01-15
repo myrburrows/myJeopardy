@@ -1,0 +1,25 @@
+1	Classic Disney Films	Which classic Disney princess loses her glass slipper at a royal ball?	Cinderella
+2	Classic Disney Films	What Disney film is set in the African jungle and follows a boy raised by wolves?	The Jungle Book
+3	Classic Disney Films	What is the name of the puppet who wants to become a real boy in a classic Disney film?	Pinocchio
+4	Classic Disney Films	What Disney movie features the characters Flora, Fauna, and Merryweather?	Sleeping Beauty
+5	Classic Disney Films	What is the name of the villain in "Sleeping Beauty"?	Maleficent
+1	PGA Tournaments	What is the prestigious PGA tournament held annually at Augusta National Golf Club?	The Masters
+2	PGA Tournaments	What is the name of the team golf competition held every two years between the USA and Europe?	Ryder Cup
+3	PGA Tournaments	Who is the youngest golfer to win the Masters Tournament?	Tiger Woods
+4	PGA Tournaments	What major PGA tournament is played at different courses across the United States each year?	U.S. Open
+5	PGA Tournaments	Which golfer has the most PGA Tour wins in history?	Sam Snead
+1	Set Design in Film	What famous fantasy film series featured the intricately designed set of Bag End?	The Lord of the Rings
+2	Set Design in Film	Which dystopian film is known for its detailed futuristic cityscape sets designed by Syd Mead?	Blade Runner
+3	Set Design in Film	The Overlook Hotel, featured in "The Shining," was inspired by which real hotel?	The Stanley Hotel
+4	Set Design in Film	The Emerald City in "The Wizard of Oz" was one of the first sets to use which color technology?	Technicolor
+5	Set Design in Film	What famous director is known for collaborating closely with production designers like Ken Adam for films like "Dr. Strangelove"?	Stanley Kubrick
+1	Cell Structure	What is the control center of a cell that contains DNA?	Nucleus
+2	Cell Structure	What structure surrounds the cell and controls what enters and exits?	Cell membrane
+3	Cell Structure	Which organelle is responsible for photosynthesis in plant cells?	Chloroplast
+4	Cell Structure	Which organelle is involved in protein synthesis and is found on the rough endoplasmic reticulum?	Ribosome
+5	Cell Structure	Which small, enzyme-filled organelle is responsible for breaking down waste materials in the cell?	Lysosome
+1	Geopolitical: North America	What is the largest country in North America by land area?	Canada
+2	Geopolitical: North America	Which country in North America is known for its Mayan ruins, such as Chichen Itza?	Mexico
+3	Geopolitical: North America	Which large island, part of North America, is governed by Denmark?	Greenland
+4	Geopolitical: North America	What is the capital city of Canada?	Ottawa
+5	Geopolitical: North America	What is the name of the desert that spans parts of the United States and Mexico?	Sonoran Desert
