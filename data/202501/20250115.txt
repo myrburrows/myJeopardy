@@ -1,0 +1,25 @@
+1	A. 100m Sprint	Who holds the men's world record for the 100m sprint?	Usain Bolt
+2	A. 100m Sprint	Which woman holds the current world record for the 100m sprint?	Florence Griffith-Joyner
+3	A. 100m Sprint	In which Olympics did Usain Bolt win his first 100m gold medal?	2008 Beijing Olympics
+4	A. 100m Sprint	Which country has won the most Olympic gold medals in the men's 100m sprint?	United States
+5	A. 100m Sprint	Which athlete was the first to officially run the 100m in under 10 seconds?	Jim Hines
+1	B. Modernist Literature	Who wrote the Modernist poem "The Waste Land"?	T.S. Eliot
+2	B. Modernist Literature	Which James Joyce novel is considered one of the greatest works of Modernist literature?	Ulysses
+3	B. Modernist Literature	Which Modernist novel by F. Scott Fitzgerald is considered a critique of the American Dream?	The Great Gatsby
+4	B. Modernist Literature	Which Modernist author wrote "Mrs. Dalloway"?	Virginia Woolf
+5	B. Modernist Literature	Which novel by Marcel Proust is a cornerstone of Modernist literature?	In Search of Lost Time
+1	C. Spacecraft Design	What is the name of the spacecraft that first landed humans on the Moon?	Apollo 11
+2	C. Spacecraft Design	What is the name of the reusable spacecraft developed by NASA?	Space Shuttle
+3	C. Spacecraft Design	What is the purpose of spacecraft gyroscopes?	Stabilization and orientation control
+4	C. Spacecraft Design	Which spacecraft was the first to use ion propulsion?	Deep Space 1
+5	C. Spacecraft Design	What type of fuel is used in SpaceX's Raptor engines?	Liquid methane and liquid oxygen
+1	D. Causes of the American Revolution	Which event involved colonists throwing tea into Boston Harbor in protest?	Boston Tea Party
+2	D. Causes of the American Revolution	What was the name of the tax imposed on paper goods that angered the colonists?	Stamp Act
+3	D. Causes of the American Revolution	What pamphlet by Thomas Paine encouraged independence from Britain?	Common Sense
+4	D. Causes of the American Revolution	Which act required colonists to provide housing for British soldiers?	Quartering Act
+5	D. Causes of the American Revolution	What was the secret group formed to oppose British policies in the colonies?	Sons of Liberty
+1	E. Largest National Parks	Which is the largest national park in the United States?	Wrangell-St. Elias National Park
+2	E. Largest National Parks	In which state is Wrangell-St. Elias National Park located?	Alaska
+3	E. Largest National Parks	What is the largest tropical rainforest national park in the world?	Amazonia National Park
+4	E. Largest National Parks	Which is the largest desert national park in the United States?	Death Valley National Park
+5	E. Largest National Parks	Which national park is the largest in Canada?	Wood Buffalo National Park
