@@ -1,0 +1,25 @@
+1	GMT (Greenwich Mean Time)	Where is GMT measured from?	Prime Meridian in Greenwich, London
+2	GMT (Greenwich Mean Time)	What is the longitude of the Prime Meridian?	0 degrees
+3	GMT (Greenwich Mean Time)	Which country first adopted GMT as its standard time?	United Kingdom
+4	GMT (Greenwich Mean Time)	What replaced GMT as the world standard time?	UTC (Coordinated Universal Time)
+5	GMT (Greenwich Mean Time)	What is the time difference between GMT and EST?	5 hours behind
+1	World War I	Which event sparked the beginning of World War I?	Assassination of Archduke Franz Ferdinand
+2	World War I	Who was the President of the United States during World War I?	Woodrow Wilson
+3	World War I	Which new weapon of war was first introduced during World War I?	Tanks
+4	World War I	Which battle is known for being one of the longest and bloodiest battles of the war?	Battle of Verdun
+5	World War I	What treaty ended World War I?	Treaty of Versailles
+1	Chess Strategies	What is it called when neither side can force a win, resulting in a draw?	Stalemate
+2	Chess Strategies	What is the term for sacrificing a piece to gain a better position?	Gambit
+3	Chess Strategies	What is the name of the strategy to protect the king by moving it and the rook?	Castling
+4	Chess Strategies	What is the term for a move that attacks two or more pieces simultaneously?	Fork
+5	Chess Strategies	What is it called when a pawn reaches the opponent's back rank and is promoted?	Pawn Promotion
+1	William Shakespeare	Which play features the characters Romeo and Juliet?	Romeo and Juliet
+2	William Shakespeare	What is the famous line from Hamlet that begins with "To be"?	To be or not to be
+3	William Shakespeare	What is the name of the theater associated with Shakespeare?	Globe Theatre
+4	William Shakespeare	Which sonnet begins with the line "Shall I compare thee to a summer's day"?	Sonnet 18
+5	William Shakespeare	What is the collection of Shakespeare's plays published in 1623 called?	First Folio
+1	Popular Streaming Services	What is the most popular streaming service by subscribers worldwide?	Netflix
+2	Popular Streaming Services	What streaming service offers live sports and ESPN+?	Hulu
+3	Popular Streaming Services	Which streaming service is known for "The Mandalorian"?	Disney+
+4	Popular Streaming Services	Which service is home to the "Game of Thrones" series?	HBO Max
+5	Popular Streaming Services	What platform is known for hosting creators' videos and vlogs?	YouTube
