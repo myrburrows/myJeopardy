@@ -1,0 +1,25 @@
+1	A. The Globe Theatre	Who was the primary playwright associated with the Globe Theatre?	William Shakespeare
+2	A. The Globe Theatre	What caused the destruction of the original Globe Theatre in 1613?	Fire
+3	A. The Globe Theatre	Which play was being performed when the Globe Theatre caught fire?	Henry VIII
+4	A. The Globe Theatre	What is the name of the open-air section in the center of the Globe Theatre?	Yard
+5	A. The Globe Theatre	What was the cost of admission to the yard section during Shakespeare's time?	One penny
+1	B. Battle of Hastings	What year did the Battle of Hastings take place?	1066
+2	B. Battle of Hastings	Who led the Norman forces at the Battle of Hastings?	William the Conqueror
+3	B. Battle of Hastings	What type of soldiers played a key role in the Norman victory?	Archers
+4	B. Battle of Hastings	What was the outcome of the Battle of Hastings?	Norman victory
+5	B. Battle of Hastings	What symbol did William use on his banners to inspire his troops?	Papal cross
+1	C. Fossil Formation	What is the study of fossils called?	Paleontology
+2	C. Fossil Formation	What type of fossil preserves the original organism trapped in tree resin?	Amber
+3	C. Fossil Formation	What is the process of turning organic material into stone called?	Petrification
+4	C. Fossil Formation	What type of rock are fossils most commonly found in?	Sedimentary
+5	C. Fossil Formation	What do you call a fossil that has been filled in to create a replica of the organism?	Cast fossil
+1	D. Yoga Techniques	What does the Sanskrit term "Yoga" mean?	Union
+2	D. Yoga Techniques	What is the purpose of Savasana, or "Corpse Pose"?	Relaxation
+3	D. Yoga Techniques	What does the term "Namaste" mean in yoga practice?	I bow to you
+4	D. Yoga Techniques	Which pose is often referred to as the resting pose in yoga?	Child's Pose
+5	D. Yoga Techniques	What is the name of the breathing technique commonly used in yoga?	Pranayama
+1	E. Musical Theater	What is the name of the street in New York City famous for its theaters?	Broadway
+2	E. Musical Theater	What musical features the song "Tomorrow"?	Annie
+3	E. Musical Theater	Who composed the music for "Cats"?	Andrew Lloyd Webber
+4	E. Musical Theater	Which musical tells the story of the Founding Fathers of the United States?	Hamilton
+5	E. Musical Theater	Which musical features the character Elphaba?	Wicked
