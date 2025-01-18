@@ -1,0 +1,25 @@
+1	A. Broadway Musicals	What is the name of the Broadway musical about the French Revolution based on Victor Hugo's novel?	Les Misérables
+2	A. Broadway Musicals	What musical tells the story of the Von Trapp family?	The Sound of Music
+3	A. Broadway Musicals	Which Broadway musical features the song "Defying Gravity"?	Wicked
+4	A. Broadway Musicals	Which Broadway show is based on T.S. Eliot's "Old Possum's Book of Practical Cats"?	Cats
+5	A. Broadway Musicals	Who composed the music for "West Side Story"?	Leonard Bernstein
+1	B. Grand Slam Tournaments	Which Grand Slam tournament is played on grass courts?	Wimbledon
+2	B. Grand Slam Tournaments	What is the only Grand Slam tournament played on clay courts?	French Open
+3	B. Grand Slam Tournaments	Who holds the record for the most Grand Slam singles titles in women's tennis?	Margaret Court
+4	B. Grand Slam Tournaments	What term refers to winning all four Grand Slam titles in a single year?	Calendar Grand Slam
+5	B. Grand Slam Tournaments	Who was the first woman to win all four Grand Slam titles in the same year?	Maureen Connolly
+1	C. Pulitzer Prize for Fiction	Which novel by Margaret Mitchell won the Pulitzer Prize for Fiction in 1937?	Gone with the Wind
+2	C. Pulitzer Prize for Fiction	Who won the Pulitzer Prize for Fiction in 1961 for "To Kill a Mockingbird"?	Harper Lee
+3	C. Pulitzer Prize for Fiction	What is the primary criterion for a novel to be eligible for the Pulitzer Prize for Fiction?	American Author
+4	C. Pulitzer Prize for Fiction	Who won the Pulitzer Prize for Fiction in 1983 for "The Color Purple"?	Alice Walker
+5	C. Pulitzer Prize for Fiction	Which author won the Pulitzer Prize for Fiction twice, in 1953 and 1962?	William Faulkner
+1	D. San Francisco	What is the iconic suspension bridge in San Francisco called?	Golden Gate Bridge
+2	D. San Francisco	What historic mode of transportation is iconic to San Francisco?	Cable Cars
+3	D. San Francisco	What famous prison island is located in San Francisco Bay?	Alcatraz
+4	D. San Francisco	What is the name of the famous wharf known for sea lions and seafood?	Fisherman's Wharf
+5	D. San Francisco	In Alamo Square, what is the iconic row of Victorian and Edwardian houses called?	Painted Ladies
+1	E. Treaty of Versailles	Which world war did the Treaty of Versailles officially end?	World War I
+2	E. Treaty of Versailles	What territory was returned to France as part of the treaty?	Alsace-Lorraine
+3	E. Treaty of Versailles	What was the demilitarized zone created by the treaty?	Rhineland
+4	E. Treaty of Versailles	Which international organization was established in the treaty?	League of Nations
+5	E. Treaty of Versailles	Which French leader heavily influenced the treaty’s harsh terms?	Georges Clemenceau
