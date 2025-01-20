@@ -1,0 +1,25 @@
+1	A. Pulitzer Prize for Fiction	Which novel by Margaret Mitchell won the Pulitzer Prize for Fiction in 1937?	Gone with the Wind
+2	A. Pulitzer Prize for Fiction	Who won the Pulitzer Prize for Fiction in 1961 for "To Kill a Mockingbird"?	Harper Lee
+3	A. Pulitzer Prize for Fiction	What is the primary criterion for a novel to be eligible for the Pulitzer Prize for Fiction?	American Author
+4	A. Pulitzer Prize for Fiction	Who won the Pulitzer Prize for Fiction in 1983 for "The Color Purple"?	Alice Walker
+5	A. Pulitzer Prize for Fiction	Which author won the Pulitzer Prize for Fiction twice, in 1953 and 1962?	William Faulkner
+1	B. Grand Slam Tournaments	Which Grand Slam tournament is played on grass courts?	Wimbledon
+2	B. Grand Slam Tournaments	What is the only Grand Slam tournament played on clay courts?	French Open
+3	B. Grand Slam Tournaments	Who holds the record for the most Grand Slam singles titles in women's tennis?	Margaret Court
+4	B. Grand Slam Tournaments	What term refers to winning all four Grand Slam titles in a single year?	Calendar Grand Slam
+5	B. Grand Slam Tournaments	Who was the first woman to win all four Grand Slam titles in the same year?	Maureen Connolly
+1	C. National Parks in Africa	In which country is Kruger National Park, one of the largest game reserves in Africa?	South Africa
+2	C. National Parks in Africa	Which national park in Tanzania is famous for the Great Migration of wildebeests?	Serengeti National Park
+3	C. National Parks in Africa	In which country is the Virunga National Park, known for its volcanoes and mountain gorillas?	Democratic Republic of Congo
+4	C. National Parks in Africa	In which national park can you see the Big Five animals in South Africa?	Kruger National Park
+5	C. National Parks in Africa	The Bwindi Impenatrable National Park, known for gorilla trekking, is in what country?	Uganda
+1	D. Musicals with Iconic Songs	Which musical features the iconic song "Memory"?	Cats
+2	D. Musicals with Iconic Songs	"Mamma Mia" features songs from which iconic pop group?	ABBA
+3	D. Musicals with Iconic Songs	"Don’t Cry for Me Argentina" is a standout song in which musical?	Evita
+4	D. Musicals with Iconic Songs	In what musical would you find the song "I Dreamed a Dream"?	Les Misérables
+5	D. Musicals with Iconic Songs	"Seasons of Love" is an iconic song from which musical?	Rent
+1	E. Physical Chemistry	What is the term for the measure of randomness or disorder in a system?	Entropy
+2	E. Physical Chemistry	Which law states that energy cannot be created or destroyed?	First Law of Thermodynamics
+3	E. Physical Chemistry	What is the name of the process where a substance transitions directly from solid to gas?	Sublimation
+4	E. Physical Chemistry	What is the SI unit of pressure commonly used in physical chemistry?	Pascal (Pa)
+5	E. Physical Chemistry	What is the term for the state where the rates of the forward and reverse reactions are equal?	Chemical Equilibrium
