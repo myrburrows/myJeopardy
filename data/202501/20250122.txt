@@ -1,0 +1,25 @@
+1	A. Nebulae	What is the name of the nebula that looks like a horse’s head?	Horsehead Nebula
+2	A. Nebulae	Nebula comes from the Latin for cloud.  What is a nebula a cloud of?	gas and dust
+3	A. Nebulae	Which nebula is famously known for its "pillars of creation"?	Eagle Nebula
+4	A. Nebulae	Which nebula is the closest planetary nebula to Earth?	Helix Nebula
+5	A. Nebulae	What is the name of the nebula that serves as a stellar nursery, forming new stars?	Eagle Nebula
+1	B. Iconic Musicians	Who is the lead singer of the Rolling Stones?	Mick Jagger
+2	B. Iconic Musicians	Which classical composer was deaf but still composed masterpieces like the Ninth Symphony?	Ludwig van Beethoven
+3	B. Iconic Musicians	Who is often referred to as the "King of Rock and Roll"?	Elvis Presley
+4	B. Iconic Musicians	What iconic British band was nicknamed "The Fab Four"?	The Beatles
+5	B. Iconic Musicians	Which iconic jazz musician is known for songs like "What a Wonderful World"?	Louis Armstrong
+1	C. Capitals of North America	What is the capital of the United States?	Washington, D.C.
+2	C. Capitals of North America	What is the capital of Cuba?	Havana
+3	C. Capitals of North America	What is the capital of Jamaica?	Kingston
+4	C. Capitals of North America	What is the capital of the Dominican Republic?	Santo Domingo
+5	C. Capitals of North America	What is the capital of Haiti?	Port-au-Prince
+1	D. Protestant Reformation	Who is considered the leader of the Protestant Reformation?	Martin Luther
+2	D. Protestant Reformation	Which English king broke away from the Catholic Church and established the Church of England?	Henry VIII
+3	D. Protestant Reformation	What practice by the Catholic Church did Martin Luther strongly oppose?	The sale of indulgences
+4	D. Protestant Reformation	Who was the French theologian that led the Reformation in Geneva?	John Calvin
+5	D. Protestant Reformation	What was the name of the council convened by the Catholic Church to respond to the Reformation?	Council of Trent
+1	E. J.K. Rowling	How many books are in the original Harry Potter series?	Seven
+2	E. J.K. Rowling	What is the name of the first book in the Harry Potter series?	Harry Potter and the Philosopher's Stone
+3	E. J.K. Rowling	Under what pseudonym did J.K. Rowling write the "Cormoran Strike" detective series?	Robert Galbraith
+4	E. J.K. Rowling	In what year was "Harry Potter and the Philosopher's Stone" first published?	1997
+5	E. J.K. Rowling	What is J.K. Rowling's full name?	Joanne Kathleen Rowling
