@@ -1,0 +1,25 @@
+1	A. Women in Swimming	Which female swimmer has the most Olympic gold medals?	Katie Ledecky
+2	A. Women in Swimming	Which country dominated women’s swimming at the 2016 Rio Olympics?	United States
+3	A. Women in Swimming	Which Hungarian female swimmer is known as the "Iron Lady" of swimming?	Katinka Hosszú
+4	A. Women in Swimming	What American swimmer won five Olympic gold medals at the 1988 Seoul Olympics?	Janet Evans
+5	A. Women in Swimming	Who was the first woman to swim across the English Channel in 1926?	Gertrude Ederle
+1	B. Game Development Studios	What studio is known for creating the "Super Mario" games?	Nintendo
+2	B. Game Development Studios	What studio created "Sonic the Hedgehog"?	Sega
+3	B. Game Development Studios	What studio is responsible for the mobile game "Candy Crush"?	King
+4	B. Game Development Studios	Which game studio developed "Angry Birds"?	Rovio
+5	B. Game Development Studios	What game studio is famous for creating the "Pokémon" games?	Game Freak
+1	C. Traditional Festivals	What festival in Ireland is associated with St. Patrick, the patron saint of the country?	St. Patrick's Day
+2	C. Traditional Festivals	Which festival in Germany is famous for beer and Bavarian culture?	Oktoberfest
+3	C. Traditional Festivals	What traditional festival in Spain involves the "running of the bulls"?	San Fermín (Pamplona Festival)
+4	C. Traditional Festivals	Which Brazilian festival is famous for its samba parades and vibrant costumes?	Carnival
+5	C. Traditional Festivals	Which traditional festival in India is known as the "Festival of Lights"?	Diwali
+1	D. Electricity	Who invented the first practical incandescent light bulb?	Thomas Edison
+2	D. Electricity	What is the SI unit of electric current?	Ampere (Amp)
+3	D. Electricity	What is the device that converts mechanical energy into electrical energy?	Generator
+4	D. Electricity	Who developed the alternating current (AC) electricity system?	Nikola Tesla
+5	D. Electricity	Who is known as the "Father of Electricity"?	Michael Faraday
+1	E. Private Art Collections	What famous private art collection is housed in a spiral building designed by Frank Lloyd Wright?	Guggenheim Museum
+2	E. Private Art Collections	What private collection in New York City is famous for its collection of Vincent van Gogh's works?	The Frick Collection
+3	E. Private Art Collections	Which private collection in Los Angeles is known for its extensive European art collection?	The Getty Center
+4	E. Private Art Collections	What private collection in Florence is known for its Renaissance masterpieces?	The Uffizi Gallery (originally private)
+5	E. Private Art Collections	Which private collection in Washington, D.C., is famous for its Renoir and Degas paintings?	The Phillips Collection
