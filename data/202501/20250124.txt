@@ -1,0 +1,25 @@
+1	A. Cricket Records	Which team has won the most ICC Cricket World Cups?	Australia
+2	A. Cricket Records	Who holds the record for the most runs in Test cricket?	Sachin Tendulkar
+3	A. Cricket Records	Which cricketer holds the record for the most sixes in international cricket?	Chris Gayle
+4	A. Cricket Records	Who has the most centuries in international cricket?	Sachin Tendulkar
+5	A. Cricket Records	Who scored the highest individual score in a One Day International match?	Rohit Sharma
+1	B. Nuclear Non-Proliferation Treaty	What year was the Nuclear Non-Proliferation Treaty (NPT) opened for signature?	1968
+2	B. Nuclear Non-Proliferation Treaty	How many nuclear-weapon states are recognized under the NPT?	Five
+3	B. Nuclear Non-Proliferation Treaty	Which countries are recognized as nuclear-weapon states under the NPT?	USA, Russia, UK, France, China
+4	B. Nuclear Non-Proliferation Treaty	What is the primary goal of the NPT?	To prevent the spread of nuclear weapons and promote disarmament
+5	B. Nuclear Non-Proliferation Treaty	Which three countries are not parties to the NPT?	India, Israel, Pakistan
+1	C. Telephone	Who is credited with inventing the telephone?	Alexander Graham Bell
+2	C. Telephone	Who was Alexander Graham Bell's assistant during the invention of the telephone?	Thomas Watson
+3	C. Telephone	What were the first words spoken over the telephone?	Mr. Watson, come here, I want to see you.
+4	C. Telephone	What is the name of the unit used to measure the strength of a telephone signal, named after Bell?	Decibel
+5	C. Telephone	In which year was the first successful telephone call made?	1876
+1	D. Portrait Sculpture	What material is commonly used for portrait sculptures?	Marble
+2	D. Portrait Sculpture	What technique is used to make clay portrait sculptures?	Modeling
+3	D. Portrait Sculpture	What is the term for a sculpture that only includes the head and shoulders?	Bust
+4	D. Portrait Sculpture	Which famous Italian artist sculpted "David"?	Michelangelo
+5	D. Portrait Sculpture	Which ancient civilization is famous for its portrait busts of emperors?	Roman
+1	E. Sitcom Spin-Offs	Which sitcom spin-off follows the character Frasier Crane?	Frasier
+2	E. Sitcom Spin-Offs	What sitcom spin-off starred George Jefferson and his family?	The Jeffersons
+3	E. Sitcom Spin-Offs	Which spin-off followed the character Rhoda Morgenstern from The Mary Tyler Moore Show?	Rhoda
+4	E. Sitcom Spin-Offs	Which spin-off was based on the character Joanie Cunningham from Happy Days?	Joanie Loves Chachi
+5	E. Sitcom Spin-Offs	What is the spin-off of Diff’rent Strokes that centered on Mrs. Garrett?	The Facts of Life
