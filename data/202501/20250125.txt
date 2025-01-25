@@ -1,0 +1,25 @@
+1	A. Memes and GIFs	What does GIF stand for?	Graphics Interchange Format
+2	A. Memes and GIFs	What is the name of the meme that starts with a zoomed-in Shiba Inu dog?	Doge
+3	A. Memes and GIFs	Which dancing animal went viral in a GIF titled "Party Hard"?	A hamster
+4	A. Memes and GIFs	Which famous meme features a baby clenching its fist in success?	Success Kid
+5	A. Memes and GIFs	What text is often written on the popular meme of a man in a suit pointing at a butterfly?	Is this a ___?
+1	B. Weather Instruments	What instrument is used to measure temperature?	Thermometer
+2	B. Weather Instruments	What tool measures air pressure?	Barometer
+3	B. Weather Instruments	Which instrument measures the direction of the wind?	Wind vane
+4	B. Weather Instruments	What is the name of the instrument used to measure humidity in the air?	Hygrometer
+5	B. Weather Instruments	What weather instrument is used to measure wind speed?	Anemometer
+1	C. Genghis Khan	Which modern country was Genghis Khan born in?	Mongolia
+2	C. Genghis Khan	What empire did Genghis Khan establish?	Mongol Empire
+3	C. Genghis Khan	What type of warriors made up Genghis Khan's army?	Horsemen
+4	C. Genghis Khan	What trade route flourished under the Mongol Empire?	Silk Road
+5	C. Genghis Khan	In which century did Genghis Khan live?	12th Century
+1	D. Strength Training	What part of the body does a squat primarily target?	Legs
+2	D. Strength Training	What is the term for a group of repetitions in a workout?	Set
+3	D. Strength Training	What does "reps" stand for in strength training?	Repetitions
+4	D. Strength Training	What is the large piece of equipment used for multiple strength exercises?	Barbell
+5	D. Strength Training	What muscle group is primarily targeted by deadlifts?	Back and hamstrings
+1	E. Titian	Which country was Titian from?	Italy
+2	E. Titian	In which artistic period did Titian work?	Renaissance
+3	E. Titian	What type of painting is Titian famous for?	Portraits and religious art
+4	E. Titian	What is the name of Titian’s famous painting of a reclining goddess?	Venus of Urbino
+5	E. Titian	What material did Titian primarily use for his paintings?	Oil paints
