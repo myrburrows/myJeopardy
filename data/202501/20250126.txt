@@ -1,0 +1,25 @@
+1	A. Largest Desert Sahara Desert	In which continent is the Sahara Desert located?	Africa
+2	A. Largest Desert Sahara Desert	What is the name of the river that flows through part of the Sahara?	Nile River
+3	A. Largest Desert Sahara Desert	What animal is commonly used for transportation in the Sahara?	Camel
+4	A. Largest Desert Sahara Desert	What type of trees are commonly found in oases in the Sahara?	Date palms
+5	A. Largest Desert Sahara Desert	Which country has the largest portion of the Sahara Desert?	Algeria
+1	B. Classic Film Genres	What genre often includes monsters or supernatural elements?	Horror
+2	B. Classic Film Genres	What genre is known for suspense and mystery?	Thriller
+3	B. Classic Film Genres	What genre features humorous and light-hearted stories?	Comedy
+4	B. Classic Film Genres	Which genre often includes futuristic technology and space travel?	Science Fiction
+5	B. Classic Film Genres	What genre is known for crime-solving detectives?	Crime
+1	C. Marie Curie	What prize was Marie Curie the first woman to win?	Nobel Prize
+2	C. Marie Curie	What was Marie Curie's field of study?	Radiation
+3	C. Marie Curie	In which city did Marie Curie conduct most of her research?	Paris
+4	C. Marie Curie	What was Marie Curie's nationality (born Maria Sklodowska)?	Polish
+5	C. Marie Curie	What is the name of the medical unit she helped develop during World War I?	Mobile X-ray unit
+1	D. Droughts	What natural resource becomes scarce during a drought?	Water
+2	D. Droughts	Which sector is most affected by droughts?	Agriculture
+3	D. Droughts	What is the term for water stored underground that is often used during droughts?	Groundwater
+4	D. Droughts	Which region in the U.S. is most commonly affected by droughts?	Southwest
+5	D. Droughts	What weather pattern can cause droughts?	El Niño
+1	E. Science Fiction	Which famous sci-fi movie features the quote, "May the Force be with you"?	Star Wars
+2	E. Science Fiction	What is the name of the spaceship in "Star Trek"?	USS Enterprise
+3	E. Science Fiction	Which sci-fi series features a Time Lord traveling in the TARDIS?	Doctor Who
+4	E. Science Fiction	Who wrote the novel "Dune"?	Frank Herbert
+5	E. Science Fiction	Who wrote the science fiction novel "The War of the Worlds"?	H.G. Wells
