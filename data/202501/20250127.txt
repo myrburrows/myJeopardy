@@ -1,0 +1,25 @@
+1	A. Pop Music Phenomena	What artist is known for the album "1989"?	Taylor Swift
+2	A. Pop Music Phenomena	Which pop star is known as the "King of Pop"?	Michael Jackson
+3	A. Pop Music Phenomena	What song by Psy became a global hit with its dance moves?	Gangnam Style
+4	A. Pop Music Phenomena	Which British boy band gained fame after "The X Factor"?	One Direction
+5	A. Pop Music Phenomena	What group performed the hit song "I Want It That Way"?	Backstreet Boys
+1	B. Experimental Theatre	What is the primary focus of experimental theatre?	Innovation
+2	B. Experimental Theatre	Which experimental theatre style involves unscripted, spontaneous dialogue?	Improvisation
+3	B. Experimental Theatre	Which playwright is famous for "Waiting for Godot"?	Samuel Beckett
+4	B. Experimental Theatre	What is the term for a play with no clear plot or structure?	Absurdist Play
+5	B. Experimental Theatre	Who is a famous playwright associated with Absurdism?	Harold Pinter
+1	C. Oceanography	Which ocean is located between Africa and Australia?	Indian Ocean
+2	C. Oceanography	Which ocean is the coldest?	Arctic Ocean
+3	C. Oceanography	What do we call waves caused by underwater earthquakes?	Tsunamis
+4	C. Oceanography	What is the deepest part of the ocean called?	Mariana Trench
+5	C. Oceanography	What is the layer of water where sunlight cannot reach called?	Aphotic Zone
+1	D. Mutual Assured Destruction	Which two countries were primarily involved in the Cold War?	United States and Soviet Union
+2	D. Mutual Assured Destruction	What type of weapons is central to the concept of Mutual Assured Destruction?	Nuclear Weapons
+3	D. Mutual Assured Destruction	What term describes the military strategy where both sides can destroy each other?	Deterrence
+4	D. Mutual Assured Destruction	What treaty aimed to limit nuclear weapons during the Cold War?	Nuclear Non-Proliferation Treaty
+5	D. Mutual Assured Destruction	What event ended the Cold War?	Fall of the Soviet Union
+1	E. Las Vegas, NV	What is the main street in Las Vegas called?	The Strip
+2	E. Las Vegas, NV	Which nearby landmark is a popular tourist attraction?	Hoover Dam
+3	E. Las Vegas, NV	Which hotel has a replica of the Eiffel Tower?	Paris Las Vegas
+4	E. Las Vegas, NV	What desert surrounds Las Vegas?	Mojave Desert
+5	E. Las Vegas, NV	What iconic sign greets visitors to Las Vegas?	Welcome to Fabulous Las Vegas
