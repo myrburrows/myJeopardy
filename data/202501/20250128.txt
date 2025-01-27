@@ -1,0 +1,25 @@
+1	A. Historical Changes in Borders	Which country was divided into East and West during the Cold War?	Germany
+2	A. Historical Changes in Borders	What country did the United States purchase Alaska from in 1867?	Russia
+3	A. Historical Changes in Borders	What country was formed from the split of Czechoslovakia in 1993?	Slovakia
+4	A. Historical Changes in Borders	Which African country was once a colony of Italy?	Libya
+5	A. Historical Changes in Borders	Which country gained independence from Pakistan in 1971?	Bangladesh
+1	B. Expressionism	What is the primary goal of Expressionist art?	Emotion
+2	B. Expressionism	What is a common theme in Expressionist art?	Inner turmoil
+3	B. Expressionism	What Expressionist artist painted "The Scream"?	Edvard Munch
+4	B. Expressionism	Which country is often associated with the Expressionist movement?	Germany
+5	B. Expressionism	Which German Expressionist group was called "Die Brücke"?	The Bridge
+1	C. Game Shows Through the Years	What is the longest-running game show in the U.S.?	The Price Is Right
+2	C. Game Shows Through the Years	Which game show has contestants spin a giant wheel?	Wheel of Fortune
+3	C. Game Shows Through the Years	What game show has the phrase "Survey says!"?	Family Feud
+4	C. Game Shows Through the Years	Which game show features answering questions in the form of a question?	Jeopardy!
+5	C. Game Shows Through the Years	Who was the original host of "Who Wants to Be a Millionaire"?	Regis Philbin
+1	D. Constellations	What is the name of the constellation that represents a lion?	Leo
+2	D. Constellations	Which constellation is also called "The Twins"?	Gemini
+3	D. Constellations	Which constellation is shaped like a hunter?	Orion
+4	D. Constellations	Which constellation is also known as "The Big Bear"?	Ursa Major
+5	D. Constellations	What is the name of the constellation that resembles a flying horse?	Pegasus
+1	E. Winter Sports Equipment	What do skiers use to help balance and push themselves forward?	Ski Poles
+2	E. Winter Sports Equipment	What is used to protect your eyes from snow glare?	Goggles
+3	E. Winter Sports Equipment	What piece of equipment is often used to pull snowboarders uphill?	T-Bar
+4	E. Winter Sports Equipment	What is the name of the long, narrow equipment used for cross-country skiing?	Cross-Country Skis
+5	E. Winter Sports Equipment	What is applied to skis to help them glide on snow?	Ski Wax
