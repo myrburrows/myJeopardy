@@ -1,0 +1,25 @@
+1	A. Baroque Music	What is a famous Baroque keyboard instrument?	Harpsichord
+2	A. Baroque Music	Who composed the "Brandenburg Concertos"?	Johann Sebastian Bach
+3	A. Baroque Music	Which composer is known for "The Four Seasons"?	Antonio Vivaldi
+4	A. Baroque Music	Which Baroque composer wrote "Water Music"?	George Frideric Handel
+5	A. Baroque Music	What does "Baroque" mean in Portuguese?	Irregular pearl
+1	B. Pollution in History	What was the main cause of pollution during the Industrial Revolution?	Coal burning
+2	B. Pollution in History	Which harmful gas is a major contributor to air pollution?	Carbon dioxide
+3	B. Pollution in History	Which marine disaster in 1989 caused massive oil pollution?	Exxon Valdez oil spill
+4	B. Pollution in History	Which insect population is declining due to pesticide pollution?	Bees
+5	B. Pollution in History	What international agreement aims to reduce air pollution?	Paris Agreement
+1	C. Breakout Stars	Which singer rose to fame after winning "American Idol" in 2002?	Kelly Clarkson
+2	C. Breakout Stars	Which pop star's breakout hit was "…Baby One More Time"?	Britney Spears
+3	C. Breakout Stars	Who became famous after starring in "Harry Potter"?	Daniel Radcliffe
+4	C. Breakout Stars	Who became a household name after starring in "Rocky"?	Sylvester Stallone
+5	C. Breakout Stars	Who gained worldwide fame after her debut single "Rolling in the Deep"?	Adele
+1	D. Natural Wonders	What is the name of the tallest mountain on Earth?	Mount Everest
+2	D. Natural Wonders	What is the name of the world's largest coral reef system?	Great Barrier Reef
+3	D. Natural Wonders	Which natural wonder is located in Arizona and is a massive canyon?	Grand Canyon
+4	D. Natural Wonders	Which geyser in Yellowstone National Park is famous for its eruptions?	Old Faithful
+5	D. Natural Wonders	What is the name of the active volcano located in Hawaii?	Mauna Loa
+1	E. Ski Jumping	Which country is known for producing many ski jumping champions?	Norway
+2	E. Ski Jumping	What is the name of the structure used to launch ski jumpers?	Jump Ramp
+3	E. Ski Jumping	What is the term for the forward-leaning body position in ski jumping?	V-Style
+4	E. Ski Jumping	What is the term for the point where the skier lands on the hill?	K-Point
+5	E. Ski Jumping	1988 Winter Olympics, what country was Eddie the Eagle from?	England
