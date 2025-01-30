@@ -1,0 +1,25 @@
+1	A. Broadway Playwrights	Who wrote the musical "Hamilton"?	Lin-Manuel Miranda
+2	A. Broadway Playwrights	Who wrote the Broadway play "A Streetcar Named Desire"?	Tennessee Williams
+3	A. Broadway Playwrights	Which playwright is known for "Barefoot in the Park" and "The Odd Couple"?	Neil Simon
+4	A. Broadway Playwrights	Who wrote the musical "West Side Story" lyrics?	Stephen Sondheim
+5	A. Broadway Playwrights	Which playwright wrote "Death of a Salesman"?	Arthur Miller
+1	B. Motorsport Tracks	Which track hosts the Indianapolis 500?	Indianapolis Motor Speedway
+2	B. Motorsport Tracks	Which U.S. track hosts the Daytona 500?	Daytona International Speedway
+3	B. Motorsport Tracks	Which city hosts the Monaco Grand Prix?	Monaco
+4	B. Motorsport Tracks	Which NASCAR track is known as "The Monster Mile"?	Dover International Speedway
+5	B. Motorsport Tracks	What is the name of the track where the British Grand Prix is held?	Silverstone
+1	C. Deserts of Australia	What type of climate do Australian deserts have?	Hot and dry
+2	C. Deserts of Australia	What is the largest desert in Australia?	Great Victoria Desert
+3	C. Deserts of Australia	Which Australian desert has the famous red sand dunes?	Simpson Desert
+4	C. Deserts of Australia	What is the driest desert in Australia?	Gibson Desert
+5	C. Deserts of Australia	Which Australian desert is named after a British explorer?	Sturt Stony Desert
+1	D. Renaissance Sculpture	What material was commonly used for Renaissance sculptures?	Marble
+2	D. Renaissance Sculpture	Which famous Renaissance sculpture depicts a man thinking?	The Thinker
+3	D. Renaissance Sculpture	What city is home to Michelangelo’s David?	Florence
+4	D. Renaissance Sculpture	What technique did Renaissance sculptors use to create lifelike figures?	Realism
+5	D. Renaissance Sculpture	Which Renaissance artist created the bronze statue of David?	Donatello
+1	E. Colonial Empires	Which European country colonized Mexico?	Spain
+2	E. Colonial Empires	What European country colonized Brazil?	Portugal
+3	E. Colonial Empires	Which country controlled India before its independence in 1947?	Great Britain
+4	E. Colonial Empires	Which empire was known for its conquests in South America, including Peru and Chile?	Spanish Empire
+5	E. Colonial Empires	Which European nation established colonies in Indonesia?	Netherlands
