@@ -1,0 +1,25 @@
+1	A. Cloud Types	What type of clouds form near the ground and can reduce visibility?	Fog
+2	A. Cloud Types	What type of clouds are puffy and look like cotton balls?	Cumulus
+3	A. Cloud Types	Which clouds are thin, wispy, and high in the sky?	Cirrus
+4	A. Cloud Types	Which clouds cover the sky in a thick, gray blanket?	Stratus
+5	A. Cloud Types	Which clouds look like lens shapes and form near mountains?	Lenticular
+1	B. Animated Films	Who is the cowboy doll in "Toy Story"?	Woody
+2	B. Animated Films	Which animated movie has the song "Let It Go"?	Frozen
+3	B. Animated Films	Which Pixar movie features a clownfish searching for his son?	Finding Nemo
+4	B. Animated Films	What is the name of the lion in "The Lion King"?	Simba
+5	B. Animated Films	What color is Sonic the Hedgehog?	Blue
+1	C. Motorcycle Racing	What does "CC" stand for in motorcycle engines?	Cubic Centimeters
+2	C. Motorcycle Racing	What color flag signals the end of a motorcycle race?	Checkered
+3	C. Motorcycle Racing	Which motorcycle brand has won the most MotoGP titles?	Honda
+4	C. Motorcycle Racing	Which American motorcycle race series is well known?	Supercross
+5	C. Motorcycle Racing	Which Italian racer is considered one of the greatest in MotoGP history?	Valentino Rossi
+1	D. Raphael	Which country was Raphael from?	Italy
+2	D. Raphael	Which two other artists are considered part of the High Renaissance trio along with Raphael?	Leonardo da Vinci, Michelangelo
+3	D. Raphael	What type of painting is Raphael famous for, featuring Mary and Jesus?	Madonna
+4	D. Raphael	Which famous chapel did Raphael help decorate?	Sistine Chapel
+5	D. Raphael	What is Raphael’s most famous painting featuring philosophers?	The School of Athens
+1	E. Discovery of the Americas	Which ocean did Columbus cross to reach the Americas?	Atlantic
+2	E. Discovery of the Americas	Which country sponsored Columbus’s voyage?	Spain
+3	E. Discovery of the Americas	What was the first permanent English settlement in North America?	Jamestown
+4	E. Discovery of the Americas	What continent was Columbus trying to reach when he sailed west?	Asia
+5	E. Discovery of the Americas	What were the names of Columbus’s three ships?	Nina, Pinta, Santa Maria
