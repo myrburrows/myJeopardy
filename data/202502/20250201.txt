@@ -1,0 +1,25 @@
+1	A. Geography of Kansas USA	Which city is the largest in Kansas by population?	Wichita
+2	A. Geography of Kansas USA	Which U.S. state borders Kansas to the north?	Nebraska
+3	A. Geography of Kansas USA	What nickname is Kansas known by due to its prairie landscape?	The Sunflower State
+4	A. Geography of Kansas USA	What is the name of the famous tallgrass prairie in Kansas?	Flint Hills
+5	A. Geography of Kansas USA	What is the highest point in Kansas?	Mount Sunflower
+1	B. Mythological Archetypes	Which archetype represents a wise and often magical guide?	The Mentor
+2	B. Mythological Archetypes	What archetype represents a character who sacrifices themselves for others?	The Martyr
+3	B. Mythological Archetypes	What archetype represents a character who betrays the hero?	The Trickster
+4	B. Mythological Archetypes	Which archetype represents innocence and purity?	The Child
+5	B. Mythological Archetypes	What is the name of the female figure who inspires the hero’s quest?	The Goddess
+1	C. Russian Revolution	In what year did the Russian Revolution take place?	1917
+2	C. Russian Revolution	Who was the leader of the Bolsheviks?	Vladimir Lenin
+3	C. Russian Revolution	Who became the leader of the Soviet Union after Lenin?	Joseph Stalin
+4	C. Russian Revolution	What was the name of Russia after the revolution?	Soviet Union
+5	C. Russian Revolution	Who was the last Tsar of Russia before the revolution?	Nicholas II
+1	D. Nature in Colorado USA	What famous national park is located in Colorado?	Rocky Mountain National Park
+2	D. Nature in Colorado USA	What type of bear is native to Colorado?	Black Bear
+3	D. Nature in Colorado USA	What shimmering, quaking tree is commonly found in Colorado’s forests?	Aspen
+4	D. Nature in Colorado USA	What is the state flower of Colorado?	Columbine
+5	D. Nature in Colorado USA	What is the tallest mountain in Colorado?	Mount Elbert
+1	E. Superhero Cartoons	What is the name of Batman's sidekick?	Robin
+2	E. Superhero Cartoons	Which superhero is known as the fastest man alive and has appeared in animated series?	The Flash
+3	E. Superhero Cartoons	Who is the main villain in "X-Men: The Animated Series"?	Magneto
+4	E. Superhero Cartoons	Which animated series features a young team of heroes including Robin, Aqualad, and Superboy?	Young Justice
+5	E. Superhero Cartoons	What is the name of Superman's dog featured in his own animated series?	Krypto
