@@ -1,0 +1,25 @@
+1	A. Movie Directors	Who directed "Jurassic Park"?	Steven Spielberg
+2	A. Movie Directors	Who directed "Titanic"?	James Cameron
+3	A. Movie Directors	Who directed "Pulp Fiction"?	Quentin Tarantino
+4	A. Movie Directors	Who directed "Psycho"?	Alfred Hitchcock
+5	A. Movie Directors	Who directed "The Dark Knight"?	Christopher Nolan
+1	B. Role-Playing Games	What color is a libero’s jersey compared to the rest of the team?	Different color
+2	B. Role-Playing Games	Can the libero rotate to the front row?	No
+3	B. Role-Playing Games	Can the libero attack the ball above the net?	No
+4	B. Role-Playing Games	Which skill is the libero mainly responsible for?	Passing and defense
+5	B. Role-Playing Games	Can the libero set the ball using an overhead pass in front of the attack line?	No
+1	C. Shakespearean Sonnets	What country was Vermeer from?	Netherlands
+2	C. Shakespearean Sonnets	What type of paint did Vermeer use?	Oil paint
+3	C. Shakespearean Sonnets	What is Vermeer’s most famous painting?	Girl with a Pearl Earring
+4	C. Shakespearean Sonnets	What city did Vermeer live and work in?	Delft
+5	C. Shakespearean Sonnets	What was Vermeer's first name?	Johannes
+1	D. Treaty of Paris	Which two main countries signed the Treaty of Paris in 1783?	United States and Great Britain
+2	D. Treaty of Paris	What ocean formed the eastern boundary of the newly independent United States?	Atlantic
+3	D. Treaty of Paris	Which American founding father was a key negotiator of the Treaty of Paris?	Benjamin Franklin
+4	D. Treaty of Paris	Which British king agreed to the terms of the Treaty of Paris (1783)?	King George III
+5	D. Treaty of Paris	What river became the western boundary of the United States in the Treaty of Paris?	Mississippi River
+1	E. Water Pollution	What plastic item is often found polluting the ocean?	Plastic bottles
+2	E. Water Pollution	What is a common cause of water pollution from farms?	Pesticides
+3	E. Water Pollution	What toxic metal can contaminate drinking water and cause health problems?	Lead
+4	E. Water Pollution	What natural disaster can spread water pollution?	Floods
+5	E. Water Pollution	Which gas, released by factories, can lead to acid rain and water pollution?	Sulfur dioxide
