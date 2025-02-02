@@ -1,0 +1,25 @@
+1	A. Cartoon Network Classics	What animated show features a talking dog named Scooby-Doo solving mysteries?	Scooby-Doo, Where Are You!
+2	A. Cartoon Network Classics	Which Cartoon Network show stars a cow and a chicken as siblings?	Cow and Chicken
+3	A. Cartoon Network Classics	What Cartoon Network series follows a boy named Ben who can transform into aliens?	Ben 10
+4	A. Cartoon Network Classics	What show features a pink dog named Courage living in Nowhere, Kansas?	Courage the Cowardly Dog
+5	A. Cartoon Network Classics	What Cartoon Network show features three superhero sisters named Blossom, Bubbles, and Buttercup?	The Powerpuff Girls
+1	B. Major Soccer Tournaments	What is the biggest international soccer tournament in the world?	FIFA World Cup
+2	B. Major Soccer Tournaments	Which soccer tournament is part of the Summer Olympics?	Olympic Football Tournament
+3	B. Major Soccer Tournaments	Which tournament determines the best club team in Europe each year?	UEFA Champions League
+4	B. Major Soccer Tournaments	Which tournament decides the best club team in England?	FA Cup
+5	B. Major Soccer Tournaments	Which South American international tournament is one of the oldest in the world?	Copa América
+1	C. Renewable Technologies	What type of energy is generated from sunlight?	Solar Energy
+2	C. Renewable Technologies	What device is used to convert sunlight into electricity?	Solar Panel
+3	C. Renewable Technologies	Which type of renewable energy comes from the heat inside the Earth?	Geothermal Energy
+4	C. Renewable Technologies	What type of renewable energy is created by dams?	Hydropower
+5	C. Renewable Technologies	What is the process of converting organic waste into energy called?	Biomass Energy
+1	D. French Revolution	What was the famous prison stormed on July 14, 1789?	Bastille
+2	D. French Revolution	Who was the king of France during the French Revolution?	Louis XVI
+3	D. French Revolution	What was the name of the queen of France during the Revolution?	Marie Antoinette
+4	D. French Revolution	What device was used for executions during the Revolution?	Guillotine
+5	D. French Revolution	What was the slogan of the French Revolution?	Liberty, Equality, Fraternity
+1	E. Highest Mountain Mount Everest	In which mountain range is Mount Everest located?	Himalayas
+2	E. Highest Mountain Mount Everest	Mount Everest is on the border of which two countries?	Nepal, China
+3	E. Highest Mountain Mount Everest	Who was the first person to reach the summit of Mount Everest?	Edmund Hillary
+4	E. Highest Mountain Mount Everest	What is the biggest danger climbers face on Mount Everest?	Lack of oxygen
+5	E. Highest Mountain Mount Everest	What is the approximate height of Mount Everest in feet?	29,032 feet
