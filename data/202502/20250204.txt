@@ -1,0 +1,25 @@
+1	A. Endocrine System	Which gland produces insulin to regulate blood sugar?	Pancreas
+2	A. Endocrine System	Which endocrine gland is located in the neck?	Thyroid
+3	A. Endocrine System	Which hormone helps the body respond to stress?	Adrenaline
+4	A. Endocrine System	What gland is known as the "master gland" of the body?	Pituitary gland
+5	A. Endocrine System	Which hormone controls blood sugar levels?	Insulin
+1	B. Famous Musical Composers	Which duo composed "The Sound of Music"?	Rodgers and Hammerstein
+2	B. Famous Musical Composers	Who composed the musical "The Phantom of the Opera"?	Andrew Lloyd Webber
+3	B. Famous Musical Composers	Who created the hit musical "Hamilton"?	Lin-Manuel Miranda
+4	B. Famous Musical Composers	Which composer wrote the songs for "West Side Story"?	Leonard Bernstein
+5	B. Famous Musical Composers	Who is the composer behind "Wicked"?	Stephen Schwartz
+1	C. Free Verse	What is free verse poetry known for lacking?	Rhyme and meter
+2	C. Free Verse	Which famous poet wrote "Leaves of Grass," a collection of free verse poems?	Walt Whitman
+3	C. Free Verse	Which American poet is famous for using free verse in "The Waste Land"?	T.S. Eliot
+4	C. Free Verse	Is free verse the same as blank verse?	No. blank = iambic pentameter
+5	C. Free Verse	Which famous female poet used free verse in "Ariel"?	Sylvia Plath
+1	D. Baseball Stadiums	What is the oldest Major League Baseball stadium still in use?	Fenway Park
+2	D. Baseball Stadiums	Where do the St. Louis Cardinals play their home games?	Busch Stadium
+3	D. Baseball Stadiums	What stadium is known for its retractable roof in Houston, Texas?	Minute Maid Park
+4	D. Baseball Stadiums	Which stadium has the "Green Monster" wall in left field?	Fenway Park
+5	D. Baseball Stadiums	Which baseball stadium is known as "The Friendly Confines"?	Wrigley Field
+1	E. The Andes Mountains	The Andes Mountains run along the western side of which continent?	South America
+2	E. The Andes Mountains	Which South American country is almost entirely covered by the Andes?	Chile
+3	E. The Andes Mountains	Which ancient civilization lived in the Andes?	The Incas
+4	E. The Andes Mountains	Which famous ancient city is located in the Andes?	Machu Picchu
+5	E. The Andes Mountains	Which country has the highest peak in the Andes?	Argentina
