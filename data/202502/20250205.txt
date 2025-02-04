@@ -1,0 +1,25 @@
+1	A. Award Shows and Red Carpets	What is the nickname for the Academy Awards trophy?	Oscar
+2	A. Award Shows and Red Carpets	Which award show honors the best in television?	Emmy Awards
+3	A. Award Shows and Red Carpets	Which music award show features categories like Album of the Year?	Grammy Awards
+4	A. Award Shows and Red Carpets	Which award show recognizes achievements in theater?	Tony Awards
+5	A. Award Shows and Red Carpets	Which award show is known for recognizing the worst movies?	Razzie Awards
+1	B. Decathlon Events	How many events are in a decathlon?	10
+2	B. Decathlon Events	Which famous Olympic athlete won the 1976 decathlon gold medal?	Bruce Jenner
+3	B. Decathlon Events	What nationality was decathlon legend Ashton Eaton?	American
+4	B. Decathlon Events	Which type of sprinting event is included in the decathlon?	100 meters
+5	B. Decathlon Events	What is the final event of a decathlon (a middle-distance run)?	1500 meters
+1	C. Artist - Mary Cassatt	Which country was Mary Cassatt from?	United States
+2	C. Artist - Mary Cassatt	Which art movement was Mary Cassatt a part of?	Impressionism
+3	C. Artist - Mary Cassatt	Which Impressionist artist was a close friend of Mary Cassatt?	Edgar Degas
+4	C. Artist - Mary Cassatt	What was a common theme in Mary Cassatt’s artwork?	Family and domestic life
+5	C. Artist - Mary Cassatt	In which century did Mary Cassatt paint?	19th century
+1	D. Optics	What natural phenomenon creates a spectrum of colors in the sky?	Rainbow
+2	D. Optics	What tool is used to magnify tiny objects?	Microscope
+3	D. Optics	What is the transparent front part of the eye?	Cornea
+4	D. Optics	What is the bending of light called?	Refraction
+5	D. Optics	Which type of lens makes things look bigger?	Convex lens
+1	E. Ancient Site - Petra	Where is the ancient city of Petra located?	Jordan
+2	E. Ancient Site - Petra	What material were most of Petra’s buildings carved from?	Sandstone
+3	E. Ancient Site - Petra	Which famous river is located near Petra?	Jordan River
+4	E. Ancient Site - Petra	What was Petra known as due to the pinkish-red color of the stones?	The Rose City
+5	E. Ancient Site - Petra	What civilization built Petra?	Nabataeans
