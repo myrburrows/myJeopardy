@@ -1,0 +1,25 @@
+1	A. Nashville, TN	Which famous music hall in Nashville is home to the longest-running live radio show?	Grand Ole Opry House
+2	A. Nashville, TN	Which university in Nashville is known for its medical center and football team?	Vanderbilt University
+3	A. Nashville, TN	What major river runs through Nashville?	Cumberland River
+4	A. Nashville, TN	What famous street in Nashville is known for live music?	Broadway
+5	A. Nashville, TN	What historic plantation and museum in Nashville was home to President Andrew Jackson?	The Hermitage
+1	B. Movie: "The Godfather"	Who played the role of Don Vito Corleone?	Marlon Brando
+2	B. Movie: "The Godfather"	Who played Michael Corleone?	Al Pacino
+3	B. Movie: "The Godfather"	What happens to a horse in a famous scene from "The Godfather"?	Its head is placed in a bed as a warning
+4	B. Movie: "The Godfather"	Who is the eldest son of Don Vito Corleone?	Sonny Corleone
+5	B. Movie: "The Godfather"	What type of business does the Corleone family run as a front?	Olive oil import business
+1	C. Invention of the Airplane	Who is credited with inventing the first successful airplane?	The Wright Brothers
+2	C. Invention of the Airplane	In which U.S. state did the first powered flight take place?	North Carolina
+3	C. Invention of the Airplane	What profession were the Wright Brothers before inventing the airplane?	Bicycle makers
+4	C. Invention of the Airplane	Which Wright brother piloted the first flight?	Orville Wright
+5	C. Invention of the Airplane	What was the name of the Wright Brothers' first successful airplane?	Flyer
+1	D. Golf Clubs and Equipment	Which club is designed for short, high-accuracy shots on the green?	Putter
+2	D. Golf Clubs and Equipment	What is the term for a golf club numbered between 3 and 9?	Iron
+3	D. Golf Clubs and Equipment	What is the club used to hit long-distance shots from the tee?	Driver
+4	D. Golf Clubs and Equipment	What type of club is typically used for bunker shots?	Sand wedge
+5	D. Golf Clubs and Equipment	How many clubs are golfers allowed to carry in their bag during a round?	14
+1	E. Chemical Bonding	What type of bond is found in metals, allowing them to conduct electricity?	Metallic bond
+2	E. Chemical Bonding	What type of bond forms when electrons are shared between atoms?	Covalent bond
+3	E. Chemical Bonding	What type of bond forms when electrons are transferred from one atom to another?	Ionic bond
+4	E. Chemical Bonding	What type of bond holds table salt (NaCl) together?	Ionic bond
+5	E. Chemical Bonding	What do we call a molecule with an unequal sharing of electrons?	Polar molecule
