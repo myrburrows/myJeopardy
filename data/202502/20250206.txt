@@ -1,0 +1,25 @@
+1	A. The Himalayas	What is the capital city of Nepal, located near the Himalayas?	Kathmandu
+2	A. The Himalayas	Which animal is commonly used for transport in the Himalayas?	Yak
+3	A. The Himalayas	Which river originates from the Himalayas and flows through India and Pakistan?	Indus River
+4	A. The Himalayas	What is the main religion practiced by many people in the Himalayas?	Buddhism
+5	A. The Himalayas	Which large cat species is native to the Himalayas?	Snow Leopard
+1	B. Abstract Expressionism	Which country was the birthplace of Abstract Expressionism?	United States
+2	B. Abstract Expressionism	Who is considered the most famous Abstract Expressionist painter?	Jackson Pollock
+3	B. Abstract Expressionism	Which city became the center of Abstract Expressionism?	New York City
+4	B. Abstract Expressionism	Which museum in New York is famous for displaying Abstract Expressionist art?	The Museum of Modern Art (MoMA)
+5	B. Abstract Expressionism	What famous female artist was associated with Abstract Expressionism?	Lee Krasner
+1	C. The Cold War	What two superpowers were involved in the Cold War?	United States and Soviet Union
+2	C. The Cold War	What physical barrier divided East and West Berlin?	Berlin Wall
+3	C. The Cold War	Which U.S. president famously said, "Mr. Gorbachev, tear down this wall!"?	Ronald Reagan
+4	C. The Cold War	What was the name of the military alliance led by the U.S.?	NATO
+5	C. The Cold War	Which event in 1962 nearly led to nuclear war between the U.S. and the Soviet Union?	Cuban Missile Crisis
+1	D. Human Biology	Which organ controls the body's activities?	Brain
+2	D. Human Biology	What is the body's natural defense against illness?	Immune system
+3	D. Human Biology	What is the largest organ in the human body?	Skin
+4	D. Human Biology	What is the name of the tube that carries food from the mouth to the stomach?	Esophagus
+5	D. Human Biology	How many bones are in an adult human body?	206
+1	E. Music Production	Which piece of equipment is used to capture a singer’s voice?	Microphone
+2	E. Music Production	What device helps musicians keep time?	Metronome
+3	E. Music Production	What is the term for adjusting the volume levels of different tracks in a song?	Mixing
+4	E. Music Production	What is the final step in music production to make a song sound polished?	Mastering
+5	E. Music Production	What do you call an individual track of sound in a music project?	Audio Track
