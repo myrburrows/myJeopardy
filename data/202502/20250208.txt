@@ -1,0 +1,25 @@
+1	A. Indoor Cycling	What is the primary piece of equipment used in indoor cycling?	Stationary bike
+2	A. Indoor Cycling	Which muscle group is primarily worked in indoor cycling?	Legs
+3	A. Indoor Cycling	What is the name of a popular indoor cycling workout brand?	Spin
+4	A. Indoor Cycling	How long does a typical indoor cycling class last?	45 minutes
+5	A. Indoor Cycling	What is the term for increasing resistance on a stationary bike?	Gear up
+1	B. Viking Expeditions	What was the Viking word for their heaven?	Valhalla
+2	B. Viking Expeditions	What was the main type of ship used by Vikings?	Longship
+3	B. Viking Expeditions	What metal did Vikings use to make weapons?	Iron
+4	B. Viking Expeditions	What was the Viking homeland (now a modern country) called in Old Norse?	Norway
+5	B. Viking Expeditions	Which Viking explorer reached North America around 1000 AD?	Leif Erikson
+1	C. Earth Layers	What is the outermost layer of the Earth called?	Crust
+2	C. Earth Layers	Which layer of the Earth is the thickest?	Mantle
+3	C. Earth Layers	What is the term for the movement of Earth’s crust?	Plate tectonics
+4	C. Earth Layers	What is the hot, molten rock that is contained in the mantle?	Magma
+5	C. Earth Layers	What is the Earth's core made mostly of?	Iron
+1	D. Survival Challenges	Which reality TV show is famous for contestants surviving on an island?	Survivor
+2	D. Survival Challenges	What is the common reward for winning challenges on survival shows?	Immunity
+3	D. Survival Challenges	Which reality show has bare contestants competing to last the longest in nature?	Naked and Afraid
+4	D. Survival Challenges	Which TV show involves contestants racing around the world?	The Amazing Race
+5	D. Survival Challenges	Which show features contestants alone in the wilderness?	Alone
+1	E. Major Rivers by Continent	Which river separates the U.S. from Mexico?	Rio Grande
+2	E. Major Rivers by Continent	What is the longest river in Africa?	Nile
+3	E. Major Rivers by Continent	Which river flows through Russia and is the longest in Europe?	Volga
+4	E. Major Rivers by Continent	Which river flows through Europe and empties into the Black Sea?	Danube
+5	E. Major Rivers by Continent	Which river is known as the "Mother River of China"?	Yangtze
