@@ -1,0 +1,25 @@
+1	A. History of Broadway	Which city is Broadway located in?	New York City
+2	A. History of Broadway	What is the longest-running Broadway show?	The Phantom of the Opera
+3	A. History of Broadway	Which Broadway musical show is about a cat tribe?	Cats
+4	A. History of Broadway	What do actors say instead of "good luck" before a show?	Break a leg
+5	A. History of Broadway	What is the Dutch word for "Wide Road" that was anglicized to Broadway?	Breedweg
+1	B. International Date Line	Which ocean does the International Date Line mostly run through?	Pacific Ocean
+2	B. International Date Line	What happens when you cross the International Date Line eastward?	Go back a day
+3	B. International Date Line	What is the main purpose of the International Date Line?	To keep global time zones aligned
+4	B. International Date Line	What imaginary line is opposite the International Date Line?	Prime Meridian
+5	B. International Date Line	Which country is closest to the International Date Line?	Fiji
+1	C. Medieval Castles	What surrounded many medieval castles for protection?	Moat
+2	C. Medieval Castles	What was the main entrance of a castle called?	Gatehouse
+3	C. Medieval Castles	What was the tallest tower in a medieval castle called?	Keep
+4	C. Medieval Castles	What is the name of a castle's underground prison?	Dungeon
+5	C. Medieval Castles	What was poured through murder holes on invaders?	Boiling oil
+1	D. Authors from Great Lakes region	Which author of "Beloved" was born in Ohio?	Toni Morrison
+2	D. Authors from Great Lakes region	What Michigan-born author wrote "Fahrenheit 451"?	Ray Bradbury
+3	D. Authors from Great Lakes region	What Wisconsin-born author wrote "Little House on the Prairie"?	Laura Ingalls Wilder
+4	D. Authors from Great Lakes region	Ernest Hemingway was born in which Great Lakes state?	Illinois
+5	D. Authors from Great Lakes region	What Pulitzer Prize-winning author from Minnesota wrote "Main Street"?	Sinclair Lewis
+1	E. Respiratory System	What is the main organ of the respiratory system?	Lungs
+2	E. Respiratory System	What tube connects the mouth to the lungs?	Trachea
+3	E. Respiratory System	What muscle helps the lungs inhale and exhale?	Diaphragm
+4	E. Respiratory System	What are the two branches leading to the lungs called?	Bronchi
+5	E. Respiratory System	What are the tiny air sacs in the lungs called?	Alveoli

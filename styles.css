@@ -133,3 +133,19 @@ button {
 button:hover {
     opacity: 0.9;
 }
+
+.date-input-section {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.date-input-section label, 
+.date-input-section input {
+    display: inline;
+    margin-bottom: 0 !important;
+}
+
+h3#title, h3#category {
+    margin: 0 !important;
+    padding: 0 !important;
+}

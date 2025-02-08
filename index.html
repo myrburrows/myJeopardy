@@ -3,23 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flashcard Memory Exercise</title>
+    <title>Roger That  Memory Exercise</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" type="image/png" href="favicon.png"> <!-- Favicon link -->
 </head>
+
 <body>
     <div class="flashcard">
         <!-- Date Input Section -->
-        <div class="date-input-section">
-            <label for="date-input">Enter a date (MM/DD/YY):</label>
-            <input type="text" id="date-input" placeholder="MM/DD/YY" title="Enter date as MM/DD/YY">
-            <p id="error-message" style="color: red; margin-top: 5px; height: 20px;"></p> <!-- Error message container -->
+        <div class="date-input-section" style="margin-bottom: 0; padding-bottom: 0;">
+            <label for="date-input" style="display: inline; margin-bottom: 0;">Enter a date (MM/DD/YY):</label>
+            <input type="text" id="date-input" placeholder="MM/DD/YY" title="Enter date as MM/DD/YY" style="margin-bottom: 0;">
+            <p id="error-message" style="color: red; margin-top: 2px; height: 16px;"></p> <!-- Error message container -->
         </div>
-    
+
+        <!-- Title Display -->
+        <h3 id="title" style="margin: 0;"> <!-- Removed vertical margin -->
+        </h3>
+
         <!-- Category and Question Display -->
-        <h3 id="category"></h3>
+        <h3 id="category" style="margin: 0;"></h3> <!-- Removed vertical margin -->
         <p id="question"></p>
-        
+
         <button id="show-answer" onclick="showAnswer()">Show Answer</button>
         <p id="answer" style="display: none;"></p>
     

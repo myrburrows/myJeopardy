@@ -78,6 +78,7 @@ document.getElementById('date-input').addEventListener('keypress', (event) => {
 // Display the current question and category
 function displayQuestion() {
     const currentQuestion = reviewingMissedQuestions ? missedQuestions[reviewIndex] : data[currentQuestionIndex];
+    document.getElementById("title").textContent = "Roger That: Memory Exercise";
     document.getElementById('category').textContent = currentQuestion.category;
     document.getElementById('question').textContent = `${currentQuestion.key}. ${currentQuestion.question}`;
 
