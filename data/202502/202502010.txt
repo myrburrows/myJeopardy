@@ -1,0 +1,25 @@
+1	A. Digestive System	What is the long tube that moves food from the mouth to the stomach?	Esophagus
+2	A. Digestive System	What organ absorbs nutrients from digested food?	Small intestine
+3	A. Digestive System	What digestive organ helps break down fats with bile?	Liver
+4	A. Digestive System	What is the function of the pancreas in digestion?	Produces enzymes
+5	A. Digestive System	What muscle helps push food down the esophagus?	Peristalsis
+1	B. Literary Genres: Fiction	Which genre focuses on love and relationships?	Romance
+2	B. Literary Genres: Fiction	What type of fiction involves solving crimes and mysteries?	Mystery
+3	B. Literary Genres: Fiction	What do we call fiction that is based on real historical events but with made-up characters?	Historical fiction
+4	B. Literary Genres: Fiction	What do we call fiction based on real people but includes imagined events?	Biographical fiction
+5	B. Literary Genres: Fiction	Which fiction genre is set in a post-apocalyptic world?	Dystopian fiction
+1	C. Hockey Tactics	What is it called when a player moves past defenders using quick skating?	Breakaway
+2	C. Hockey Tactics	What is it called when a team has more players due to a penalty?	Power play
+3	C. Hockey Tactics	What is it called when a player prevents an opponent from moving forward?	Checking
+4	C. Hockey Tactics	What is the term for switching players while the game is still in progress?	Line change
+5	C. Hockey Tactics	What is the name of the area where a goalie stands?	Crease
+1	D. Directors with Unique Styles	Who is known for directing "Titanic" and "Avatar"?	James Cameron
+2	D. Directors with Unique Styles	Which director is known for suspense and films like "Psycho"?	Alfred Hitchcock
+3	D. Directors with Unique Styles	What director is famous for dreamlike films like "Inception" and "Interstellar"?	Christopher Nolan
+4	D. Directors with Unique Styles	Who directed "The Grand Budapest Hotel" and "Moonrise Kingdom"?	Wes Anderson
+5	D. Directors with Unique Styles	Who directed "Pulp Fiction" and is famous for nonlinear storytelling?	Quentin Tarantino
+1	E. Seasonal Variations in Climate	What season has the longest nights and shortest days?	Winter
+2	E. Seasonal Variations in Climate	What season sees trees shedding leaves in temperate zones?	Autumn
+3	E. Seasonal Variations in Climate	Which type of climate stays warm all year with wet and dry seasons?	Tropical
+4	E. Seasonal Variations in Climate	What is the term for regions with extremely cold temperatures year-round?	Polar
+5	E. Seasonal Variations in Climate	Which climate zone has warm summers and cold winters?	Temperate
