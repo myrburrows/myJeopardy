@@ -64,6 +64,8 @@ body {
     font-size: 1.2em;
     font-weight: bold;
     margin-bottom: 10px;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 #question {
@@ -145,7 +147,10 @@ button:hover {
     margin-bottom: 0 !important;
 }
 
-h3#title, h3#category {
-    margin: 0 !important;
-    padding: 0 !important;
+#title {
+    background-color: #fffacd; /* Light Yellow */
+    padding: 3px 8px; /* Adjusted spacing for a subtle highlight */
+    display: inline-block; /* Keeps the highlight compact */
+    font-weight: bold; /* Ensures it stands out */
+    border-radius: 5px; /* Slight rounding for a softer look */
 }
