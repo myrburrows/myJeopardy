@@ -22,4 +22,4 @@
 2	E. Seasonal Variations in Climate	What season sees trees shedding leaves in temperate zones?	Autumn
 3	E. Seasonal Variations in Climate	Which type of climate stays warm all year with wet and dry seasons?	Tropical
 4	E. Seasonal Variations in Climate	What is the term for regions with extremely cold temperatures year-round?	Polar
-5	E. Seasonal Variations in Climate	Which climate zone has warm summers and cold winters?	Temperate
+5	E. Seasonal Variations in Climate	Which climate zone has warm summers and cold winters?	temperate
