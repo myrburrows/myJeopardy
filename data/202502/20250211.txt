@@ -1,0 +1,25 @@
+1	A. Revolutions: Arab Spring	What was the main demand of Arab Spring protesters?	Democracy
+2	A. Revolutions: Arab Spring	Which North African country had major protests in the city of Sidi Bouzid?	Tunisia
+3	A. Revolutions: Arab Spring	Which Libyan leader was overthrown in 2011?	Muammar Gaddafi
+4	A. Revolutions: Arab Spring	Which social media platform played a key role in the Arab Spring?	Twitter
+5	A. Revolutions: Arab Spring	Which country’s protests started the Arab Spring?	Tunisia
+1	B. Mountains and Ecosystems	Which North American mountain range extends from Canada to New Mexico?	Rockies
+2	B. Mountains and Ecosystems	Which mountain range runs along the eastern U.S.?	Appalachians
+3	B. Mountains and Ecosystems	Which is the highest mountain range in the world?	Himalayas
+4	B. Mountains and Ecosystems	Which European mountain range separates France from Spain?	Pyrenees
+5	B. Mountains and Ecosystems	What type of trees are common in mountainous regions?	Conifers
+1	C. Winter sports: Sledding	What do sledders use to steer a traditional wooden sled?	Their feet
+2	C. Winter sports: Sledding	Which winter sport is similar to sledding but uses a single board?	Snowboarding
+3	C. Winter sports: Sledding	Which ancient civilization used sleds to transport heavy objects?	Egyptians
+4	C. Winter sports: Sledding	Which Olympic sport involves racing on a small sled feet-first?	Luge
+5	C. Winter sports: Sledding	Which famous sled race takes place in Alaska?	Iditarod
+1	D. Literary Genre: Satire	Which American writer is known for satire in "The Adventures of Huckleberry Finn"?	Mark Twain
+2	D. Literary Genre: Satire	Which magazine is famous for political satire?	The Onion
+3	D. Literary Genre: Satire	Which book (the pigs take control!) is a satire of totalitarian governments?	Animal Farm
+4	D. Literary Genre: Satire	Which French writer satirized the Catholic Church in "Candide"?	Voltaire
+5	D. Literary Genre: Satire	Which English writer is famous for satirical works like "Gulliver’s Travels"?	Jonathan Swift
+1	E. Scientific inventions: Internet	What does "WWW" stand for?	World Wide Web
+2	E. Scientific inventions: Internet	Which search engine was first launched in 1998?	Google
+3	E. Scientific inventions: Internet	Which decade saw the birth of the internet?	1960s
+4	E. Scientific inventions: Internet	Which company invented the first popular web browser?	Netscape
+5	E. Scientific inventions: Internet	What does "URL" stand for?	Uniform Resource Locator
