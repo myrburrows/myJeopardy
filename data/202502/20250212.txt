@@ -1,0 +1,25 @@
+1	A. History: Railroads	What powered the earliest trains?	Steam engines
+2	A. History: Railroads	Which country built the first public railway?	England
+3	A. History: Railroads	What major railway connected the east and west of the U.S.?	Transcontinental Railroad
+4	A. History: Railroads	Which famous train linked Paris and Istanbul?	Orient Express
+5	A. History: Railroads	What was the first American railroad?	Baltimore and Ohio Railroad
+1	B. Genetics: Mutation	Can mutations be inherited?	Yes
+2	B. Genetics: Mutation	Can viruses cause mutations?	Yes
+3	B. Genetics: Mutation	Can radiation cause mutations	Yes
+4	B. Genetics: Mutation	Which scientist is famous for studying mutations?	Gregor Mendel
+5	B. Genetics: Mutation	What famous theory did mutations help prove?	Evolution
+1	C. Longest Land Borders in the World	Which two countries share the longest land border?	Canada and USA
+2	C. Longest Land Borders in the World	Which South American countries share the longest border?	Argentina and Chile
+3	C. Longest Land Borders in the World	Which country has the longest land border overall?	China
+4	C. Longest Land Borders in the World	Which European country has the most land borders?	Germany
+5	C. Longest Land Borders in the World	Which two Asian countries share the longest border?	China and Mongolia
+1	D. Pastoral Poetry	What do pastoral poems often idealize?	Simple country life
+2	D. Pastoral Poetry	Which poet wrote 'Lycidas'?	John Milton
+3	D. Pastoral Poetry	Who wrote 'The Passionate Shepherd to His Love'?	Christopher Marlowe
+4	D. Pastoral Poetry	Which ancient poet is famous for pastoral poetry?	Virgil
+5	D. Pastoral Poetry	What is a shepherd often called in pastoral poetry?	Swain
+1	E. Celebrity Gossip	Which award show has a red carpet?	Oscars
+2	E. Celebrity Gossip	Which actor played Jack in 'Titanic'?	Leonardo DiCaprio
+3	E. Celebrity Gossip	What entertainment outlet specializes in celebrity gossip>	TMZ
+4	E. Celebrity Gossip	Which reality TV family is famous for their celebrity drama?	Kardashians
+5	E. Celebrity Gossip	Which pop star is known for surprise album drops?	Beyoncé
