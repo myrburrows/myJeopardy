@@ -1,0 +1,25 @@
+1	A. Baseball Teams	What is the name of the MLB team from San Francisco?	San Francisco Giants
+2	A. Baseball Teams	Which state is home to baseball's Rangers?	Texas
+3	A. Baseball Teams	What color is commonly associated with the Los Angeles Dodgers?	Blue
+4	A. Baseball Teams	What is the name of the MLB team from Toronto?	Toronto Blue Jays
+5	A. Baseball Teams	Which team has a famous "Green Monster" wall in its stadium?	Boston Red Sox
+1	B. World Clock Systems	What does "DST" stand for in timekeeping?	Daylight Saving Time
+2	B. World Clock Systems	How many hours ahead is New York compared to Los Angeles?	Three
+3	B. World Clock Systems	How many time zones does China officially use?	One
+4	B. World Clock Systems	Which U.S. state does not observe Daylight Saving Time?	Arizona
+5	B. World Clock Systems	What is the abbreviation for Coordinated Universal Time?	UTC
+1	C. Plant Classification	What is the study of plants called?	Botany
+2	C. Plant Classification	Which type of plant remains green all year round?	Evergreen
+3	C. Plant Classification	What is the process by which plants make their own food?	Photosynthesis
+4	C. Plant Classification	Which category of plants loses their leaves in the fall?	Deciduous
+5	C. Plant Classification	What do we call a plant that lives for more than two years?	Perennial
+1	D. Retellings of Myths	Which Disney movie is a retelling of the story of Hercules?	Hercules
+2	D. Retellings of Myths	What novel, written by Madeline Miller, is about a famous witch from Greek mythology?	Circe
+3	D. Retellings of Myths	Which Shakespeare play is based on the myth of Pyramus and Thisbe?	A Midsummer Night’s Dream
+4	D. Retellings of Myths	Which book tells the story of Penelope’s life during "The Odyssey"?	The Penelopiad
+5	D. Retellings of Myths	Which classic novel is a retelling of "The Odyssey" in the 20th century?	Ulysses
+1	E. Concerts: Ticket Sales and Scalping	What is the process of buying and reselling tickets at a higher price?	Scalping
+2	E. Concerts: Ticket Sales and Scalping	Which government body regulates ticket sales in the U.S.?	Federal Trade Commission (FTC)
+3	E. Concerts: Ticket Sales and Scalping	Which company is one of the largest primary ticket sellers in the world?	Ticketmaster
+4	E. Concerts: Ticket Sales and Scalping	Which website is popular for buying and reselling event tickets?	StubHub
+5	E. Concerts: Ticket Sales and Scalping	What is the term for digital-only tickets that must be scanned at entry?	E-Tickets
