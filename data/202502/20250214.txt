@@ -1,0 +1,25 @@
+1	A. Battle of Stalingrad	Which war was the Battle of Stalingrad part of?	World War II
+2	A. Battle of Stalingrad	Which two main countries fought in the Battle of Stalingrad?	Germany and Soviet Union
+3	A. Battle of Stalingrad	Which river is Stalingrad located on?	Volga River
+4	A. Battle of Stalingrad	Who was the leader of the Soviet Union during the battle?	Joseph Stalin
+5	A. Battle of Stalingrad	What was the outcome of the battle?	Soviet victory
+1	B. UTC (Coordinated Universal Time)	What is the time difference between UTC and GMT?	None
+2	B. UTC (Coordinated Universal Time)	What type of clock is used to define UTC?	Atomic clock
+3	B. UTC (Coordinated Universal Time)	What city is associated with UTC's origin?	Greenwich
+4	B. UTC (Coordinated Universal Time)	What time zone is UTC+0 often called?	Greenwich Mean Time
+5	B. UTC (Coordinated Universal Time)	What country does not change its time from UTC year-round?	Iceland
+1	C. Backcountry Navigation	What does GPS stand for?	Global Positioning System
+2	C. Backcountry Navigation	What does the term "bearing" mean in navigation?	Direction relative to north
+3	C. Backcountry Navigation	What is the purpose of an altimeter?	Measure altitude
+4	C. Backcountry Navigation	What feature on a map shows elevation?	Contour lines
+5	C. Backcountry Navigation	What is the term for navigating using landmarks?	Dead reckoning
+1	D. Genetics: Chromosomes	What is the term for a section of DNA that codes for a trait?	Gene
+2	D. Genetics: Chromosomes	Which scientist helped discover the double-helix structure?	Watson and Crick
+3	D. Genetics: Chromosomes	What are the two types of sex chromosomes?	X and Y
+4	D. Genetics: Chromosomes	What is DNA short for?	Deoxyribonucleic acid
+5	D. Genetics: Chromosomes	How many chromosomes do humans have?	46
+1	E. Concert Technology	What does a PA system do?	Projects sound to audience
+2	E. Concert Technology	What is a sound engineer responsible for?	Mixing audio
+3	E. Concert Technology	What type of speaker is used for bass?	Subwoofer
+4	E. Concert Technology	What does a lighting console control?	Stage lighting
+5	E. Concert Technology	What is a setlist?	A list of songs performed
