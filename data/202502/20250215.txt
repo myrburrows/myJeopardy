@@ -1,0 +1,25 @@
+1	A. Scrabble Tactics	How many letters does each player start with in Scrabble?	7
+2	A. Scrabble Tactics	What color is a triple word score space?	Red
+3	A. Scrabble Tactics	What is the center square called?	Star space
+4	A. Scrabble Tactics	Which letter is worth the least points?	E (1 point)
+5	A. Scrabble Tactics	What is the highest-scoring tile in Scrabble?	Q' and 'Z'
+1	B. Romantic Period Music	What instrument did Chopin compose many pieces for?	Piano
+2	B. Romantic Period Music	Which famous composer wrote the "Moonlight Sonata"?	Beethoven
+3	B. Romantic Period Music	What is Tchaikovsky’s most famous ballet?	The Nutcracker
+4	B. Romantic Period Music	Who composed "Swan Lake"?	Tchaikovsky
+5	B. Romantic Period Music	Which composer wrote "Clair de Lune"?	Debussy
+1	C. Steam Engine	Who is credited with improving the steam engine in the 18th century?	James Watt
+2	C. Steam Engine	What fuel was commonly used in early steam engines?	Coal
+3	C. Steam Engine	Which mode of transportation was revolutionized by steam engines?	Railroads
+4	C. Steam Engine	Which industry was transformed by the steam engine?	Textile industry
+5	C. Steam Engine	What is the term for converting steam back into water?	Condensation
+1	D. Famous Movie Quotes	Who said "May the Force be with you"?	Obi-Wan Kenobi (Star Wars)
+2	D. Famous Movie Quotes	Which movie features "There's no place like home"?	The Wizard of Oz
+3	D. Famous Movie Quotes	What movie is the quote "I'm king of the world!" from?	Titanic
+4	D. Famous Movie Quotes	Who said "Life is like a box of chocolates"?	Forrest Gump
+5	D. Famous Movie Quotes	What movie features "Here's looking at you, kid"?	Casablanca
+1	E. Ancient Trade Routes	What was the famous trade route connecting China to Europe?	Silk Road
+2	E. Ancient Trade Routes	What animal was commonly used for transport on the Silk Road?	Camel
+3	E. Ancient Trade Routes	Which Indian port city was a major trade hub in ancient times?	Calicut (ancient name)
+4	E. Ancient Trade Routes	Which civilization controlled the spice trade in ancient times?	Arabs
+5	E. Ancient Trade Routes	Which desert did the Silk Road cross?	Gobi Desert
