@@ -1,0 +1,25 @@
+1	A. Reptiles and Amphibians	What do frogs use to catch insects?	Their tongue
+2	A. Reptiles and Amphibians	Which reptile has a shell for protection?	Turtle
+3	A. Reptiles and Amphibians	What type of reptile has no legs?	Snake
+4	A. Reptiles and Amphibians	What do lizards shed as they grow?	Skin
+5	A. Reptiles and Amphibians	What is the only venomous lizard in North America?	Gila monster
+1	B. Proxy Wars	Which Asian country was divided into North and South, leading to a war from 1950-1953?	Korea
+2	B. Proxy Wars	Which country fought the Falklands War against the U.K. in 1982?	Argentina
+3	B. Proxy Wars	The Bay of Pigs invasion in 1961 was an attempt to overthrow the government of which country?	Cuba
+4	B. Proxy Wars	Which African country experienced a civil war with U.S. and Soviet involvement in the 1970s-1980s?	Angola
+5	B. Proxy Wars	Which Central American country saw U.S. support for Contra rebels in the 1980s?	Nicaragua
+1	C. Rembrandt van Rijn	What nationality was Rembrandt?	Dutch
+2	C. Rembrandt van Rijn	Which city was Rembrandt’s main home and workplace?	Amsterdam
+3	C. Rembrandt van Rijn	What type of painting is Rembrandt famous for?	Portraits
+4	C. Rembrandt van Rijn	Which biblical figure did Rembrandt famously paint many times?	Jesus
+5	C. Rembrandt van Rijn	What is Rembrandt’s most famous painting featuring a group of soldiers?	The Night Watch
+1	D. Rivers of North America	Which river forms part of the border between the U.S. and Mexico?	Rio Grande
+2	D. Rivers of North America	Which river connects the Great Lakes to the Atlantic Ocean?	Saint Lawrence River
+3	D. Rivers of North America	Which river runs through Washington, D.C.?	Potomac River
+4	D. Rivers of North America	What river forms the border between Texas and Oklahoma?	Red River
+5	D. Rivers of North America	Which river flows through New York City?	Hudson River
+1	E. Controversies in the Olympics	Which country boycotted the 1984 Olympics in Los Angeles?	Soviet Union
+2	E. Controversies in the Olympics	In which city were the 1972 Olympics, where Israeli athletes were attacked?	Munich
+3	E. Controversies in the Olympics	Which sprinter was disqualified in 1988 for using steroids?	Ben Johnson
+4	E. Controversies in the Olympics	Which country protested the 1968 Olympics with a Black Power salute?	U.S.A.
+5	E. Controversies in the Olympics	Which Olympic Games were stripped of medals due to state-sponsored doping?	2016 Rio
