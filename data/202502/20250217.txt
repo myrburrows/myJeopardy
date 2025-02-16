@@ -1,0 +1,25 @@
+1	A. Relativity	What famous scientist developed the theory of relativity?	Albert Einstein
+2	A. Relativity	What kind of force bends spacetime?	Gravity
+3	A. Relativity	What happens to an object's mass as it approaches the speed of light?	It increases
+4	A. Relativity	What does "c" represent in E = mc^2?	The speed of light
+5	A. Relativity	What is the maximum speed possible according to relativity?	The speed of light
+1	B. Reality TV Hits	Which show features contestants surviving on an island for a cash prize?	Survivor
+2	B. Reality TV Hits	What reality show follows business contestants trying to impress Donald Trump?	The Apprentice
+3	B. Reality TV Hits	Which show features people searching for love in a mansion?	The Bachelor
+4	B. Reality TV Hits	Which reality competition has dancers paired with celebrities?	Dancing with the Stars
+5	B. Reality TV Hits	What show has entrepreneurs pitching ideas to investors?	Shark Tank
+1	C. Flags with National Animals	What country's flag features a maple leaf?	Canada
+2	C. Flags with National Animals	What animal is found on Mexico’s flag?	Eagle
+3	C. Flags with National Animals	What mythical animal appears on the Bhutanese flag?	Dragon
+4	C. Flags with National Animals	What national bird appears on the flag of Guatemala?	Quetzal
+5	C. Flags with National Animals	Which country has a two-headed eagle on its flag?	Albania
+1	D. French Monarchy	Which famous French queen reportedly said "Let them eat cake"?	Marie Antoinette
+2	D. French Monarchy	Which French king was known as the "Sun King"?	Louis XIV
+3	D. French Monarchy	What was the name of the royal palace built by Louis XIV?	Versailles
+4	D. French Monarchy	What was the symbol of the French monarchy?	Fleur-de-lis
+5	D. French Monarchy	Who was the only emperor of France crowned by the Pope?	Napoleon Bonaparte
+1	E. Baroque	Which European country is considered the birthplace of Baroque?	Italy
+2	E. Baroque	What style is Baroque known for?	Ornate and dramatic
+3	E. Baroque	Which Dutch artist painted The Night Watch?	Rembrandt
+4	E. Baroque	What famous palace is an example of Baroque architecture?	Versailles
+5	E. Baroque	Which Italian artist was a major figure in Baroque painting?	Caravaggio
