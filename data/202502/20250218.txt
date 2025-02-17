@@ -1,0 +1,25 @@
+1	A. Polymers	What are polymers made of?	Monomers
+2	A. Polymers	What is a common plastic polymer used in bottles?	Polyethylene
+3	A. Polymers	Which polymer is used to make stretchy materials like spandex?	Polyurethane
+4	A. Polymers	What polymer is used in non-stick cookware like Teflon?	Polytetrafluoroethylene (PTFE)
+5	A. Polymers	What polymer is found in chewing gum?	Polyvinyl acetate
+1	B. Rugby Equipment	What protective padding can players wear on their shoulders?	Shoulder pads
+2	B. Rugby Equipment	What piece of equipment is used to hold the ball steady for a kick?	Kicking tee
+3	B. Rugby Equipment	What is the name of the uniform worn by rugby players?	Jersey
+4	B. Rugby Equipment	What kind of goalposts does rugby have?	H-shaped goalposts
+5	B. Rugby Equipment	What protective gear do rugby players wear on their heads?	Scrum cap
+1	C. Time Zones and Travel	What is the time difference between New York and Los Angeles?	3 hours
+2	C. Time Zones and Travel	What do we call the feeling of tiredness after traveling across time zones?	Jet lag
+3	C. Time Zones and Travel	What is the name of the time zone that follows the Prime Meridian?	Greenwich Mean Time (GMT)
+4	C. Time Zones and Travel	Which time zone does Paris belong to?	Central European Time (CET)
+5	C. Time Zones and Travel	How many time zones are there in the world?	24
+1	D. Broadway Musicals	What musical is about Alexander Hamilton’s life?	Hamilton
+2	D. Broadway Musicals	Which Broadway show is based on "The Wizard of Oz"?	Wicked
+3	D. Broadway Musicals	What musical tells the story of Jean Valjean and the French Revolution?	Les Misérables
+4	D. Broadway Musicals	What Broadway show features the song "Memory"?	Cats
+5	D. Broadway Musicals	What Broadway show has the song "The Circle of Life"?	The Lion King
+1	E. The Great Gatsby	Who wrote "The Great Gatsby"?	F. Scott Fitzgerald
+2	E. The Great Gatsby	What is the name of the main character in "The Great Gatsby"?	Jay Gatsby
+3	E. The Great Gatsby	What city does "The Great Gatsby" take place near?	New York City
+4	E. The Great Gatsby	What is the name of Gatsby’s lost love?	Daisy Buchanan
+5	E. The Great Gatsby	How does "The Great Gatsby" end for Gatsby?	He is shot and killed
