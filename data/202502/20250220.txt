@@ -1,0 +1,25 @@
+1	A. International Basketball	What country won the most Olympic gold medals in men's basketball?	United States
+2	A. International Basketball	Which African country has produced many NBA players, including Hakeem Olajuwon?	Nigeria
+3	A. International Basketball	What NBA team did Yao Ming play for?	Houston Rockets
+4	A. International Basketball	What international basketball tournament is held every four years?	FIBA Basketball World Cup
+5	A. International Basketball	Which country is famous for producing NBA stars like Manu Ginóbili and Luis Scola?	Argentina
+1	B. The Gettysburg Address	Who gave the Gettysburg Address?	Abraham Lincoln
+2	B. The Gettysburg Address	What war was happening when the Gettysburg Address was given?	American Civil War
+3	B. The Gettysburg Address	What are the first three words of the Gettysburg Address?	Four score and
+4	B. The Gettysburg Address	What is the famous phrase about government in the Gettysburg Address?	Government of the people, by the people, for the people
+5	B. The Gettysburg Address	How many sentences are in the Gettysburg Address?	Ten
+1	C. Animated Superhero Films	Who is the villain in "The LEGO Batman Movie"?	The Joker
+2	C. Animated Superhero Films	What is the real name of the superhero "Spider-Man" in most animated versions?	Peter Parker
+3	C. Animated Superhero Films	Which superhero movie features a talking raccoon and a tree?	Guardians of the Galaxy
+4	C. Animated Superhero Films	What superhero team does the film "The Incredibles" follow?	The Parr Family
+5	C. Animated Superhero Films	Which animated superhero film features multiple versions of Spider-Man?	Spider-Man: Into the Spider-Verse
+1	D. Habitat Destruction	Which animal's habitat is being destroyed by melting ice?	Polar bears
+2	D. Habitat Destruction	What is the process of turning forests into farmland called?	Deforestation
+3	D. Habitat Destruction	What gas is a major contributor to climate change and habitat loss?	Carbon dioxide
+4	D. Habitat Destruction	Which type of pollution causes water habitats to be destroyed?	Oil spills
+5	D. Habitat Destruction	What human activity causes the most habitat destruction in oceans?	Overfishing
+1	E. Arctic and Antarctic Regions	Which animal is native to Antarctica?	Penguin
+2	E. Arctic and Antarctic Regions	Which pole is colder, the North Pole or South Pole?	South Pole
+3	E. Arctic and Antarctic Regions	Which large mammal lives in the Arctic but not in Antarctica?	Polar bear
+4	E. Arctic and Antarctic Regions	Which continent is the driest on Earth?	Antarctica
+5	E. Arctic and Antarctic Regions	What is the main research station area in Antarctica?	McMurdo Station
