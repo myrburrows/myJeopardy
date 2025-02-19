@@ -1,0 +1,25 @@
+1	A. Roman Literature	What was the main language of Roman literature?	Latin
+2	A. Roman Literature	Which Roman poet wrote the epic poem "The Aeneid"?	Virgil
+3	A. Roman Literature	Which famous Roman orator wrote speeches and philosophical works?	Cicero
+4	A. Roman Literature	Who wrote "Metamorphoses," a famous Roman mythological poem?	Ovid
+5	A. Roman Literature	Which Roman philosopher wrote "Meditations"?	Marcus Aurelius
+1	B. Light Bulb Invention	Who is often credited with inventing the light bulb?	Thomas Edison
+2	B. Light Bulb Invention	What part of the light bulb prevents the filament from burning too quickly?	Glass bulb
+3	B. Light Bulb Invention	Which company did Edison form to bring electric lighting to homes?	General Electric (GE)
+4	B. Light Bulb Invention	What material is used for the filament inside a light bulb?	Tungsten
+5	B. Light Bulb Invention	What gas is commonly used inside incandescent light bulbs?	Argon
+1	C. College Football	Which college football team is known as the Crimson Tide?	Alabama
+2	C. College Football	What is the trophy awarded to the best college football player?	Heisman Trophy
+3	C. College Football	Which university's football team is called the Fighting Irish?	Notre Dame
+4	C. College Football	What is the oldest college football bowl game?	Rose Bowl
+5	C. College Football	What color is associated with the University of Michigan football team?	Maize and Blue
+1	D. Critics' Choice Awards	What do critics vote on in the Critics' Choice Awards?	Best movies and TV shows
+2	D. Critics' Choice Awards	Which award show is similar to the Critics' Choice but voted by the Academy?	Academy Awards (Oscars)
+3	D. Critics' Choice Awards	Which famous award show happens shortly after the Critics' Choice Awards?	The Golden Globes
+4	D. Critics' Choice Awards	Which organization presents the Critics' Choice Awards?	Critics Choice Association
+5	D. Critics' Choice Awards	What is the highest honor for films at the Critics' Choice Awards?	Best Picture
+1	E. Capitals of Oceania	What is the capital of Australia?	Canberra
+2	E. Capitals of Oceania	What is the capital of New Zealand?	Wellington
+3	E. Capitals of Oceania	What is the capital of Fiji?	Suva
+4	E. Capitals of Oceania	What is the capital of the Marshall Islands?	Majuro
+5	E. Capitals of Oceania	What is the capital of the Solomon Islands?	Honiara
