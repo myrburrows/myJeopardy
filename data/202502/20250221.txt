@@ -1,0 +1,25 @@
+1	A. Actors from the Great Lakes states	Which actor from Indiana played Indiana Jones?	Harrison Ford.
+2	A. Actors from the Great Lakes states	Which actress from Illinois starred in "Legally Blonde"?	Reese Witherspoon.
+3	A. Actors from the Great Lakes states	Which actor from Ohio was in "The Shawshank Redemption"?	Tim Robbins.
+4	A. Actors from the Great Lakes states	Which actor from Ohio played Neo in "The Matrix"?	Keanu Reeves.
+5	A. Actors from the Great Lakes states	Which actor from Illinois starred in "Ferris Bueller's Day Off"?	Matthew Broderick.
+1	B. Surrealism	What is the primary characteristic of Surrealism?	Dream-like imagery.
+2	B. Surrealism	What does Surrealism challenge?	Reality and logic.
+3	B. Surrealism	Which painter is famous for melting clocks?	Salvador Dalí.
+4	B. Surrealism	Which famous painting features an apple in front of a face?	The Son of Man.
+5	B. Surrealism	Who is considered the father of Surrealism?	André Breton.
+1	C. Technological Advances in Warfare	Which vehicle revolutionized troop movement?	Jeep.
+2	C. Technological Advances in Warfare	Which war first used tanks in combat?	World War I.
+3	C. Technological Advances in Warfare	Which war saw the first use of chemical weapons?	World War I.
+4	C. Technological Advances in Warfare	What was the first computer used for in World War II?	Code-breaking.
+5	C. Technological Advances in Warfare	Which communication device became crucial in World War II?	Walkie-talkie.
+1	D. Hottest Place Death Valley	In which US state is Death Valley located?	California, USA.
+2	D. Hottest Place Death Valley	Is Death Valley the lowest point in North America?	Yes.
+3	D. Hottest Place Death Valley	What is the name of the lowest point?	Badwater Basin.
+4	D. Hottest Place Death Valley	Which desert is Death Valley part of?	Mojave Desert.
+5	D. Hottest Place Death Valley	What national park is Death Valley part of?	Death Valley National Park.
+1	E. Cosmic Phenomena	What causes an eclipse?	One celestial body blocking another.
+2	E. Cosmic Phenomena	What is the Aurora Borealis?	Northern lights.
+3	E. Cosmic Phenomena	What are shooting stars?	Meteors.
+4	E. Cosmic Phenomena	What is a supernova?	Exploding star.
+5	E. Cosmic Phenomena	What is a wormhole?	Theoretical space-time tunnel.
