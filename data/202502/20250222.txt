@@ -1,0 +1,25 @@
+1	A. Iranian Revolution	Who was the leader of the Iranian Revolution in 1979?	Ayatollah Khomeini
+2	A. Iranian Revolution	Which city was the center of protests during the Iranian Revolution?	Tehran
+3	A. Iranian Revolution	What type of government was established after the Iranian Revolution?	Islamic Republic
+4	A. Iranian Revolution	What event marked the start of the Iranian hostage crisis?	U.S. Embassy takeover
+5	A. Iranian Revolution	In what year did the Iranian Revolution take place?	1979
+1	B. Stop-Motion Animation	What material is commonly used to make stop-motion puppets?	Clay
+2	B. Stop-Motion Animation	What 1993 stop-motion film is about Halloween and Christmas?	The Nightmare Before Christmas
+3	B. Stop-Motion Animation	Which stop-motion character is known for his dog named Gromit?	Wallace
+4	B. Stop-Motion Animation	Which film is about a boy who befriends a giant peach?	James and the Giant Peach
+5	B. Stop-Motion Animation	Which 2000 stop-motion film features chickens planning an escape?	Chicken Run
+1	C. Horror Graphic Novels	Which series features a monster hunter named Goon?	The Goon
+2	C. Horror Graphic Novels	Which horror graphic novel features vampires and snow in Alaska?	30 Days of Night
+3	C. Horror Graphic Novels	Which graphic novel is set in a zombie apocalypse?	The Walking Dead
+4	C. Horror Graphic Novels	Which horror graphic novel is about a detective in a supernatural world?	Fell
+5	C. Horror Graphic Novels	Which series features demons and occult detectives?	Hellboy
+1	D. Black Holes	What cannot escape from inside a black hole?	Light
+2	D. Black Holes	Who proposed the theory of black holes in general relativity?	Albert Einstein
+3	D. Black Holes	Which galaxy has a supermassive black hole at its center?	Milky Way
+4	D. Black Holes	What is the name of the black hole at the center of the Milky Way?	Sagittarius A*
+5	D. Black Holes	What is the process of a black hole pulling in nearby matter called?	Accretion
+1	E. Deepest Lakes	Which United States lake is the deepest?	Crater Lake
+2	E. Deepest Lakes	Which is the deepest lake in North America?	Great Slave Lake
+3	E. Deepest Lakes	Which continent is Lake Tanganyika on?	Africa
+4	E. Deepest Lakes	Located inRussia, which is the deepest lake in the world?	Lake Baikal
+5	E. Deepest Lakes	Which European lake is the deepest?	Lake Como
