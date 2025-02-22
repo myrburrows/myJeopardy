@@ -1,25 +1,25 @@
-A	1	Wildfires	What is a wildfire?	A large, uncontrolled fire in natural areas
-A	2	Wildfires	Which season sees the most wildfires?	Summer
-A	3	Wildfires	What is a key safety measure during a wildfire?	Evacuation
-A	4	Wildfires	Which weather condition can worsen wildfires?	High winds
-A	5	Wildfires	What term describes a rapidly spreading wildfire?	Conflagration
-B	1	Authors from New York state	Who wrote "The Godfather"?	Mario Puzo
-B	2	Authors from New York state	Which New York author wrote "Death of a Salesman"?	Arthur Miller
-B	3	Authors from New York state	Who is the author of "Charlotte's Web"?	EB White
-B	4	Authors from New York state	Who authored "The Naked and the Dead"?	Norman Mailer
-B	5	Authors from New York state	Which Harlem-born author is celebrated for exploring race in America?	James Baldwin
-C	1	Swimming Training	Which accessory protects swimmers' eyes underwater?	Goggles
-C	2	Swimming Training	What headgear do swimmers wear to reduce drag?	Swim cap
-C	3	Swimming Training	What is the fastest competitive swimming stroke?	Freestyle
-C	4	Swimming Training	How long is an Olympic swimming pool?	50 meters
-C	5	Swimming Training	What tool is used to practice kicking technique?	Kickboard
-D	1	Desert Ecosystems and Wildlife	Which plant is common in deserts?	Cactus
-D	2	Desert Ecosystems and Wildlife	Which animal is known for storing water in its hump?	Camel
-D	3	Desert Ecosystems and Wildlife	When is the desert usually coolest?	Early morning
-D	4	Desert Ecosystems and Wildlife	How do desert animals avoid the daytime heat?	Nocturnal behavior
-D	5	Desert Ecosystems and Wildlife	Which desert animal has large ears for cooling?	Fennec fox
-E	1	Ancient Greece	Which epic poem recounts the Trojan War?	The Iliad
-E	2	Ancient Greece	Who was the king of the Greek gods?	Zeus
-E	3	Ancient Greece	What is the famous temple in Athens called?	The Parthenon
-E	4	Ancient Greece	Which philosopher taught Plato?	Socrates
-E	5	Ancient Greece	Who is known as the Father of History?	Herodotus
+1	A. Wildfires	What is a wildfire?	A large, uncontrolled fire in natural areas
+2	A. Wildfires	Which season sees the most wildfires?	Summer
+3	A. Wildfires	What is a key safety measure during a wildfire?	Evacuation
+4	A. Wildfires	Which weather condition can worsen wildfires?	High winds
+5	A. Wildfires	What term describes a rapidly spreading wildfire?	Conflagration
+1	B. Authors from New York state	Who wrote "The Godfather"?	Mario Puzo
+2	B. Authors from New York state	Which New York author wrote "Death of a Salesman"?	Arthur Miller
+3	B. Authors from New York state	Who is the author of "Charlotte's Web"?	EB White
+4	B. Authors from New York state	Who authored "The Naked and the Dead"?	Norman Mailer
+5	B. Authors from New York state	Which Harlem-born author is celebrated for exploring race in America?	James Baldwin
+1	C. Swimming Training	Which accessory protects swimmers' eyes underwater?	Goggles
+2	C. Swimming Training	What headgear do swimmers wear to reduce drag?	Swim cap
+3	C. Swimming Training	What is the fastest competitive swimming stroke?	Freestyle
+4	C. Swimming Training	How long is an Olympic swimming pool?	50 meters
+5	C. Swimming Training	What tool is used to practice kicking technique?	Kickboard
+1	D. Desert Ecosystems and Wildlife	Which plant is common in deserts?	Cactus
+2	D. Desert Ecosystems and Wildlife	Which animal is known for storing water in its hump?	Camel
+3	D. Desert Ecosystems and Wildlife	When is the desert usually coolest?	Early morning
+4	D. Desert Ecosystems and Wildlife	How do desert animals avoid the daytime heat?	Nocturnal behavior
+5	D. Desert Ecosystems and Wildlife	Which desert animal has large ears for cooling?	Fennec fox
+1	E. Ancient Greece	Which epic poem recounts the Trojan War?	The Iliad
+2	E. Ancient Greece	Who was the king of the Greek gods?	Zeus
+3	E. Ancient Greece	What is the famous temple in Athens called?	The Parthenon
+4	E. Ancient Greece	Which philosopher taught Plato?	Socrates
+5	E. Ancient Greece	Who is known as the Father of History?	Herodotus
