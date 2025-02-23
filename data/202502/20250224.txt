@@ -1,0 +1,25 @@
+1	A. Grammy Awards	Who presents the Grammy Awards?	The Recording Academy.
+2	A. Grammy Awards	What design inspired the physical trophy of the Grammys?	A vintage gramophone.
+3	A. Grammy Awards	Which category recognizes breakthrough artists at the Grammys?	Best New Artist.
+4	A. Grammy Awards	How do the Grammys differ from many popular music awards?	They focus on artistic achievement rather than just commercial success.
+5	A. Grammy Awards	Which genre’s evolving recognition has sparked much debate in recent Grammy discussions?	Rap and hip-hop.
+1	B. Mark Twain	Which two novels are considered Mark Twain’s major works?	The Adventures of Tom Sawyer and "Adventures of Huckleberry Finn."
+2	B. Mark Twain	What river plays a significant role in Twain's major works?	Mississippi River
+3	B. Mark Twain	Which geographic region heavily influenced the settings of his stories?	The American South, particularly around the Mississippi.
+4	B. Mark Twain	What was Mark Twain’s real name?	Samuel Langhorne Clemens.
+5	B. Mark Twain	What job did Samuel Clemens have on a real riverboat?	Riverboat pilot
+1	C. Hockey Rinks	What is a key physical difference between an ice hockey rink and a field hockey pitch?	Ice rinks are enclosed with boards, while field hockey pitches are open and grass or turf-based.
+2	C. Hockey Rinks	How is the ice surface maintained during professional games?	It is regularly resurfaced using a Zamboni machine.
+3	C. Hockey Rinks	What is the significance of the center ice face-off circle?	It’s the starting point for play and where many face-offs occur.
+4	C. Hockey Rinks	Why are boards and glass panels installed around ice hockey rinks?	They protect players and help keep the puck in play.
+5	C. Hockey Rinks	What is the purpose of the blue lines on an ice hockey rink?	To divide the rink into distinct offensive and defensive zones.
+1	D. Smart Cities	In which state is most of Kansas City located?	Missouri
+2	D. Smart Cities	Which river flows through Kansas City?	Missouri River
+3	D. Smart Cities	What district is known for its vibrant nightlife in Kansas City?	Power Light District
+4	D. Smart Cities	What annual event celebrates Kansas City's heritage?	American Royal
+5	D. Smart Cities	What is the name of Kansas City's famous art museum?	Nelson Atkins
+1	E. Deep-Sea Exploration	What extreme condition challenges deep-sea research?	High pressure
+2	E. Deep-Sea Exploration	What primary vehicle is used in deep-sea exploration?	Remote-Operated Vehicles (ROVs)
+3	E. Deep-Sea Exploration	What pioneer French underwater explorer co-invented the Aqua-lung?	Jacques Cousteau
+4	E. Deep-Sea Exploration	What submarine was lost in 1963 while doing deep-sea exploration?	the Thresher
+5	E. Deep-Sea Exploration	What is the feature of the sea floor that is a fissure emitting superheated water?	Hydrothermal vents
