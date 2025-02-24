@@ -1,0 +1,25 @@
+1	A. Islands with Unique Ecosystems	What island is famous for its lemurs and unique wildlife?	Madagascar
+2	A. Islands with Unique Ecosystems	What island’s giant tortoises helped inspire Darwin’s evolution theory?	Galapagos
+3	A. Islands with Unique Ecosystems	Which Hawaiian island has an active volcano named Kilauea?	Hawaii (Big Island)
+4	A. Islands with Unique Ecosystems	Which Indonesian island is home to the Komodo dragon?	Komodo
+5	A. Islands with Unique Ecosystems	Which island in the Indian Ocean is famous for its dodo bird history?	Mauritius
+1	B. Modern Wonders	Which tower in Paris was built for the 1889 World’s Fair?	Eiffel Tower
+2	B. Modern Wonders	Which canal connects the Atlantic and Pacific Oceans?	Panama Canal
+3	B. Modern Wonders	Which Italian tower is famous for leaning to one side?	Leaning Tower of Pisa
+4	B. Modern Wonders	Which bridge in San Francisco is painted orange-red?	Golden Gate Bridge
+5	B. Modern Wonders	Which Australian opera house has a sail-like design?	Sydney Opera House
+1	C. Musical Theatre	What musical features a nun teaching a family to sing in Austria?	The Sound of Music
+2	C. Musical Theatre	What musical is set in Revolutionary France with a spinning barricade?	Les Misérables
+3	C. Musical Theatre	Who wrote the music for "The Phantom of the Opera"?	Andrew Lloyd Webber
+4	C. Musical Theatre	Which musical follows a gang rivalry in New York City?	West Side Story
+5	C. Musical Theatre	Which musical about a matchmaker is set in a Jewish village?	Fiddler on the Roof
+1	D. Silent Film Era	Who was the silent film star known as "The Little Tramp"?	Charlie Chaplin
+2	D. Silent Film Era	What silent film comedian was famous for his stunts and deadpan face?	Buster Keaton
+3	D. Silent Film Era	Which actress was called "America’s Sweetheart" in the 1920s?	Mary Pickford
+4	D. Silent Film Era	Who was the silent era’s "Great Profile" and swashbuckling hero?	Douglas Fairbanks
+5	D. Silent Film Era	Which 1927 film was the first major "talkie" to end the silent era?	The Jazz Singer
+1	E. Famous Winter Athletes	What ice hockey player is nicknamed "The Great One"?	Wayne Gretzky
+2	E. Famous Winter Athletes	Who dominated women’s alpine skiing with 82 World Cup wins?	Lindsey Vonn
+3	E. Famous Winter Athletes	Which American skier won gold in the 2010 Olympic downhill?	Bode Miller
+4	E. Famous Winter Athletes	Who won four Olympic gold medals in speed skating from 1980-1992?	Bonnie Blair
+5	E. Famous Winter Athletes	Which skier became the first to win five straight World Cup titles?	Marcel Hirscher
