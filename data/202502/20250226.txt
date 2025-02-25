@@ -1,0 +1,25 @@
+1	A. Global Influence of the American Revolution	Which country’s revolution was inspired by America’s in 1789?	France
+2	A. Global Influence of the American Revolution	What treaty in 1783 set a global precedent for independence?	Treaty of Paris
+3	A. Global Influence of the American Revolution	Which Asian country studied America’s revolution for its 1889 constitution?	Japan
+4	A. Global Influence of the American Revolution	Which South American leader drew ideas from the American Revolution?	Simón Bolívar
+5	A. Global Influence of the American Revolution	Which Caribbean nation’s 1791 revolt echoed American ideals?	Haiti
+1	B. Hockey Goalkeeping	What is the primary role of a hockey goalkeeper?	Stop the puck or ball
+2	B. Hockey Goalkeeping	Which area around the goal is the goalkeeper’s main domain in ice hockey?	Crease
+3	B. Hockey Goalkeeping	What skill is key for a goalkeeper in both hockey types?	Reflexes
+4	B. Hockey Goalkeeping	In field hockey, can a goalkeeper use their hands to catch the ball?	Yes
+5	B. Hockey Goalkeeping	Which famous ice hockey goalkeeper has the most career wins?	Martin Brodeur
+1	C. Historical Fiction	What war is the backdrop for "Gone with the Wind"?	Civil War
+2	C. Historical Fiction	What historical event shapes "A Tale of Two Cities"?	French Revolution
+3	C. Historical Fiction	Which author’s "Outlander" series mixes time travel with 18th-century Scotland?	Diana Gabaldon
+4	C. Historical Fiction	Which novel by Sir Walter Scott is set during the Crusades?	Ivanhoe
+5	C. Historical Fiction	What ancient city is the setting for "The Pillars of the Earth"?	Kingsbridge
+1	D. Urban Sprawl	Which U.S. city is often cited as an example of urban sprawl?	Los Angeles
+2	D. Urban Sprawl	What causes urban sprawl besides population growth?	Car dependency
+3	D. Urban Sprawl	What environmental issue is worsened by urban sprawl?	Habitat loss
+4	D. Urban Sprawl	What type of housing is common in sprawling suburbs?	Single-family homes
+5	D. Urban Sprawl	Which sprawling city in Brazil covers over 3,000 square miles?	São Paulo
+1	E. Voice Actors in Cartoons	Which actor voiced Woody in "Toy Story"?	Tom Hanks
+2	E. Voice Actors in Cartoons	Which star voiced the Genie in "Aladdin"?	Robin Williams
+3	E. Voice Actors in Cartoons	Which actress voiced Dory in "Finding Nemo"?	Ellen DeGeneres
+4	E. Voice Actors in Cartoons	What comedian voiced Shrek in the animated film series?	Mike Myers
+5	E. Voice Actors in Cartoons	Who voiced Bugs Bunny in the classic Looney Tunes cartoons?	Mel Blanc
