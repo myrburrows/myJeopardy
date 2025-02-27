@@ -1,0 +1,25 @@
+1	A. Soccer Positions	Which player defends the goal from shots?	Goalkeeper
+2	A. Soccer Positions	What soccer position is responsible for scoring goals?	Striker
+3	A. Soccer Positions	Which player is allowed to use their hands within the penalty area?	Goalkeeper
+4	A. Soccer Positions	What position links defense and attack in the middle of the field?	Midfielder
+5	A. Soccer Positions	Which position roams the flanks to deliver crosses?	Winger
+1	B. Geography of the Carolinas	What mountain range runs through western North Carolina?	Blue Ridge Mountains
+2	B. Geography of the Carolinas	Which island chain off the Carolinas includes Cape Hatteras?	Outer Banks
+3	B. Geography of the Carolinas	Which river forms part of the border between North and South Carolina?	Savannah River
+4	B. Geography of the Carolinas	Which coastal city in North Carolina is known for its historic waterfront?	Wilmington
+5	B. Geography of the Carolinas	What large swamp spans both Carolinas near the coast?	Great Dismal Swamp
+1	C. Moby Dick	Who wrote the novel "Moby Dick"?	Herman Melville
+2	C. Moby Dick	What is the name of the white whale in the story?	Moby Dick
+3	C. Moby Dick	Who is the obsessive captain hunting the whale?	Ahab
+4	C. Moby Dick	Which character is the narrator of "Moby Dick"?	Ishmael
+5	C. Moby Dick	What is Captain Ahab’s wooden leg made from?	Whalebone
+1	D. Plant Anatomy	Which plant structure anchors it into the soil?	Roots
+2	D. Plant Anatomy	Which part of a plant produces seeds?	Flowers
+3	D. Plant Anatomy	Which colorful part of a flower attracts pollinators?	Petals
+4	D. Plant Anatomy	What is the outer layer of a leaf called?	Epidermis
+5	D. Plant Anatomy	Which tiny openings on leaves allow gas exchange?	Stomata
+1	E. Directors Who Act in Their Films	Who directed and starred as the lead in "Citizen Kane"?	Orson Welles
+2	E. Directors Who Act in Their Films	Which filmmaker acted as a neurotic comedian in "Annie Hall"?	Woody Allen
+3	E. Directors Who Act in Their Films	Which director acted as a soldier in "Saving Private Ryan"?	Steven Spielberg
+4	E. Directors Who Act in Their Films	Which filmmaker played a villain in "Reservoir Dogs"?	Quentin Tarantino
+5	E. Directors Who Act in Their Films	Who directed and played a supporting role in "The Godfather Part II"?	Francis Ford Coppola
