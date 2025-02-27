@@ -1,25 +1,25 @@
-A	1	History of Motorsports	Which American race, started in 1911, is called "The Greatest Spectacle in Racing"?	Indianapolis 500
-A	2	History of Motorsports	What was the first car brand to win a Grand Prix in 1901?	Mercedes
-A	3	History of Motorsports	Who won the first official NASCAR race in 1949?	Lee Petty
-A	4	History of Motorsports	What motorsport began as moonshine runners evading police in the 1940s?	NASCAR
-A	5	History of Motorsports	What was the top speed of the first race-winning car in 1894?	12 mph
-B	1	Country Singers from Louisianna	Who from Louisiana sang "Louisiana Woman, Mississippi Man" with Conway Twitty?	Loretta Lynn
-B	2	Country Singers from Louisianna	Which Louisiana-born singer is known for "Folsom Prison Blues"?	Johnny Cash
-B	3	Country Singers from Louisianna	What country singer from Louisiana is famous for "Jambalaya"?	Hank Williams Sr.
-B	4	Country Singers from Louisianna	Which Louisiana artist sang "Achy Breaky Heart"?	Billy Ray Cyrus
-B	5	Country Singers from Louisianna	What country star from Louisiana sang "He Stopped Loving Her Today"?	George Jones
-C	1	Cubism	Which artist co-founded Cubism with Georges Braque?	Pablo Picasso
-C	2	Cubism	What city was the center of the Cubism movement?	Paris
-C	3	Cubism	What art style did Cubism rebel against?	Realism
-C	4	Cubism	Which Cubist artist was known for his violin and bottle still lifes?	Juan Gris
-C	5	Cubism	Which French artist painted "The Guitarist" in Cubist style?	Georges Braque
-D	1	Geography of Minnesota	Which city is Minnesota’s capital?	St. Paul
-D	2	Geography of Minnesota	What is Minnesota’s nickname due to its many lakes?	Land of 10,000 Lakes
-D	3	Geography of Minnesota	What large lake forms part of Minnesota’s northern border?	Lake Superior
-D	4	Geography of Minnesota	What Minnesota city sits across the river from Fargo, North Dakota?	Moorhead
-D	5	Geography of Minnesota	What is the highest point in Minnesota, at 2,301 feet?	Eagle Mountain
-E	1	Causes of World Wars	Which country’s invasion of Poland started World War II?	Germany
-E	2	Causes of World Wars	Which assassination in 1914 sparked World War I?	Archduke Franz Ferdinand
-E	3	Causes of World Wars	What ideology drove Germany’s aggression in World War II?	Nazism
-E	4	Causes of World Wars	What sinking of a ship in 1915 pulled the U.S. toward World War I?	Lusitania
-E	5	Causes of World Wars	What treaty’s harsh terms helped cause World War II?	Treaty of Versailles
+1	A. History of Motorsports	Which American race, started in 1911, is called "The Greatest Spectacle in Racing"?	Indianapolis 500
+2	A. History of Motorsports	What was the first car brand to win a Grand Prix in 1901?	Mercedes
+3	A. History of Motorsports	Who won the first official NASCAR race in 1949?	Lee Petty
+4	A. History of Motorsports	What motorsport began as moonshine runners evading police in the 1940s?	NASCAR
+5	A. History of Motorsports	What was the top speed of the first race-winning car in 1894?	12 mph
+1	B. Country Singers from Louisianna	Who from Louisiana sang "Louisiana Woman, Mississippi Man" with Conway Twitty?	Loretta Lynn
+2	B. Country Singers from Louisianna	Which Louisiana-born singer is known for "Folsom Prison Blues"?	Johnny Cash
+3	B. Country Singers from Louisianna	What country singer from Louisiana is famous for "Jambalaya"?	Hank Williams Sr.
+4	B. Country Singers from Louisianna	Which Louisiana artist sang "Achy Breaky Heart"?	Billy Ray Cyrus
+5	B. Country Singers from Louisianna	What country star from Louisiana sang "He Stopped Loving Her Today"?	George Jones
+1	C. Cubism	Which artist co-founded Cubism with Georges Braque?	Pablo Picasso
+2	C. Cubism	What city was the center of the Cubism movement?	Paris
+3	C. Cubism	What art style did Cubism rebel against?	Realism
+4	C. Cubism	Which Cubist artist was known for his violin and bottle still lifes?	Juan Gris
+5	C. Cubism	Which French artist painted "The Guitarist" in Cubist style?	Georges Braque
+1	D. Geography of Minnesota	Which city is Minnesota’s capital?	St. Paul
+2	D. Geography of Minnesota	What is Minnesota’s nickname due to its many lakes?	Land of 10,000 Lakes
+3	D. Geography of Minnesota	What large lake forms part of Minnesota’s northern border?	Lake Superior
+4	D. Geography of Minnesota	What Minnesota city sits across the river from Fargo, North Dakota?	Moorhead
+5	D. Geography of Minnesota	What is the highest point in Minnesota, at 2,301 feet?	Eagle Mountain
+1	E. Causes of World Wars	Which country’s invasion of Poland started World War II?	Germany
+2	E. Causes of World Wars	Which assassination in 1914 sparked World War I?	Archduke Franz Ferdinand
+3	E. Causes of World Wars	What ideology drove Germany’s aggression in World War II?	Nazism
+4	E. Causes of World Wars	What sinking of a ship in 1915 pulled the U.S. toward World War I?	Lusitania
+5	E. Causes of World Wars	What treaty’s harsh terms helped cause World War II?	Treaty of Versailles
