@@ -1,0 +1,25 @@
+1	A. Host Cities of the Olympics	Which city hosted the first modern Summer Olympics in 1896?	Athens
+2	A. Host Cities of the Olympics	What Asian city hosted the 2020 Summer Olympics, delayed to 2021?	Tokyo
+3	A. Host Cities of the Olympics	Which Canadian city hosted the 1976 Summer Olympics?	Montreal
+4	A. Host Cities of the Olympics	What Australian city hosted the 2000 Summer Olympics?	Sydney
+5	A. Host Cities of the Olympics	What Italian city hosted the 1960 Summer Olympics?	Rome
+1	B. Particle Physics	Which particle carries a negative electric charge?	Electron
+2	B. Particle Physics	What particle has no electric charge and is found in the nucleus?	Neutron
+3	B. Particle Physics	Which particle carries a positive charge in an atom’s nucleus?	Proton
+4	B. Particle Physics	Which force-carrying particle is associated with light?	Photon
+5	B. Particle Physics	What is the smallest unit of matter studied in particle physics?	Quark
+1	C. Navigation Techniques	Which magnetic device points north for navigation?	Compass
+2	C. Navigation Techniques	Which technique measures a star’s angle above the horizon?	Sextant
+3	C. Navigation Techniques	Which line on a map shows equal latitude?	Parallel
+4	C. Navigation Techniques	Which ancient Polynesian technique reads ocean waves for direction?	Wayfinding
+5	C. Navigation Techniques	What ancient tool uses the stars to find direction?	Astrolabe
+1	D. Texas Authors	Who wrote "Lonesome Dove," set in the Texas frontier?	Larry McMurtry
+2	D. Texas Authors	Who from Texas created the "Percy Jackson" series?	Rick Riordan
+3	D. Texas Authors	Which Texas writer is famous for "Friday Night Lights"?	H.G. Bissinger
+4	D. Texas Authors	Who from Texas wrote the mystery novel "The Thin Man"?	Dashiell Hammett
+5	D. Texas Authors	What Texas writer created the "Hank the Cowdog" series?	John R. Erickson
+1	E. Idaho Geography	Which city is Idaho’s capital?	Boise
+2	E. Idaho Geography	Which national park partly extends into southeastern Idaho?	Yellowstone
+3	E. Idaho Geography	What river forms much of Idaho’s western border?	Snake River
+4	E. Idaho Geography	What mountain range runs through central Idaho?	Sawtooth Range
+5	E. Idaho Geography	What volcanic area in Idaho is known for its lava fields?	Craters of the Moon
