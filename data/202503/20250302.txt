@@ -1,0 +1,25 @@
+1	A. Island Nations	Which island nation has Reykjavik as its capital?	Iceland
+2	A. Island Nations	What island nation is known for its reggae music and Bob Marley?	Jamaica
+3	A. Island Nations	What Caribbean country shares an island with Haiti?	Dominican Republic
+4	A. Island Nations	Which island nation is home to the unique kiwi bird?	New Zealand
+5	A. Island Nations	Which island nation’s flag features a red circle on a white background?	Japan
+1	B. Nature in Alaska	Which Alaskan animal is known for its white fur and hunting seals?	Polar bear
+2	B. Nature in Alaska	Which Alaskan island chain stretches toward Russia?	Aleutian Islands
+3	B. Nature in Alaska	Which Alaskan fish is a key species for both nature and industry?	Salmon
+4	B. Nature in Alaska	Which Alaskan glacier is famous for its blue ice and accessibility?	Mendenhall Glacier
+5	B. Nature in Alaska	What river is the longest in Alaska?	Yukon River
+1	C. Game Consoles	What Sony console debuted in 1994 and became a global hit?	PlayStation
+2	C. Game Consoles	Which Microsoft console launched in 2001 to rival PlayStation?	Xbox
+3	C. Game Consoles	What handheld console did Nintendo release in 1989?	Game Boy
+4	C. Game Consoles	What Atari console from 1977 popularized home video games?	Atari 2600
+5	C. Game Consoles	What Xbox console succeeded the original in 2005?	Xbox 360
+1	D. Jane Eyre	Who wrote the novel "Jane Eyre"?	Charlotte Brontë
+2	D. Jane Eyre	What job does Jane take at Thornfield Hall?	Governess
+3	D. Jane Eyre	Who is the brooding master of Thornfield Hall?	Mr. Rochester
+4	D. Jane Eyre	What secret does Mr. Rochester hide in the attic?	His wife
+5	D. Jane Eyre	What is the name of Jane’s cruel aunt who raises her?	Mrs. Reed
+1	E. Invention of the Automobile	What American popularized mass-produced cars with the Model T?	Henry Ford
+2	E. Invention of the Automobile	Which U.S. city became the hub of car manufacturing?	Detroit
+3	E. Invention of the Automobile	What powered the earliest automobiles before gasoline?	Steam
+4	E. Invention of the Automobile	Which German engineer created the diesel engine for cars?	Rudolf Diesel
+5	E. Invention of the Automobile	In what decade did cars become widely affordable?	1920s
