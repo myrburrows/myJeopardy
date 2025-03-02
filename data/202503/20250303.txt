@@ -1,0 +1,25 @@
+1	A. Japanese Shogunate	Who was the military leader title in Japan during the Shogunate era?	Shogun
+2	A. Japanese Shogunate	What term describes the feudal warriors loyal to the shogun?	Samurai
+3	A. Japanese Shogunate	What weapon symbolized the samurai under the shoguns?	Katana
+4	A. Japanese Shogunate	What was the capital city renamed Tokyo under the Tokugawa Shogunate?	Edo
+5	A. Japanese Shogunate	What was the first shogunate period named after its base city?	Kamakura
+1	B. Animal Protagonists	What kind of animal is Bambi in the novel by Felix Salten?	Deer
+2	B. Animal Protagonists	In "Paddington" by Michael Bond, what type of animal is Paddington?	Bear
+3	B. Animal Protagonists	Which animal leads the group in "The Wind in the Willows"?	Toad
+4	B. Animal Protagonists	What is the name of the horse in "War Horse" by Michael Morpurgo?	Joey
+5	B. Animal Protagonists	In "Redwall" by Brian Jacques, what type of animal is Matthias?	Mouse
+1	C. Historical Timekeeping	What ancient tool used the sun’s shadow to tell time?	Sundial
+2	C. Historical Timekeeping	Which ancient culture used obelisks as early sundials?	Egyptian
+3	C. Historical Timekeeping	What was the first mechanical clock regulated by?	Pendulum
+4	C. Historical Timekeeping	What were large clocks in medieval town squares called?	Turret Clocks
+5	C. Historical Timekeeping	Who introduced the concept of standardized time zones in the 19th century?	Sandford Fleming
+1	D. Sitcoms: Famous Catchphrases	What does Elaine yell in "Seinfeld" to get someone moving?	Get out!
+2	D. Sitcoms: Famous Catchphrases	What does Phoebe say in "Friends" when something quirky happens?	Oh, no!
+3	D. Sitcoms: Famous Catchphrases	In "Modern Family," what does Phil Dunphy say to show enthusiasm?	Sweet potato fries!
+4	D. Sitcoms: Famous Catchphrases	What catchphrase does Steve Urkel use in "Family Matters"?	Did I do that?
+5	D. Sitcoms: Famous Catchphrases	In "The Fresh Prince of Bel-Air," what does Will say to Carlton?	Yo, homes!
+1	E. Nuclear Chemistry	What radioactive element has the symbol U and atomic number 92?	Uranium
+2	E. Nuclear Chemistry	What instrument counts radioactive particles in a sample?	Geiger Counter
+3	E. Nuclear Chemistry	What do you call variants of an element with different neutron counts?	Isotopes
+4	E. Nuclear Chemistry	What nuclear reaction splits an atom into two smaller parts?	Fission
+5	E. Nuclear Chemistry	What process fuses nuclei to release energy in stars?	Fusion
