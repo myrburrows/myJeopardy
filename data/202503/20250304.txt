@@ -1,0 +1,25 @@
+1	A. Directors Known for Blockbusters	Who directed the blockbuster hit "E.T. the Extra-Terrestrial"?	Steven Spielberg
+2	A. Directors Known for Blockbusters	Who directed the high-grossing "Titanic" and "Avatar" films?	James Cameron
+3	A. Directors Known for Blockbusters	Which director created the explosive "Armageddon" film?	Michael Bay
+4	A. Directors Known for Blockbusters	Which director made "Star Wars: A New Hope" a cultural phenomenon?	George Lucas
+5	A. Directors Known for Blockbusters	Which director is known for the "Lord of the Rings" trilogy?	Peter Jackson
+1	B. Steam Power	Who is famous for improving the steam engine in the late 1700s?	James Watt
+2	B. Steam Power	What fuel was commonly burned to create steam in engines?	Coal
+3	B. Steam Power	What steam-powered vehicle revolutionized transportation?	Steam Locomotive
+4	B. Steam Power	Which machine used steam to weave cloth faster?	Power Loom
+5	B. Steam Power	What did steam engines pump out of mines?	Water
+1	C. American Writers of the 18th Century	Which Founding Father penned the Declaration of Independence?	Thomas Jefferson
+2	C. American Writers of the 18th Century	Who published "Poor Richard’s Almanack" in the 1730s?	Benjamin Franklin
+3	C. American Writers of the 18th Century	Who wrote "Common Sense" to inspire American independence?	Thomas Paine
+4	C. American Writers of the 18th Century	Which writer’s "Letters from a Farmer in Pennsylvania" opposed British taxes?	John Dickinson
+5	C. American Writers of the 18th Century	Who was the first American woman to publish a novel, "The Coquette"?	Hannah Webster Foster
+1	D. Natural Features: Utah	What massive salt lake dominates northern Utah?	Great Salt Lake
+2	D. Natural Features: Utah	What desert covers much of Utah’s southern region?	Mojave
+3	D. Natural Features: Utah	Which Utah park is known for its steep, colorful canyons?	Zion
+4	D. Natural Features: Utah	Which national park in Utah features natural rock arches?	Arches
+5	D. Natural Features: Utah	Which national park in Utah has the hoodoo rock formations?	Bryce Canyon
+1	E. Geography of the Dakotas	Which Dakota state is home to Mount Rushmore?	South Dakota
+2	E. Geography of the Dakotas	Which national park in South Dakota features eroded rock formations?	Badlands
+3	E. Geography of the Dakotas	What river runs through both North and South Dakota?	Missouri River
+4	E. Geography of the Dakotas	Which South Dakota city is near the Black Hills?	Rapid City
+5	E. Geography of the Dakotas	What river forms the eastern border of North Dakota?	Red River
