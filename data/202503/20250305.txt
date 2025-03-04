@@ -1,0 +1,25 @@
+1	A. Oceans of the World	What is the largest ocean on Earth?	Pacific Ocean
+2	A. Oceans of the World	What ocean touches the eastern coast of South America?	Atlantic Ocean
+3	A. Oceans of the World	Which ocean is the smallest by area?	Arctic Ocean
+4	A. Oceans of the World	What ocean separates Australia from Africa?	Indian Ocean
+5	A. Oceans of the World	What ocean surrounds Antarctica?	Southern Ocean
+1	B. Major Rugby Teams	What is the nickname of the USA national rugby union team?	Eagles (USA Rugby League = Hawks)
+2	B. Major Rugby Teams	Which New Zealand team wore silver ferns on their jerseys before black became standard?	All Blacks
+3	B. Major Rugby Teams	What team’s home stadium is known as Twickenham?	England
+4	B. Major Rugby Teams	What South African team’s name comes from a type of antelope?	Springboks
+5	B. Major Rugby Teams	What team lost to Fiji in a shocking 2007 World Cup upset?	Wales
+1	C. Nature in New Mexico	Which New Mexico park is known for its white gypsum dunes?	White Sands
+2	C. Nature in New Mexico	Which tree species thrives in New Mexico’s high deserts?	Piñon Pine
+3	C. Nature in New Mexico	Which national park in New Mexico features vast underground caves?	Carlsbad Caverns
+4	C. Nature in New Mexico	What river forms New Mexico’s eastern border with Texas?	Pecos River
+5	C. Nature in New Mexico	What desert covers much of southern New Mexico?	Chihuahuan
+1	D. Singers of the 60's	Who sang "I Want to Hold Your Hand" in 1964?	Paul McCartney
+2	D. Singers of the 60's	Which singer recorded "Respect" in 1967?	Aretha Franklin
+3	D. Singers of the 60's	Which 60s icon sang "I Got You Babe" with Cher?	Sonny Bono
+4	D. Singers of the 60's	Who performed "Like a Rolling Stone" in 1965?	Bob Dylan
+5	D. Singers of the 60's	Which soul singer sang "Sittin’ On The Dock of the Bay" in 1967?	Otis Redding
+1	E. Renaissance Music	Which instrument resembling a small piano was popular in the Renaissance?	Harpsichord
+2	E. Renaissance Music	What stringed instrument was plucked during Renaissance performances?	Lute
+3	E. Renaissance Music	What woodwind instrument was used in Renaissance ensembles?	Recorder
+4	E. Renaissance Music	Which Italian city was a hub for Renaissance music development?	Venice
+5	E. Renaissance Music	Which dance music style was common in Renaissance courts?	Pavane
