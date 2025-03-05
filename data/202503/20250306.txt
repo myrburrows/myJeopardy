@@ -1,0 +1,25 @@
+1	A. Former Capital Cities	Which city was the capital of the United States before Washington, D.C.?	Philadelphia
+2	A. Former Capital Cities	Which city acted as Turkey’s capital before Ankara?	Istanbul
+3	A. Former Capital Cities	Which city was Russia’s capital before Moscow?	Saint Petersburg
+4	A. Former Capital Cities	What was the capital of India before New Delhi?	Calcutta
+5	A. Former Capital Cities	What city was the capital of Japan before Tokyo?	Kyoto
+1	B. Country-Western Performers from Mississippi	Which Mississippi-born singer topped the country charts with "Stand by Your Man"?	Tammy Wynette
+2	B. Country-Western Performers from Mississippi	Which Mississippi artist broke racial barriers with hits like "Kiss an Angel Good Mornin'"?	Charley Pride
+3	B. Country-Western Performers from Mississippi	Who, born in Friars Point, Mississippi, had 55 number-one country hits like "Hello Darlin'"?	Conway Twitty
+4	B. Country-Western Performers from Mississippi	Who from Mississippi is called the "Father of Country Music" for his yodeling style?	Jimmie Rodgers
+5	B. Country-Western Performers from Mississippi	Who from Chickasaw County, Mississippi, wrote and sang "Ode to Billie Joe"?	Bobbie Gentry
+1	C. Organic Chemistry	What gas do plants use to make organic compounds?	Carbon Dioxide
+2	C. Organic Chemistry	Which element is the backbone of organic molecules?	Carbon
+3	C. Organic Chemistry	What sweet organic compound is found in fruits?	Glucose
+4	C. Organic Chemistry	Which organic molecule stores energy in fat?	Lipids
+5	C. Organic Chemistry	What gas, with formula CH4, is a simple organic compound?	Methane
+1	D. Elizabethan Drama	Who wrote the Elizabethan tragedy "Hamlet"?	William Shakespeare
+2	D. Elizabethan Drama	Which playwright penned "Doctor Faustus" in the Elizabethan era?	Christopher Marlowe
+3	D. Elizabethan Drama	Who penned the Elizabethan play "Every Man in His Humour"?	Ben Jonson
+4	D. Elizabethan Drama	In Shakespeare's "As You Like It", who is the central character and heroine?	Rosalind
+5	D. Elizabethan Drama	Which Elizabethan writer authored "The Spanish Tragedy"?	Thomas Kyd
+1	E. NASCAR Champions	This driver won 7 championships in the 60's and 70's and is known as The King.	Richard Petty
+2	E. NASCAR Champions	This driver won 7 championships in the 80's and 90's. Died in a last-lap crash at Daytona.	Dale Earnhardt
+3	E. NASCAR Champions	This champion (2004) grew up racing with his brother Kyle.	Kurt Busch
+4	E. NASCAR Champions	This champion(1983) endured tragedy with sons Clifford and Davey dying in racing incidents.	Bobby Allison
+5	E. NASCAR Champions	This media-savvy star (and rival of Dale Earnhardt) won 93 Cup races, with 4 NASCAR championships.	Jeff Gordon
