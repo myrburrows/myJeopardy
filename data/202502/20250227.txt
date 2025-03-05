@@ -3,11 +3,11 @@
 3	A. History of Motorsports	Who won the first official NASCAR race in 1949?	Lee Petty
 4	A. History of Motorsports	What motorsport began as moonshine runners evading police in the 1940s?	NASCAR
 5	A. History of Motorsports	What was the top speed of the first race-winning car in 1894?	12 mph
-1	B. Country Singers from Louisianna	Who from Louisiana sang "Louisiana Woman, Mississippi Man" with Conway Twitty?	Loretta Lynn
-2	B. Country Singers from Louisianna	Which Louisiana-born singer is known for "Folsom Prison Blues"?	Johnny Cash
-3	B. Country Singers from Louisianna	What country singer from Louisiana is famous for "Jambalaya"?	Hank Williams Sr.
-4	B. Country Singers from Louisianna	Which Louisiana artist sang "Achy Breaky Heart"?	Billy Ray Cyrus
-5	B. Country Singers from Louisianna	What country star from Louisiana sang "He Stopped Loving Her Today"?	George Jones
+1	B. Country Singers from Louisiana	Who from Louisiana sang "Louisiana Woman, Mississippi Man" with Conway Twitty?	Loretta Lynn
+2	B. Country Singers from Louisiana	Which Louisiana-born singer is known for "Folsom Prison Blues"?	Johnny Cash
+3	B. Country Singers from Louisiana	What country singer from Louisiana is famous for "Jambalaya"?	Hank Williams Sr.
+4	B. Country Singers from Louisiana	Which Louisiana artist sang "Achy Breaky Heart"?	Billy Ray Cyrus
+5	B. Country Singers from Louisiana	What country star from Louisiana sang "He Stopped Loving Her Today"?	George Jones
 1	C. Cubism	Which artist co-founded Cubism with Georges Braque?	Pablo Picasso
 2	C. Cubism	What city was the center of the Cubism movement?	Paris
 3	C. Cubism	What art style did Cubism rebel against?	Realism
