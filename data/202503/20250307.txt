@@ -1,0 +1,25 @@
+1	A. Nobel Prize in Literature	Who won the Nobel Prize in 1993 for her novel "Beloved"?	Toni Morrison
+2	A. Nobel Prize in Literature	Which American author won the Nobel Prize in 1930 for his novels, including "Babbitt" and "Arrowsmith"?	Sinclair Lewis
+3	A. Nobel Prize in Literature	Which Russian author won the Nobel Prize in 1970 for "One Day in the Life of Ivan Denisovich"?	Aleksandr Solzhenitsyn
+4	A. Nobel Prize in Literature	Who was awarded the Nobel Prize in 1925 for "Pygmalion"?	George Bernard Shaw
+5	A. Nobel Prize in Literature	Which French philosopher, author of "The Stranger", won the Nobel Prize in 1957?	Albert Camus
+1	B. The Treaty of Versailles	Which war did the Treaty of Versailles officially end?	World War I
+2	B. The Treaty of Versailles	Which country was forced to accept blame for the war in the Treaty of Versailles?	Germany
+3	B. The Treaty of Versailles	Which U.S. president helped negotiate the Treaty of Versailles?	Woodrow Wilson
+4	B. The Treaty of Versailles	What league was created by the Treaty of Versailles?	League of Nations
+5	B. The Treaty of Versailles	Which major power did not join the League of Nations after the Treaty of Versailles?	United States
+1	C. Lakes Formed by Glaciers	Which Scottish lake, famous for a monster legend, was shaped by glaciers?	Loch Ness
+2	C. Lakes Formed by Glaciers	Which lake, largest in the world by surface area, in North America was formed by glaciers?	Lake Superior
+3	C. Lakes Formed by Glaciers	What Canadian lake, named for a mammal, was formed by glacial activity?	Great Bear Lake
+4	C. Lakes Formed by Glaciers	Which large lake in Russia’s Siberia was deepened by glacial action?	Lake Baikal
+5	C. Lakes Formed by Glaciers	Which lake in New York State was carved by glaciers?	Finger Lakes
+1	D. Pub Games	What pub game involves throwing arrows at a circular board?	Darts
+2	D. Pub Games	What pub game requires sliding a disk down a long table?	Shuffleboard
+3	D. Pub Games	Which game uses tiles with dots and has varieties like Mexican Train and 42?	Dominoes
+4	D. Pub Games	Which trivia-based pub gam event tests general knowledge?	Quiz Night
+5	D. Pub Games	What game has players knocking over pins with a ball?	Skittles
+1	E. Emmy Award Winners	What sitcom about a bar with characters Woody, Cliff, and Norm won Outstanding Comedy in 1983?	Cheers
+2	E. Emmy Award Winners	Which show about a New Jersey mobster named Tony won Outstanding Drama in 2004?	The Sopranos
+3	E. Emmy Award Winners	Which drama about the English royal family won Outstanding Drama in 2021?	The Crown
+4	E. Emmy Award Winners	Which show about a chemistry teacher won Outstanding Drama in 2014?	Breaking Bad
+5	E. Emmy Award Winners	Which show about a 1980s ladies wrestling league won Outstanding Comedy in 2020?	GLOW
