@@ -1,0 +1,25 @@
+1	A. Basketball Legends	Which player was nicknamed "Air Jordan" for his dunks?	Michael Jordan
+2	A. Basketball Legends	Who famously scored 100 points in a single game in 1962?	Wilt Chamberlain
+3	A. Basketball Legends	Which center dominated with the skyhook shot for the Lakers?	Kareem Abdul-Jabbar
+4	A. Basketball Legends	Which player was known as "The Big Diesel" for his power?	Shaquille O’Neal
+5	A. Basketball Legends	Who set the record for most assists in NBA history?	John Stockton
+1	B. Movie with States Name in the Title	This is a musical is about a state where "the wind comes sweeping down the plains"	Oklahoma!
+2	B. Movie with States Name in the Title	Melanie (Reese Witherspoon) returns to Alabama to divorce her childhood sweetheart	Sweet Home Alabama
+3	B. Movie with States Name in the Title	An aging, delusional Woody Grant (Bruce Dern) believes he’s won a million-dollars.	Nebrasaka
+4	B. Movie with States Name in the Title	Rebellious teen Rachel (Lindsay Lohan) is sent to live with her strict grandmother	Georgia Rule
+5	B. Movie with States Name in the Title	Claire (Kyra Sedgwick), a hitwoman, and her partner Nick (Stanley Tucci) work for a crime boss	Montana
+1	C. Mythological Creatures in Literature	Which one-eyed giant traps Odysseus in "The Odyssey"?	Cyclops
+2	C. Mythological Creatures in Literature	Which snake-haired woman turns men to stone in "Perseus"?	Medusa
+3	C. Mythological Creatures in Literature	What winged horse stars in Greek myths and "Clash of the Titans"?	Pegasus
+4	C. Mythological Creatures in Literature	Which Egyptian creature with a human head guards the pyramids?	Sphinx
+5	C. Mythological Creatures in Literature	What creature with a lion’s body and eagle’s wings guards treasure in Greek tales?	Griffin
+1	D. Engineering Marvels	Which modern marvel connects San Francisco to Marin County?	Golden Gate Bridge
+2	D. Engineering Marvels	Which modern dam harnesses the Colorado River’s power?	Hoover Dam
+3	D. Engineering Marvels	What Roman marvel brought water to cities across the empire?	Aqueducts
+4	D. Engineering Marvels	Which modern marvel tunnels under the English Channel?	Channel Tunnel
+5	D. Engineering Marvels	What ancient structure guided ships with a fire atop Alexandria?	Lighthouse of Alexandria
+1	E. Geography of Texas	What river forms Texas’s southern border with Mexico?	Rio Grande
+2	E. Geography of Texas	What Texas hill country city is known for music and tech?	Austin
+3	E. Geography of Texas	Which Texas region is famous for its pine forests?	East Texas
+4	E. Geography of Texas	Which river flows through San Antonio?	San Antonio River
+5	E. Geography of Texas	What Texas panhandle city is near Palo Duro Canyon?	Amarillo
