@@ -1,0 +1,25 @@
+1	A. Egyptian Mythology in Literature	What sun god battles Apep in Neil Gaiman’s "American Gods"?	Ra
+2	A. Egyptian Mythology in Literature	Which goddess of magic is central to "The Red Pyramid"?	Isis
+3	A. Egyptian Mythology in Literature	Which god’s eye is a symbol of protection in "The Book of the Dead"?	Horus
+4	A. Egyptian Mythology in Literature	What serpent of chaos threatens order in Egyptian myths?	Apep
+5	A. Egyptian Mythology in Literature	What cat goddess protects homes in "The Cat of Bubastes"?	Bastet
+1	B. Civil Rights Act of 1964	Which movement leader, later assassinated pushed for the Civil Rights Act?	Martin Luther King Jr.
+2	B. Civil Rights Act of 1964	Which U.S. president signed the Civil Rights Act of 1964?	Lyndon Johnson
+3	B. Civil Rights Act of 1964	Which amendment inspired parts of the Civil Rights Act?	Fourteenth
+4	B. Civil Rights Act of 1964	What march preceded the Civil Rights Act of 1964?	March on Washington
+5	B. Civil Rights Act of 1964	Which senator filibustered the Civil Rights Act for 75 hours?	Strom Thurmond
+1	C. Nature in Georgia USA	What river flows through Atlanta, Georgia?	Chattahoochee
+2	C. Nature in Georgia USA	What forested mountain range runs through northern Georgia?	Blue Ridge
+3	C. Nature in Georgia USA	What tree is Georgia’s state tree, known for its acorns?	Live Oak
+4	C. Nature in Georgia USA	What large swamp in Georgia is home to alligators?	Okefenokee
+5	C. Nature in Georgia USA	Which Georgia flower is known as the Cherokee Rose?	Rosa Laevigata
+1	D. History of Video Games	Which 1972 game by Atari became a home console hit?	Pong
+2	D. History of Video Games	What Nintendo game introduced Mario in 1981?	Donkey Kong
+3	D. History of Video Games	What Sega console launched Sonic the Hedgehog in 1991?	Genesis
+4	D. History of Video Games	Which 1980 game had players eat dots and ghosts?	Pac-Man
+5	D. History of Video Games	What 1985 game saved the video game industry slump?	Super Mario Bros.
+1	E. Eiffel Tower and Other European Landmarks	Which Italian tower leans due to unstable ground?	Leaning Tower of Pisa
+2	E. Eiffel Tower and Other European Landmarks	What ancient Roman arena hosted gladiator fights?	Colosseum
+3	E. Eiffel Tower and Other European Landmarks	What river flows beneath the Eiffel Tower?	Seine
+4	E. Eiffel Tower and Other European Landmarks	What stone circle in England is a prehistoric monument?	Stonehenge
+5	E. Eiffel Tower and Other European Landmarks	Which Russian palace is famous for its Winter Palace?	Hermitage
