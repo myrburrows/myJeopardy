@@ -1,0 +1,25 @@
+1	A. George Orwell	Which farm-based novel did George Orwell write to criticize totalitarianism?	Animal Farm
+2	A. George Orwell	What is the title of George Orwell’s famous dystopian novel published in 1949?	Nineteen Eighty-Four
+3	A. George Orwell	What is the name of the oppressive leader in Orwell’s Nineteen Eighty-Four?	Big Brother
+4	A. George Orwell	What war did George Orwell fight in during the 1930s?	Spanish Civil War
+5	A. George Orwell	In which country was George Orwell born?	India
+1	B. Stretching and Flexibility	What is the term for the ability of a joint to move freely through its full range of motion?	Flexibility
+2	B. Stretching and Flexibility	What muscle group is targeted when you touch your toes while stretching?	Hamstrings
+3	B. Stretching and Flexibility	What should you avoid doing while stretching to prevent injury?	Bouncing
+4	B. Stretching and Flexibility	What is the name of the stretch where you pull your foot to your glutes?	Quadriceps stretch
+5	B. Stretching and Flexibility	What is the term for a stretch held for a period of time without movement?	Static stretch
+1	C. Battle of Thermopylae	Which Greek city-state led the defense at the Battle of Thermopylae?	Sparta
+2	C. Battle of Thermopylae	Which empire invaded Greece during the Battle of Thermopylae?	Persian Empire
+3	C. Battle of Thermopylae	What was the name of the Persian king during the Battle of Thermopylae?	Xerxes
+4	C. Battle of Thermopylae	Who was the Spartan king during the Battle of Thermopylae?	Leonidas
+5	C. Battle of Thermopylae	How many Spartan warriors were part of the famous stand at Thermopylae?	300
+1	D. Science of the Light Bulb	Who is credited with inventing the first commercially practical incandescent light bulb?	Thomas Edison
+2	D. Science of the Light Bulb	What is the name of the glass enclosure that protects the filament in a light bulb?	Bulb
+3	D. Science of the Light Bulb	What is the part of a light bulb that glows when heated called?	Filament
+4	D. Science of the Light Bulb	What is the unit of measurement for the brightness of a light bulb?	Lumen
+5	D. Science of the Light Bulb	What gas is commonly used inside modern incandescent light bulbs to prolong their life?	Argon
+1	E. Entertainers from Oklahoma	What famous country singer from Oklahoma is known for “Okie from Muskogee”?	Merle Haggard
+2	E. Entertainers from Oklahoma	What Oklahoma-born actress starred in “Erin Brockovich”?	Julia Roberts
+3	E. Entertainers from Oklahoma	What Oklahoma-born singer is known for the hit “Ain’t Goin’ Down (‘Til the Sun Comes Up)”?	Garth Brooks
+4	E. Entertainers from Oklahoma	Which Oklahoma native starred as Tony Stark in the “Iron Man” series?	Robert Downey Jr.
+5	E. Entertainers from Oklahoma	Which Oklahoma-born singer is known for the hit “Should’ve Been a Cowboy”?	Toby Keith
