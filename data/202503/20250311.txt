@@ -1,0 +1,25 @@
+1	A. History of Florida	What is the oldest continuously inhabited European settlement in the US, located in Florida?	St. Augustine
+2	A. History of Florida	What Native American tribe fought in the Seminole Wars in Florida during the 19th century?	Seminole
+3	A. History of Florida	What is the name of the Spanish explorer who named Florida in 1513?	Juan Ponce de León
+4	A. History of Florida	What major space center, established in Florida in the 1960s, is a key part of US space history?	Kennedy Space Center
+5	A. History of Florida	What is the name of the famous highway built in the 1920s connecting Miami to Key West?	Overseas Highway
+1	B. Famous Natural Landmarks in USA	What famous canyon in Arizona is one of the Seven Natural Wonders of the World?	Grand Canyon
+2	B. Famous Natural Landmarks in USA	What is the name of the geyser in Yellowstone National Park known for its regular eruptions?	Old Faithful
+3	B. Famous Natural Landmarks in USA	What is the name of the largest single rock formation in the US, located in California?	El Capitan
+4	B. Famous Natural Landmarks in USA	What is the name of the famous cave system in Kentucky, the longest in the world?	Mammoth Cave
+5	B. Famous Natural Landmarks in USA	What is the tallest waterfall in North America, located in California?	Yosemite Falls
+1	C. Birds	What bird is known for its distinctive black and white coloring and waddling walk?	Penguin
+2	C. Birds	What is the name of the bird known for its ability to hover while feeding on nectar?	Hummingbird
+3	C. Birds	What is the name of the large, flightless bird native to Australia?	Emu
+4	C. Birds	What is the name of the bird that delivers babies in folklore, known for its long beak?	Stork
+5	C. Birds	What bird is famous for its long migrations between the Arctic and Antarctica?	Arctic Tern
+1	D. Famous Athletes from Missouri Universities	At which university did Joe Montana play college football, famous for its Fighting Irish?	Notre Dame
+2	D. Famous Athletes from Missouri Universities	At which university did Tom Brady play college football before his NFL career?	Michigan
+3	D. Famous Athletes from Missouri Universities	At which California university did Aaron Rodgers play college football?	UC Berkeley
+4	D. Famous Athletes from Missouri Universities	At which university did Brett Favre play college football, known for its Golden Eagles?	Southern Mississippi
+5	D. Famous Athletes from Missouri Universities	At which university did Russell Wilson play college football before transferring to Wisconsin?	North Carolina State
+1	E. Directors and Their Collaborators	What actor is a frequent collaborator with director Martin Scorsese, starring in films like "Goodfellas"?	Robert De Niro
+2	E. Directors and Their Collaborators	What actress is a frequent collaborator with director Woody Allen, starring in films like "Annie Hall"?	Diane Keaton
+3	E. Directors and Their Collaborators	What actor is a frequent collaborator with director Spike Lee, starring in films like "Do the Right Thing"?	Denzel Washington
+4	E. Directors and Their Collaborators	What actor is a frequent collaborator with director Quentin Tarantino, starring in films like "Pulp Fiction"?	Samuel L. Jackson
+5	E. Directors and Their Collaborators	What composer is a frequent collaborator with director Steven Spielberg, known for films like "Jaws"?	John Williams
