@@ -1,0 +1,25 @@
+1	A. Renaissance Scientific Advancements	What invention by Johannes Gutenberg helped spread scientific ideas?	Printing press
+2	A. Renaissance Scientific Advancements	What instrument did Galileo use to observe the heavens?	Telescope
+3	A. Renaissance Scientific Advancements	Who proposed the heliocentric model of the solar system?	Copernicus
+4	A. Renaissance Scientific Advancements	Who is known for his laws of planetary motion?	Kepler
+5	A. Renaissance Scientific Advancements	Who is credited with discovering that blood circulates in the body?	William Harvey
+1	B. Mountain Ranges of Continents	What mountain range forms the backbone of North America?	Rocky Mountains
+2	B. Mountain Ranges of Continents	What mountain range runs along the western coast of South America?	Andes
+3	B. Mountain Ranges of Continents	What mountain range is located in Europe and known for the Matterhorn?	Alps
+4	B. Mountain Ranges of Continents	What mountain range separates Europe and Asia in Russia?	Ural Mountains
+5	B. Mountain Ranges of Continents	What mountain range runs through North Africa?	Atlas Mountains
+1	C. Famous Shakespeare Quotes	What line from Julius Caesar warns a friend of betrayal?	Et tu, Brute?
+2	C. Famous Shakespeare Quotes	What famous line from Hamlet asks the question of existence?	To be or not to be
+3	C. Famous Shakespeare Quotes	What line from Hamlet warns against borrowing or lending?	Neither a borrower nor a lender be
+4	C. Famous Shakespeare Quotes	What line from The Tempest speaks of the world as a stage?	All the world’s a stage
+5	C. Famous Shakespeare Quotes	What line from A Midsummer Night's Dream speaks of love's blindness?	Love looks not with the eyes
+1	D. Movie Locations	Location of a movie starring Nicolas Cage and Meg Ryan is titled "City of Angels"?	Los Angeles
+2	D. Movie Locations	Location of a movie starring Sylvester Stallone has a title of "Rocky"?	Philadelphia
+3	D. Movie Locations	Location of a movie starring Clint Eastwood is titled "Escape from..."?	Alcatraz
+4	D. Movie Locations	Location of a movie featuring Tom Hanks and Meg Ryan and has a title of "You've Got Mail"?	New York
+5	D. Movie Locations	Location of a movie starring Will Smith is titled "Bad Boys"?	Miami
+1	E. Nature in Montana	What mountain range dominates western Montana?	Rocky Mountains
+2	E. Nature in Montana	What large river originates in Montana and flows eastward?	Missouri
+3	E. Nature in Montana	What large raptor is frequently seen soaring over Montana's plains?	Eagle
+4	E. Nature in Montana	What large mammal is found in Montana, and is known for its large antlers?	Elk
+5	E. Nature in Montana	What type of fish is popular among anglers in Montana's rivers?	Trout
