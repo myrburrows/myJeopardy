@@ -1,0 +1,25 @@
+1	A. Rivers in Europe	What river runs through London, England?	Thames
+2	A. Rivers in Europe	What is the longest river in Europe, flowing through Russia?	Volga
+3	A. Rivers in Europe	What river in Italy is famous for flowing through Rome?	Tiber
+4	A. Rivers in Europe	What river is the second longest in Europe, flowing through Germany and Austria?	Danube
+5	A. Rivers in Europe	What river in Scotland is famous for its whisky distilleries?	Spey
+1	B. Playwrights: Restoration Comedy	Who wrote the American play "A Streetcar Named Desire" in 1947?	Tennessee Williams
+2	B. Playwrights: Restoration Comedy	Who wrote the American play "Our Town" in 1938, depicting life in a small town?	Thornton Wilder
+3	B. Playwrights: Restoration Comedy	What British playwright wrote "Pygmalion" in 1913, later adapted into "My Fair Lady"?	George Bernard Shaw
+4	B. Playwrights: Restoration Comedy	What American playwright wrote "Death of a Salesman" in 1949, exploring the American Dream?	Arthur Miller
+5	B. Playwrights: Restoration Comedy	Who is the Russian-born playwright known for "The Cherry Orchard," first performed in 1904?	Anton Chekhov
+1	C. Aztec Civilization	What crop, known as maize, was a staple food for the Aztecs?	Corn
+2	C. Aztec Civilization	What type of structures did the Aztecs build for religious ceremonies?	Pyramids
+3	C. Aztec Civilization	What Aztec emperor ruled during the Spanish conquest?	Montezuma II
+4	C. Aztec Civilization	What Spanish conquistador led the conquest of the Aztec Empire?	Hernan Cortes
+5	C. Aztec Civilization	What lake was the Aztec capital city Tenochtitlan built on?	Lake Texcoco
+1	D. Tony Awards	In what city are the Tony Awards typically held?	New York City
+2	D. Tony Awards	What musical won the Tony Award for Best Musical in 2016, featuring King George III?	Hamilton
+3	D. Tony Awards	What is the name of the "trophy" given to Tony Award winners?	Tony Medallion
+4	D. Tony Awards	What is the full name of the Tony Awards, named after a theatre actress and director?	Antoinette Perry Awards
+5	D. Tony Awards	What is the name of the organization that presents the Tony Awards, along with the Broadway League?	American Theatre Wing
+1	E. Inventions: Radio	What term describes the process of varying a radio wave’s amplitude to transmit sound?	AM (Amplitude Modulation)
+2	E. Inventions: Radio	What term describes the process of varying a radio wave’s frequency to transmit sound?	FM (Frequency Modulation)
+3	E. Inventions: Radio	What unit of frequency, named after a German physicist, is used to measure radio waves?	Hertz
+4	E. Inventions: Radio	Who is credited with inventing the first practical radio communication system?	Guglielmo Marconi
+5	E. Inventions: Radio	What invention by Nikola Tesla was crucial for generating continuous radio waves?	Tesla Coil
