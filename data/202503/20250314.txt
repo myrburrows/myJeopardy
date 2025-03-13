@@ -1,0 +1,25 @@
+1	A. Jackson Pollock	What substance did Jackson Pollock struggle with, impacting his career?	Alcohol
+2	A. Jackson Pollock	What painting technique is Jackson Pollock most famous for?	Drip painting
+3	A. Jackson Pollock	In which decade did Jackson Pollock create his most famous drip paintings?	1940s
+4	A. Jackson Pollock	What is the name of the art movement Jackson Pollock is associated with?	Abstract Expressionism
+5	A. Jackson Pollock	In which state was Jackson Pollock born in 1912?	Wyoming
+1	B. Chemical Reactions	What gas, essential for life, is produced during photosynthesis?	Oxygen
+2	B. Chemical Reactions	What type of reaction absorbs heat energy from its surroundings?	Endothermic
+3	B. Chemical Reactions	What is the term for a reaction that releases heat energy?	Exothermic
+4	B. Chemical Reactions	What is the term for a substance that speeds up a chemical reaction without being consumed?	Catalyst
+5	B. Chemical Reactions	What type of reaction occurs when an acid and a base react to form water and a salt?	Neutralization
+1	C. Monasticism in the Middle Ages	What was the term for a monk who supervised the daily operations of a monastery?	Abbot
+2	C. Monasticism in the Middle Ages	What was the primary language used in monastic manuscripts during the Middle Ages?	Latin
+3	C. Monasticism in the Middle Ages	What was the name of the communal living spaces where monks resided?	Monasteries
+4	C. Monasticism in the Middle Ages	What term describes monks living in isolation, away from society?	Hermits
+5	C. Monasticism in the Middle Ages	What is the name of the monk who established a strict set of rules for monastic life in the 6th century?	Saint Benedict
+1	D. Snowmobile Racing	What is the name of the protective gear worn on the head during snowmobile racing?	Helmet
+2	D. Snowmobile Racing	What is the term for the spikes on snowmobile tracks that improve traction?	Studs
+3	D. Snowmobile Racing	What is the term for a sudden stop or crash in snowmobile racing?	Wipeout
+4	D. Snowmobile Racing	What is the name of the snowmobile racing event that covers long distances over multiple days?	Cross-country
+5	D. Snowmobile Racing	What type of engine powers most modern racing snowmobiles?	Two-stroke
+1	E. Famous Island Nations	What island nation is known for its cherry blossoms and Mount Fuji?	Japan
+2	E. Famous Island Nations	What is the largest island nation in the Caribbean by land area?	Cuba
+3	E. Famous Island Nations	What island nation is famous for its reggae music and culture?	Jamaica
+4	E. Famous Island Nations	What island nation is famous for its geothermal hot springs and geysers?	Iceland
+5	E. Famous Island Nations	What is the name of the island nation that gained independence from the UK in 1948?	Sri Lanka
