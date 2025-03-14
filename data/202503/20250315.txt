@@ -1,0 +1,25 @@
+1	A. Comedy	What is the name of the comedy film genre that focuses on humorous romantic relationships?	Romantic comedy
+2	A. Comedy	What is the name of the comedy film genre that uses humor to critique society or politics?	Satire
+3	A. Comedy	What is the term for a comedy film that mocks or imitates other films or genres?	Parody
+4	A. Comedy	What comedy film genre often uses absurd situations and dark humor?	Black comedy
+5	A. Comedy	What comedy film genre often involves crude or offensive humor?	Gross-out comedy
+1	B. Track Equipment	What is the name of the stick passed between runners in a relay race?	Baton
+2	B. Track Equipment	What piece of equipment is used in the high jump event to set the height?	Crossbar
+3	B. Track Equipment	What piece of equipment is used to start a track race with a loud sound?	Starting pistol
+4	B. Track Equipment	What piece of equipment, that resembles a spear, is thrown for distance?	Javelin
+5	B. Track Equipment	What is the name of the padded mat used for landing in the high jump and pole vault?	Landing mat
+1	C. Novelists from France	What French novelist is famous for the science fiction novel "Twenty Thousand Leagues Under the Sea"?	Jules Verne
+2	C. Novelists from France	What French novelist wrote the historical novel "The Three Musketeers"?	Alexandre Dumas
+3	C. Novelists from France	What French novelist wrote "The Hunchback of Notre-Dame"?	Victor Hugo
+4	C. Novelists from France	What French novelist wrote the philosophical novel "Candide"?	Voltaire
+5	C. Novelists from France	What French novelist is famous for the realist novel "Madame Bovary"?	Gustave Flaubert
+1	D. Famous Explorers	What Venetian explorer traveled through Asia along the Silk Road in the 13th century?	Marco Polo
+2	D. Famous Explorers	What English explorer mapped much of the eastern coast of Australia in the 18th century?	James Cook
+3	D. Famous Explorers	What Norwegian explorer was the first to reach the South Pole in 1911?	Roald Amundsen
+4	D. Famous Explorers	What Italian explorer's name is associated with the naming of America?	Amerigo Vespucci
+5	D. Famous Explorers	What English explorer is known for circumnavigating the globe from 1577 to 1580?	Francis Drake
+1	E. Agricultural Crops	What cereal crop is the most important staple food for over half the world's population?	Rice
+2	E. Agricultural Crops	What crop is the main ingredient in bread and pasta?	Wheat
+3	E. Agricultural Crops	What crop is known for its use in textiles as well as food (seed oil)?	Cotton
+4	E. Agricultural Crops	What crop is the most important source of vegetable oil globally?	Palm
+5	E. Agricultural Crops	What crop is used to produce both beer and whiskey?	Barley
