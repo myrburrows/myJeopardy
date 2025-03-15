@@ -1,0 +1,25 @@
+1	A. History of Tennessee	What is the name of the famous Tennessee city known for country music?	Nashville
+1	A. History of Tennessee	What was the name of the famous Tennessee frontiersman and politician who died at the Battle of the Alamo?	Davy Crockett
+1	A. History of Tennessee	What major Tennessee infrastructure project, started in the 1930s, provided electricity and flood control?	Tennessee Valley Authority
+1	A. History of Tennessee	Which Native American tribe was forcibly removed from Tennessee during the Trail of Tears?	Cherokee
+1	A. History of Tennessee	What famous Tennessee city was the site of a major civil rights event, the sanitation workers’ strike, in 1968?	Memphis
+1	B. Monopoly History	What U.S. city’s streets were used as the basis for the original Monopoly board?	Atlantic City
+2	B. Monopoly History	What company originally developed and published Monopoly?	Parker Brothers
+3	B. Monopoly History	What is the name of the company that absorbed Parker Brothers in 1991, continuing to produce Monopoly?	Hasbro
+4	B. Monopoly History	What is the cheapest property in Monopoly ($60)?	Mediterranean Avenue
+5	B. Monopoly History	What is the most expensive property in Monopoly ($400)?	Boardwalk
+1	C. Geography of Maryland	What is the capital city of Maryland?	Annapolis
+1	C. Geography of Maryland	What bay is a largesbody of water bordering Maryland?	Chesapeake Bay
+1	C. Geography of Maryland	What is the name of the river that flows into the Chesapeake Bay near the U.S. Naval Academy?	Severn River
+1	C. Geography of Maryland	Which river forms part of Maryland’s western border with West Virginia?	Potomac River
+1	C. Geography of Maryland	What is the name of the peninsula Maryland shares with Delaware and Virginia?	Delmarva Peninsula
+1	D. Emmy Awards	In what month are the Primetime Emmy Awards typically held?	September
+2	D. Emmy Awards	What year were the first Emmy Awards held?	1949
+3	D. Emmy Awards	What is the name of the organization that presents the Emmy Awards for primetime television?	Academy of Television Arts & Sciences
+4	D. Emmy Awards	Which show holds the record for the most Emmy wins for a drama series as of 2025?	Game of Thrones
+5	D. Emmy Awards	Which actress has won the most Emmy Awards for acting, with a total of 8 as of 2025?	Cloris Leachman
+1	E. Earthquakes	What is the name of the scale used to measure the magnitude of earthquakes?	Richter Scale
+2	E. Earthquakes	What is the term for the point on the Earth’s surface directly above an earthquake’s origin?	Epicenter
+3	E. Earthquakes	What is the name of the instrument used to detect and record earthquakes?	Seismograph
+4	E. Earthquakes	Which U.S. state experiences the most earthquakes due to its location on the San Andreas Fault?	California
+5	E. Earthquakes	What is the term for a smaller earthquake that follows a larger one?	Aftershock
