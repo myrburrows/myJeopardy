@@ -1,0 +1,25 @@
+1	A. Muscular System	What type of muscle is found only in the heart?	Cardiac muscle
+2	A. Muscular System	What connects muscles to bones?	Tendons
+3	A. Muscular System	What is the term for a muscle that bends a joint?	Flexor
+4	A. Muscular System	What is the term for a muscle that straightens a joint?	Extensor
+5	A. Muscular System	What is the largest muscle in the human body?	Gluteus maximus
+1	B. The Cuban Missile Crisis	What was the name of the U.S. president during the Cuban Missile Crisis?	John F. Kennedy
+2	B. The Cuban Missile Crisis	What was the name of the Soviet leader during the Cuban Missile Crisis?	Nikita Khrushchev
+3	B. The Cuban Missile Crisis	What was the U.S. military’s response to the discovery of missiles in Cuba?	Naval blockade
+4	B. The Cuban Missile Crisis	What type of weapons were discovered on Cuba, prompting the crisis?	Nuclear missiles
+5	B. The Cuban Missile Crisis	What U.S. spy plane discovered the missile sites in Cuba?	U-2
+1	C. TV Sitcoms of the 60's	What 60’s sitcom was set on a deserted island with seven castaways?	Gilligan’s Island
+2	C. TV Sitcoms of the 60's	What show followed the misadventures of a hillbilly family who struck oil and moved to Beverly Hills?	The Beverly Hillbillies
+3	C. TV Sitcoms of the 60's	What show, debuting in 1960, followed the adventures of a talking horse?	Mister Ed
+4	C. TV Sitcoms of the 60's	What show followed a wacky group of military personnel at a mobile army hospital, though set in the 50’s but aired in the 60’s?	M*A*S*H
+5	C. TV Sitcoms of the 60's	What show, debuting in 1965, followed a group of World War II POWs in a German camp?	Hogan’s Heroes
+1	D. Islands in the Oceans	What ocean contains the Galápagos Islands, famous for their unique wildlife?	Pacific Ocean
+2	D. Islands in the Oceans	What Caribbean island is the largest in the Atlantic Ocean?	Cuba
+3	D. Islands in the Oceans	What ocean is home to the island of Madagascar?	Indian Ocean
+4	D. Islands in the Oceans	What is the name of the island in the Arctic Ocean that is the largest in the world?	Greenland
+5	D. Islands in the Oceans	What Pacific Ocean island is known for its massive stone statues called Moai?	Easter Island
+1	E. Baseball Sayings	What is the term for a defensive play where two outs are recorded on one hit?	Double play
+2	E. Baseball Sayings	What does "give him the heat" call for?	Fastball
+3	E. Baseball Sayings	What hit triggers the phrase "he'll touch them all"?	Home run
+4	E. Baseball Sayings	What relative is invoked when a pitcher throws a big, breaking curveball?	Uncle Charlie
+5	E. Baseball Sayings	What sort of out triggers the phrase "can of corn"?	Easy fly ball
