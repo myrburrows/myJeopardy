@@ -1,0 +1,25 @@
+1	A. Women in Golf	Who holds the record for the most LPGA Tour wins by a woman, with 88 victories?	Nancy Lopez
+2	A. Women in Golf	What is the name of the professional women’s golf tour founded in 1950?	LPGA Tour
+3	A. Women in Golf	Over 2023 - 2024, who was the top American o the LPGA tour?	Nelly Korda, just over Lilia Vu
+4	A. Women in Golf	Who was the youngest woman to win the U.S. Women’s Open, doing so at age 19 in 1971?	JoAnne Carner
+5	A. Women in Golf	Who was the first woman to compete in a PGA Tour event in 1945?	Babe Zaharias
+1	B. Political Theatre	Who wrote "Death of a Salesman," examining the American Dream’s failures?	Arthur Miller
+2	B. Political Theatre	Who wrote the play "The Crucible," which critiques McCarthyism?	Arthur Miller
+3	B. Political Theatre	Playwright Lorraine Hansberry wrote what famous play about racial inequality?	A Raisin in the Sun
+4	B. Political Theatre	What is the name of Tony Kushner’s play about the AIDS crisis and Reagan-era politics?	Angels in America
+5	B. Political Theatre	What is the title of David Hare’s play that critiques the British political system?	The Absence of War
+1	C. Ethnic Groups and Diversity	Which ethnic group in the United States is the largest minority, often of Mexican descent?	Hispanic
+2	C. Ethnic Groups and Diversity	What is the name of the ethnic group in New Zealand?	Maori
+3	C. Ethnic Groups and Diversity	Which ethnic group is indigenous to the Arctic regions of Canada, Greenland, and Alaska?	Inuit
+4	C. Ethnic Groups and Diversity	What is the largest ethnic group in China, making up over 90% of the population?	Han Chinese
+5	C. Ethnic Groups and Diversity	Which ethnic group in India is associated with the Sikh religion?	Punjabi
+1	D. Streaming-Only Series	What is the name of the Disney+ series set in the Star Wars universe, featuring a bounty hunter?	The Mandalorian
+2	D. Streaming-Only Series	Which Apple TV+ series stars Jennifer Aniston and Reese Witherspoon as news anchors?	The Morning Show
+3	D. Streaming-Only Series	Which HBO Max series is a prequel to the Batman story, focusing on the Wayne family butler?	Pennyworth
+4	D. Streaming-Only Series	What is the title of the Hulu series about a dystopian society where women are enslaved?	The Handmaid’s Tale
+5	D. Streaming-Only Series	What is the name of the Amazon Prime series about a vigilante group fighting corrupt superheroes?	The Boys
+1	E. Quantum Physics	What is the name of the smallest unit of light energy in quantum physics?	Photon
+2	E. Quantum Physics	Which physicist introduced the concept of quantum entanglement and is known for the EPR paradox?	Albert Einstein
+3	E. Quantum Physics	Who developed the famous thought experiment involving a cat to illustrate quantum mechanics?	Erwin Schrödinger
+4	E. Quantum Physics	Which theory describes how particles behave as both waves and particles?	Wave-Particle Duality
+5	E. Quantum Physics	What is the term for the lowest energy state a quantum system can have?	Ground State
