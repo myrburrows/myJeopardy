@@ -1,0 +1,25 @@
+1	A. Languages and Scripts	What is the primary language spoken in Brazil?	Portuguese
+2	A. Languages and Scripts	Which ancient language was spoken in Rome?	Latin
+3	A. Languages and Scripts	Which ancient script was used by the Egyptians?	Hieroglyphics
+4	A. Languages and Scripts	Which language uses the Devanagari script?	Hindi
+5	A. Languages and Scripts	Which script is used to write the Russian language?	Cyrillic
+1	B. Paleobotany	Which gas do fossil plants indicate was abundant in ancient atmospheres?	Carbon dioxide
+2	B. Paleobotany	Which fossilized tree resin often traps plant material?	Amber
+3	B. Paleobotany	What type of plant dominated Earth during the Carboniferous period?	Ferns
+4	B. Paleobotany	What is the study of ancient plants called?	Paleobotany
+5	B. Paleobotany	Which era is known for the rise of flowering plants?	Cretaceous
+1	C. Authors from Oregon or Washington	Who from Oregon wrote the children's book "Ramona Quimby, Age 8"?	Beverly Cleary
+1	C. Authors from Oregon or Washington	Who from Oregon wrote "One Flew Over the Cuckoo's Nest"?	Ken Kesey
+1	C. Authors from Oregon or Washington	Which Washington author wrote "Hotel on the Corner of Bitter and Sweet"?	Jamie Ford
+1	C. Authors from Oregon or Washington	Who wrote "Sometimes a Great Notion" and was from Oregon?	Ken Kesey
+1	C. Authors from Oregon or Washington	Which Washington author created "Snow Falling on Cedars"?	David Guterson
+1	D. Hit Songs of the 50's	Who sang the 1956 hit "Hound Dog"?	Elvis Presley
+1	D. Hit Songs of the 50's	Who famously performed "That’ll Be the Day" and "Oh, Boy!"?	Buddy Holly and the Crickets
+1	D. Hit Songs of the 50's	What 1955 hit by Bill Haley & His Comets rocked "when the clock strikes 2"?	Rock Around the Clock
+1	D. Hit Songs of the 50's	Who performed the 1958 song "Johnny B. Goode"?	Chuck Berry
+1	D. Hit Songs of the 50's	What 1956 hit by Fats Domino is about a fruit-named hill?	Blueberry Hill
+1	E. Famous River Deltas	What river’s delta is famous in Louisiana, USA?	Mississippi
+2	E. Famous River Deltas	Which river forms the largest delta in the world in South Asia?	Ganges
+3	E. Famous River Deltas	What river’s delta in Iraq is part of the Mesopotamian Marshes?	Tigris
+4	E. Famous River Deltas	What river in Southeast Asia forms a delta in Vietnam?	Mekong
+5	E. Famous River Deltas	Which African river has a delta known for its oil reserves?	Niger
