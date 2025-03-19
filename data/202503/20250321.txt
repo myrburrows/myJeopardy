@@ -1,0 +1,25 @@
+1	A. American Authors 1850-1900	Who wrote "Moby-Dick"?	Herman Melville
+2	A. American Authors 1850-1900	Who is the author of "Little Women"?	Louisa May Alcott
+3	A. American Authors 1850-1900	Which American writer created "The Scarlet Letter"?	Nathaniel Hawthorne
+4	A. American Authors 1850-1900	Who wrote the poem "The Raven"?	Edgar Allan Poe
+5	A. American Authors 1850-1900	Who wrote "The Song of Hiawatha"?	Henry Wadsworth Longfellow
+1	B. The Rosetta Stone	In which Egyptian town was the Rosetta Stone found?	Rosetta
+2	B. The Rosetta Stone	Which museum currently houses the Rosetta Stone?	British Museum
+3	B. The Rosetta Stone	Which other language on the Rosetta Stone helped decode hieroglyphs?	Greek
+4	B. The Rosetta Stone	Who discovered the Rosetta Stone in Egypt?	French soldiers
+5	B. The Rosetta Stone	What type of stone is the Rosetta Stone made of?	Granodiorite
+1	C. Stars	What is the closest star to Earth?	The Sun
+2	C. Stars	Which star is known as the North Star?	Polaris
+3	C. Stars	Which star is the brightest in the night sky?	Sirius
+4	C. Stars	Which element is formed in stars besides hydrogen?	Helium
+5	C. Stars	What color are the hottest stars?	Blue
+1	D. Music: Hit Singles 1980-1985	Which artist released "Billie Jean" in 1983?	Michael Jackson
+2	D. Music: Hit Singles 1980-1985	What artist released "Material Girl" in 1985?	Madonna
+3	D. Music: Hit Singles 1980-1985	Who sang the 1981 hit "Bette Davis Eyes"?	Kim Carnes
+4	D. Music: Hit Singles 1980-1985	Which song by Cyndi Lauper topped charts in 1984?	Time After Time
+5	D. Music: Hit Singles 1980-1985	What band performed the 1984 hit "Wake Me Up Before You Go-Go"?	Wham!
+1	E. Desert Plants and Adaptations	What desert plant is known for storing water in its thick stem?	Cactus
+2	E. Desert Plants and Adaptations	What desert tree produces dates?	Date palm
+3	E. Desert Plants and Adaptations	Which brush plant has small leaves to minimize evaporation?	Sagebrush
+4	E. Desert Plants and Adaptations	Which cactus species can live for over 200 years?	Saguaro
+5	E. Desert Plants and Adaptations	Which type of plant adapts by opening stomata at night?	Succulents
