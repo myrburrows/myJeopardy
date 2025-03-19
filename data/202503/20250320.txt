@@ -1,0 +1,25 @@
+1	A. British Authors: 1900-1950	Who wrote "1984"?	George Orwell
+1	A. British Authors: 1900-1950	Which author created the character James Bond?	Ian Fleming
+1	A. British Authors: 1900-1950	Who penned "The Hobbit"?	J.R.R. Tolkien
+1	A. British Authors: 1900-1950	Who is the author of "Brave New World"?	Aldous Huxley
+1	A. British Authors: 1900-1950	Which writer created "Winnie-the-Pooh"?	A.A. Milne
+1	B. Pollination	What is the primary purpose of pollination in plants?	Reproduction
+2	B. Pollination	What type of animal is a common pollinator for flowers?	Bees
+3	B. Pollination	Which flower part receives pollen during pollination?	Stigma
+4	B. Pollination	Which part of a flower produces pollen?	Anther
+5	B. Pollination	Which insect is famous for pollinating orchids?	Moths
+1	C. Screen Actors Guild Awards	What city hosts the SAG Awards?	Los Angeles
+2	C. Screen Actors Guild Awards	Which TV network has frequently broadcast the SAG Awards?	TNT
+3	C. Screen Actors Guild Awards	Who votes for the winners of the SAG Awards?	SAG-AFTRA members
+4	C. Screen Actors Guild Awards	In which month are the SAG Awards typically held?	January
+5	C. Screen Actors Guild Awards	What is the name of the statuette given at the SAG Awards?	The Actor
+1	D. Geography of Empires	Which empire controlled most of the Mediterranean Sea?	Roman Empire
+2	D. Geography of Empires	What desert was part of the Mongol Empire’s vast territory?	Gobi Desert
+3	D. Geography of Empires	Which empire spanned three continents: Europe, Asia, and Africa?	Ottoman Empire
+4	D. Geography of Empires	Which empire controlled the Silk Road’s eastern end?	Han Dynasty
+5	D. Geography of Empires	What was the capital city of the Ottoman Empire?	Istanbul
+1	E. Aerobic Exercises	Which dance-based exercise became popular in the 1980s?	Aerobics
+2	E. Aerobic Exercises	What aerobic exercise involves climbing steps or a platform?	Step aerobics
+3	E. Aerobic Exercises	Which aerobic workout is often done in a pool?	Water aerobics
+4	E. Aerobic Exercises	What aerobic exercise mimics cross-country skiing?	Elliptical training
+5	E. Aerobic Exercises	Which aerobic workout combines martial arts and music?	Kickboxing
