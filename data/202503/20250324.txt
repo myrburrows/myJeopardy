@@ -1,0 +1,25 @@
+1	A. Rivers and their Tributaries	What is the longest tributary of the Mississippi River?	Missouri River
+2	A. Rivers and their Tributaries	What city is near to where the Han River flows into the Yangtze River?	Wuhan
+3	A. Rivers and their Tributaries	Which river flows into the Rio Grande near Del Rio, TX as a key tributary?	Pecos River
+4	A. Rivers and their Tributaries	Which river is the main tributary of the Amazon River?	Negro River
+5	A. Rivers and their Tributaries	What river flows into the Nile as its primary tributary?	White Nile
+1	B. Popular Bands and Artists	Which artist released the album "Thriller"?	Michael Jackson
+2	B. Popular Bands and Artists	What band performed "Hey Jude"?	The Beatles
+3	B. Popular Bands and Artists	What band sang "Bohemian Rhapsody"?	Queen
+4	B. Popular Bands and Artists	Who is the lead singer of U2?	Bono
+5	B. Popular Bands and Artists	Which artist is known for "Purple Rain"?	Prince
+1	C. Water Cycle	What is it called when water vapor turns back into liquid?	Condensation
+2	C. Water Cycle	What process turns liquid water into vapor?	Evaporation
+3	C. Water Cycle	What forms when water droplets gather in the sky?	Clouds
+4	C. Water Cycle	What is water stored in ice and snow called?	Snowpack
+5	C. Water Cycle	What collects water underground in the water cycle?	Aquifers
+1	D. English Authors 1800-1850	Who wrote "Pride and Prejudice"?	Jane Austen
+2	D. English Authors 1800-1850	Who penned "Wuthering Heights"?	Emily Brontë
+3	D. English Authors 1800-1850	Who authored "Oliver Twist"?	Charles Dickens
+4	D. English Authors 1800-1850	Who wrote "Ivanhoe"?	Walter Scott
+5	D. English Authors 1800-1850	What author created "Frankenstein"?	Mary Shelley
+1	E. Famous Basketball Coaches	Who is the legendary UCLA coach with 10 NCAA titles?	John Wooden
+2	E. Famous Basketball Coaches	What coach led the Boston Celtics to nine championships in the 1960s?	Red Auerbach
+3	E. Famous Basketball Coaches	Who coached the Los Angeles Lakers during the "Showtime" era?	Pat Riley
+4	E. Famous Basketball Coaches	Which coach took the Golden State Warriors to multiple championships in the 2010s?	Steve Kerr
+5	E. Famous Basketball Coaches	What coach led Kentucky to eight NCAA championships?	Adolph Rupp

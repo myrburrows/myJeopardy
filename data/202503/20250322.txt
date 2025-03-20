@@ -1,0 +1,25 @@
+1	A. Monsoon Climates	Which continent has the most widespread monsoon climate?	Asia
+2	A. Monsoon Climates	Which country is most famous for its monsoon rains?	India
+3	A. Monsoon Climates	What season brings the heaviest rain in monsoon climates?	Summer
+4	A. Monsoon Climates	Which ocean affects monsoon climates in Asia?	Pacific
+5	A. Monsoon Climates	Which crop benefits most from monsoon rains?	Rice
+1	B. Nature in Alaska	What lights up Alaska’s night sky in winter?	Northern Lights
+2	B. Nature in Alaska	What is the state fish of Alaska?	King Salmon
+3	B. Nature in Alaska	Which river flows through Alaska and into Canada?	Yukon
+4	B. Nature in Alaska	Which bear is commonly found in Alaska’s coastal regions?	Brown Bear
+5	B. Nature in Alaska	What sea lies west of Alaska?	Bering Sea
+1	C. Jigsaw Puzzles	What are the outer pieces of a jigsaw puzzle called?	Edges for boundaries
+2	C. Jigsaw Puzzles	What were the first jigsaw puzzles made of?	Wood
+3	C. Jigsaw Puzzles	What German company is the top jigsaw puzzle maker?	Ravensburger
+4	C. Jigsaw Puzzles	What are the interlocking parts of puzzle pieces called?	Tabs
+5	C. Jigsaw Puzzles	What English cartographer invented the jigsaw puzzle in the 18th century?	John Spilsbury
+1	D. German Philosophers	Which thinker co-wrote "The Communist Manifesto"?	Karl Marx
+2	D. German Philosophers	Which thinker wrote "Thus Spoke Zarathustra"?	Friedrich Nietzsche
+3	D. German Philosophers	Who declared "God is dead"?	Friedrich Nietzsche
+4	D. German Philosophers	Who introduced the "categorical imperative"?	Immanuel Kant
+5	D. German Philosophers	Which philosopher wrote "Being and Time"?	Martin Heidegger
+1	E. Ming Dynasty	What "visible from space" structure was reinforced during the Ming Dynasty?	Great Wall
+2	E. Ming Dynasty	What is the Ming Dynasty renowned for in ceramics?	Porcelain
+3	E. Ming Dynasty	What philosophy guided the Ming Dynasty?	Confucianism
+4	E. Ming Dynasty	What was the first capital of the Ming Dynasty?	Nanjing
+5	E. Ming Dynasty	Which dynasty succeeded the Ming?	Qing

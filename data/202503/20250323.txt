@@ -1,0 +1,25 @@
+1	A. History of Soccer	What material were early soccer balls made from?	Pig bladders
+2	A. History of Soccer	What was the first international soccer match between?	England and Scotland
+3	A. History of Soccer	Which country won the first FIFA World Cup?	Uruguay
+4	A. History of Soccer	What was the original name for soccer in England?	Association Football
+5	A. History of Soccer	Who founded the English Football Association?	Ebenezer Cobb Morley
+1	B. Catholic Counter-Reformation	What was the name of the Catholic Inquisition revived during this period?	Spanish Inquisition
+2	B. Catholic Counter-Reformation	What treaty ended the religious wars tied to the Reformation?	Peace of Westphalia
+3	B. Catholic Counter-Reformation	What religious order was founded to combat Protestantism?	Jesuits
+4	B. Catholic Counter-Reformation	Who was the Spanish king that supported the Counter-Reformation?	Philip II
+5	B. Catholic Counter-Reformation	What council did the Catholic Church convene to address Protestantism?	Council of Trent
+1	C. International Sitcoms	Which British period drama, set in a fictional Yorkshire estate, became a massive hit on PBS with its tales of the Crawley family?	Downton Abbey
+2	C. International Sitcoms	Which surreal sketch comedy series from the 1970s, featuring John Cleese and the Dead Parrot sketch, remains a staple for American comedy fans?	Monty Python’s Flying Circus
+3	C. International Sitcoms	Which British crime drama, starring Benedict Cumberbatch as a modern-day detective, has thrilled U.S. audiences since 2010?	Sherlock
+4	C. International Sitcoms	What British sci-fi series, first aired in 1963, follows a time-traveling alien known as "The Doctor" and is a cult favorite in the U.S.?	Doctor Who
+5	C. International Sitcoms	What historical comedy series about a nobleman and his servant across centuries won over American viewers with its wit?	Blackadder
+1	D. Virginia Woolf	Virginia Woolf was from what country?	England
+2	D. Virginia Woolf	What 1966 movie with Richard Burton and Elizabeth Taylor referenced Virginia Woolf in the title?	Who's Afraid of Virgina Woolf?
+3	D. Virginia Woolf	What mental illness did Virginia Woolf struggle with?	Depression
+4	D. Virginia Woolf	In which novel, her likely most important book, does Woolf use a stream-of-consciousness style?	Mrs. Dalloway
+5	D. Virginia Woolf	How did Virginia Woolf die?	Suicide by drowning
+1	E. Geography of South America	What is the longest river in South America?	Amazon River
+2	E. Geography of South America	What country in South America is the largest by land area?	Brazil
+3	E. Geography of South America	What mountain range runs along the western edge of South America?	Andes
+4	E. Geography of South America	What is the southernmost tip of South America called?	Cape Horn
+5	E. Geography of South America	What South American country has no coastline?	Bolivia
