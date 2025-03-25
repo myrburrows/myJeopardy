@@ -1,0 +1,25 @@
+1	A. Card Game History	Which card game, derived from the French game "Poque," gained fame in the U.S. in the 19th century?	Poker
+2	A. Card Game History	What trick-taking game, a simplified form of Bridge, has spades always be the trump suit?	Spades
+3	A. Card Game History	What card game, popular in the 18th century, used a board and pegs to keep score?	Cribbage
+4	A. Card Game History	What trick-taking game, from England in the 17th century, is the predecessor to modern bridge?	Whist
+5	A. Card Game History	This trick-taking game with a 78-card deck was used in divination.	Tarot
+1	B. Inorganic Chemistry	Which element, with the symbol Na, is a key component of table salt?	Sodium
+2	B. Inorganic Chemistry	Which element, with the symbol Fe, is the most abundant metal in the Earth's crust?	Iron
+3	B. Inorganic Chemistry	What gas, with the symbol N, makes up about 78% of Earth’s atmosphere?	Nitrogen
+4	B. Inorganic Chemistry	Which element, a noble gas with atomic number 18, is used in neon signs?	Argon
+5	B. Inorganic Chemistry	What gas, discovered on the sun before Earth, is the second most abundant element in the universe?	Helium
+1	C. Voting Rights Act of 1965	What U.S. president signed the Voting Rights Act into law in 1965?	Lyndon B. Johnson
+2	C. Voting Rights Act of 1965	What civil rights leader spoke at the signing ceremony of the Voting Rights Act?	Martin Luther King Jr.
+3	C. Voting Rights Act of 1965	What discriminatory voting practice, outlawed in 1965, charged fees to vote?	Poll Taxes
+4	C. Voting Rights Act of 1965	Which Southern state was the first to face federal oversight under the Voting Rights Act?	Alabama
+5	C. Voting Rights Act of 1965	What practice, banned by the Voting Rights Act, required voters to pass reading tests?	Literacy Tests
+1	D. Viral Internet Trends	What 2020 app feature turned users into singing, dancing avatars with short videos?	TikTok
+2	D. Viral Internet Trends	What 2017 toy trend involved spinning a three-pronged gadget on your finger?	Fidget Spinners
+3	D. Viral Internet Trends	What 2016 mobile game had people hunting virtual creatures in real-world locations?	Pokémon Go
+4	D. Viral Internet Trends	What 2012 dance craze, inspired by a South Korean song, swept YouTube?	Gangnam Style
+5	D. Viral Internet Trends	What 2014 charity challenge involved dumping cold water on people’s heads?	Ice Bucket Challenge
+1	E. Roman Mythology in Literature	Which Roman god, equivalent to Greek Zeus, rules the skies in the "Aeneid"?	Jupiter
+2	E. Roman Mythology in Literature	Which Roman goddess of love aids her son Aeneas in his journey?	Venus
+3	E. Roman Mythology in Literature	Who wrote the epic "Aeneid," a cornerstone of Roman mythology in literature?	Virgil
+4	E. Roman Mythology in Literature	Which Roman god of war, father of Romulus, appears in Roman literary myths?	Mars
+5	E. Roman Mythology in Literature	Which Roman god of the underworld claims souls in literary myths like Ovid’s works?	Pluto
