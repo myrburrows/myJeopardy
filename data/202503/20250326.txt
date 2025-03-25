@@ -1,0 +1,25 @@
+1	A. Fossils and Paleontology	Which extinct creatures are famous for their large teeth and are studied in paleontology?	Dinosaurs
+2	A. Fossils and Paleontology	Which fossilized resin often traps ancient insects?	Amber
+3	A. Fossils and Paleontology	Which marine animal’s fossilized shells are common in limestone?	Trilobites
+4	A. Fossils and Paleontology	What is the name of the process where minerals replace organic material to form fossils?	Petrification
+5	A. Fossils and Paleontology	What is the study of fossil footprints called?	Ichnology
+1	B. Board Game Tournaments	What game’s World Open Championship offers a million-dollar prize in Las Vegas?	Monopoly
+2	B. Board Game Tournaments	Which game’s World Cup features teams rolling dice strategically?	Backgammon
+3	B. Board Game Tournaments	Which game’s championship, held in Orlando, features plastic armies?	Risk
+4	B. Board Game Tournaments	What board game’s world title is contested at the Mind Sports Olympiad?	Scrabble
+5	B. Board Game Tournaments	The World Series of Poker championship is called ______.	Main Event
+1	C. Top Best-Selling Books: 2000-20004	What 2003 Dan Brown thriller about a Harvard symbologist sparked global intrigue and massive sales?	The Da Vinci Code
+2	C. Top Best-Selling Books: 2000-20004	Which book by J.K. Rowling, released in 2000, was the fourth in the Harry Potter series and sold millions?	Harry Potter and the Goblet of Fire
+3	C. Top Best-Selling Books: 2000-20004	Which 2003 J.K. Rowling book, the fifth Harry Potter installment, broke sales records upon release?	Harry Potter and the Order of the Phoenix
+4	C. Top Best-Selling Books: 2000-20004	Which 2004 Khaled Hosseini debut about friendship in Afghanistan touched millions of readers?	The Kite Runner
+5	C. Top Best-Selling Books: 2000-20004	What 2002 James Patterson thriller, featuring Alex Cross, kept readers hooked with its fast pace?	Four Blind Mice
+1	D. Bourbon Dynasty	What country did the Bourbon Dynasty primarily rule?	France
+2	D. Bourbon Dynasty	Which Bourbon king was known as the "Sun King"?	Louis XIV
+3	D. Bourbon Dynasty	Which Bourbon monarch was executed during the French Revolution?	Louis XVI
+4	D. Bourbon Dynasty	Which Bourbon king restored the monarchy in France in 1814?	Louis XVIII
+5	D. Bourbon Dynasty	What Spanish Bourbon king ruled from 1759 to 1788?	Charles III
+1	E. Color Patterns in Flags	Which country’s flag has a red circle on a white background?	Japan
+2	E. Color Patterns in Flags	What flag has a white cross on a red background?	Switzerland
+3	E. Color Patterns in Flags	What country’s flag has black, red, and yellow horizontal stripes?	Germany
+4	E. Color Patterns in Flags	What nation’s flag features green, white, and red vertical stripes?	Italy
+5	E. Color Patterns in Flags	What flag displays a red and white horizontal bicolor?	Poland
