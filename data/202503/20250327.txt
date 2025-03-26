@@ -1,0 +1,25 @@
+1	A. The Great Depression	What year did the Great Depression begin in the United States?	1929
+2	A. The Great Depression	Which event marked the start of the Great Depression?	The stock market crash
+3	A. The Great Depression	Who was the U.S. President when the Great Depression started?	Herbert Hoover
+4	A. The Great Depression	What program did Franklin D. Roosevelt create to combat the Great Depression?	The New Deal
+5	A. The Great Depression	What was the term for the shanty towns built during the Great Depression?	Hoovervilles
+1	B. Geography of Kentucky	What is the capital city of Kentucky?	Frankfort
+2	B. Geography of Kentucky	Which famous horse race is held annually in Kentucky?	Kentucky Derby
+3	B. Geography of Kentucky	Which Kentucky city is known for its baseball bat manufacturing?	Louisville
+4	B. Geography of Kentucky	What is Kentucky’s state nickname?	The Bluegrass State
+5	B. Geography of Kentucky	Which river forms Kentucky’s northern border?	Ohio River
+1	C. Movies Top Box Office 2000-2004	What 2002 superhero film starring Tobey Maguire led the box office?	Spider-Man
+2	C. Movies Top Box Office 2000-2004	What 2000 film about a Roman general topped the box office?	Gladiator
+3	C. Movies Top Box Office 2000-2004	Which 2001 animated movie about a green ogre was a box office hit?	Shrek
+4	C. Movies Top Box Office 2000-2004	Which 2000 holiday film with Jim Carrey as a green character was a hit?	How the Grinch Stole Christmas
+5	C. Movies Top Box Office 2000-2004	What 2003 animated film about a lost fish topped the box office?	Finding Nemo
+1	D. Baseball Equipment	What piece of equipment does a batter use to hit the ball?	Bat
+2	D. Baseball Equipment	Which piece of gear protects a catcher’s face?	Mask
+3	D. Baseball Equipment	What protective gear shields a catcher’s chest?	Chest protector
+4	D. Baseball Equipment	What are the spiked shoes worn by baseball players called?	Cleats
+5	D. Baseball Equipment	What do players wear on their hands to improve grip?	Batting gloves
+1	E. Medical Imaging	What early imaging tool was invented by Wilhelm Roentgen?	X-ray
+2	E. Medical Imaging	What machine creates detailed images using magnetic fields?	MRI
+3	E. Medical Imaging	Which imaging technique uses sound waves to view a fetus?	Ultrasound
+4	E. Medical Imaging	Which imaging method uses radioactive dye to track blood flow?	PET scan
+5	E. Medical Imaging	What medical imaging tool was first used widely in the 1970s for brain scans?	CT scanner
