@@ -1,0 +1,25 @@
+1	A. Tennis Equipment	What piece of equipment does a tennis player use to strike the ball?	Tennis racquet
+2	A. Tennis Equipment	What is used to divide the tennis court into two halves?	Net
+3	A. Tennis Equipment	What piece of equipment protects a player's wrist during a match?	Wristband
+4	A. Tennis Equipment	What are the strings of a tennis racquet traditionally made from?	Gut
+5	A. Tennis Equipment	What is the term for the rubber covering on a tennis ball?	Felt
+1	B. Hollywood's Studio System	Which studio was known as the "Dream Factory" in Hollywood's Golden Age?	Metro-Goldwyn-Mayer (MGM)
+2	B. Hollywood's Studio System	Which studio produced "The Wizard of Oz"?	MGM
+3	B. Hollywood's Studio System	Which studio dominated with stars like Clark Gable and Joan Crawford?	MGM
+4	B. Hollywood's Studio System	What was the name of the studio founded by Charlie Chaplin and others?	United Artists
+5	B. Hollywood's Studio System	Which studio was known for its horror films like "Dracula"?	Universal Pictures
+1	C. Space Telescopes	What was the first major space telescope launched by NASA in 1990?	Hubble
+2	C. Space Telescopes	What telescope was named after an American astronomer Edwin?	Hubble
+3	C. Space Telescopes	What space telescope was launched to replace an aging Hubble in 2021?	James Webb
+4	C. Space Telescopes	What telescope, named for Italian-American Enrico, detects gamma rays from cosmic events?	Fermi
+5	C. Space Telescopes	What space telescope, named for an Indian-American, studies X-ray emissions from stars?	Chandra
+1	D. Classical Concertos	Who wrote the "Brandenburg Concertos" in the Baroque period?	Bach
+2	D. Classical Concertos	Which composer’s "Piano Concerto No. 21" is known for its "Elvira Madigan" theme?	Mozart
+3	D. Classical Concertos	What Italian composer created the "Concerto for Two Violins"?	Vivaldi
+4	D. Classical Concertos	Who composed the famous "Piano Concerto No. 5" called "Emperor"?	Beethoven
+5	D. Classical Concertos	What composer created the "Trumpet Concerto in E-flat Major"?	Haydn
+1	E. Countries Divided by Rivers	What river separates the United States and Mexico?	Rio Grande
+2	E. Countries Divided by Rivers	Which river separates Germany and France in some areas?	Rhine
+3	E. Countries Divided by Rivers	Which river divides North Korea and China?	Yalu River
+4	E. Countries Divided by Rivers	What river divides Laos and Thailand?	Mekong
+5	E. Countries Divided by Rivers	Which river forms a natural border between Paraguay and Argentina?	Paraná River
