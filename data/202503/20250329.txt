@@ -1,0 +1,25 @@
+1	A. Nature of Poland	What sea borders Poland to the north?	Baltic Sea
+2	A. Nature of Poland	What is the longest river in Poland?	Vistula
+3	A. Nature of Poland	Which bird, a symbol of Poland, can be spotted in its wetlands?	White stork
+4	A. Nature of Poland	What type of landscape is the Masuria region famous for?	Lakes
+5	A. Nature of Poland	Which animal, nearly extinct, roams wild in Poland’s Bialowieza Forest?	European bison
+1	B. Top Best-Selling Books: 1990-1994	What book topped the charts in 1990 by John Grisham? It featured a lawyer named Mitch.	The Firm
+2	B. Top Best-Selling Books: 1990-1994	Which 1991 dinosaur novel by Michael Crichton became a bestseller?	Jurassic Park
+3	B. Top Best-Selling Books: 1990-1994	What 1992 thriller by Tom Clancy was a top seller and featured rogue atomic bomb attic?	The Sum of All Fears
+4	B. Top Best-Selling Books: 1990-1994	Which 1994 novel by Anne Rice was a bestseller and featured Ashlar and Mayfair Witches?	Taltos
+5	B. Top Best-Selling Books: 1990-1994	Which 1990 Stephen King novel was a hit? It is a collection of 4 novellas.	Four Past Midnight
+1	C. Movies Top Box Office 1995-1999	Which 1995 movie about a toy cowboy and spaceman was the first fully computer-animated feature film?	Toy Story
+2	C. Movies Top Box Office 1995-1999	What 1996 blockbuster featured Will Smith fighting aliens on July 4th?	Independence Day
+3	C. Movies Top Box Office 1995-1999	Which 1997 film about a sinking ship became the highest-grossing movie of all time until 2009?	Titanic
+4	C. Movies Top Box Office 1995-1999	What 1998 war movie directed by Steven Spielberg follows soldiers after D-Day?	Saving Private Ryan
+5	C. Movies Top Box Office 1995-1999	What 1999 Star Wars prequel introduced young Anakin Skywalker?	The Phantom Menace
+1	D. Artificial Lakes	What is the largest artificial lake, created by the Hoover Dam, in the United States?	Lake Mead
+2	D. Artificial Lakes	What artificial lake in California supplies water to Los Angeles?	Lake Havasu
+3	D. Artificial Lakes	Which artificial lake was formed by the Grand Coulee Dam?	Lake Roosevelt
+4	D. Artificial Lakes	What artificial lake, created by the Glen Canyon Dam, is located in Arizona and Nevada?	Lake Powell
+5	D. Artificial Lakes	What artificial lake in Egypt was formed by the Aswan High Dam?	Lake Nasser
+1	E. Famous Card Players	What is the name of the song that includes "You got to know when to hold 'em, know when to fold 'em"?	The Gambler
+2	E. Famous Card Players	Which poker player is nicknamed "The Poker Brat"?	Phil Hellmuth
+3	E. Famous Card Players	Who is known as the "King of Poker" and "Texas Dolly"?	Doyle Brunson
+4	E. Famous Card Players	What great poker player is known as "The Tiger Woods of Poker"?	Phil Ivey
+5	E. Famous Card Players	What is the full nickname of legendary poker player Amarillo ______.	Amarillo Slim
