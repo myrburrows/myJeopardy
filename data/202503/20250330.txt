@@ -1,0 +1,25 @@
+1	A. Plant Biology	What pigment gives plants their green color?	Chlorophyll
+2	A. Plant Biology	What do plants need in addition to sunlight and water for photosynthesis?	Carbon dioxide
+3	A. Plant Biology	What gas do plants release during photosynthesis?	Oxygen
+4	A. Plant Biology	What type of plant lives for more than two years?	Perennial
+5	A. Plant Biology	What is the process by which plants make their own food using sunlight?	Photosynthesis
+1	B. New World Colonization	Which European country established the first permanent settlement in North America?	Spain
+2	B. New World Colonization	What was the name of the first permanent English settlement in North America?	Jamestown
+3	B. New World Colonization	What was the main reason Pilgrims left England for the New World?	Religious freedom
+4	B. New World Colonization	What was the name of the agreement signed by the Pilgrims to establish self-governance?	Mayflower Compact
+5	B. New World Colonization	Which Native American woman helped the English settlers at Jamestown?	Pocahontas
+1	C. Movies Top Box Office 1990-1994	Which 1990 movie starred Macaulay Culkin as a boy left home alone?	Home Alone
+2	C. Movies Top Box Office 1990-1994	What 1991 movie featured Arnold Schwarzenegger as a cyborg, saying "I'll be back"?	Terminator 2
+3	C. Movies Top Box Office 1990-1994	What 1993 movie was about dinosaurs brought back to life?	Jurassic Park
+4	C. Movies Top Box Office 1990-1994	Which 1994 movie starred Tom Hanks as a man with a low IQ but an extraordinary life?	Forrest Gump
+5	C. Movies Top Box Office 1990-1994	What 1994 Disney film featured a young lion prince?	The Lion King
+1	D. Fantasy Football	In fantasy football, what position usually scores the most points?	Quarterback
+2	D. Fantasy Football	What is the term for a player not in a team’s starting lineup?	Bench
+3	D. Fantasy Football	What is the process of selecting players for a fantasy team called?	Draft
+4	D. Fantasy Football	What is the term for removing a player from your fantasy team?	Drop
+5	D. Fantasy Football	What is the weekly process of adding new players called?	Waiver wire
+1	E. US Authors: American Authors 1800-1849	Who wrote the novel "The Scarlet Letter"?	Nathaniel Hawthorne
+2	E. US Authors: American Authors 1800-1849	Who wrote "Self-Reliance" and promoted transcendentalism?	Ralph Waldo Emerson
+3	E. US Authors: American Authors 1800-1849	What American author wrote "Walden"?	Henry David Thoreau
+4	E. US Authors: American Authors 1800-1849	Who is known for the novel "Moby-Dick"?	Herman Melville
+5	E. US Authors: American Authors 1800-1849	Who wrote "The Last of the Mohicans"?	James Fenimore Cooper
