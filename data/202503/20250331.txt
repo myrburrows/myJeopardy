@@ -1,0 +1,25 @@
+1	A. British Authors 1850-1899	Which author created the character Ebenezer Scrooge?	Charles Dickens
+2	A. British Authors 1850-1899	Who penned the novel "Wuthering Heights"?	Emily Brontë
+3	A. British Authors 1850-1899	Who created the detective Sherlock Holmes?	Arthur Conan Doyle
+4	A. British Authors 1850-1899	Who wrote the gothic novel "Dracula"?	Bram Stoker
+5	A. British Authors 1850-1899	Which British author wrote "Tess of the d'Urbervilles"?	Thomas Hardy
+1	B. Golf Techniques	What is the name of the area where the hole is located?	Green
+2	B. Golf Techniques	What is the term for a score of one under par on a hole?	Birdie
+3	B. Golf Techniques	What is it called when the ball curves left for a right-handed golfer?	Hook
+4	B. Golf Techniques	What swing fault causes the ball to veer sharply right for a right-handed golfer?	Slice
+5	B. Golf Techniques	What technique involves hitting the ball from sand?	Bunker shot
+1	C. Paleontological Sites	What U.S. state hosts the La Brea Tar Pits?	California
+2	C. Paleontological Sites	In what starte were the first Tyrannosaurus rex fossils found?	Montana, USA
+3	C. Paleontological Sites	What Mongolian desert yielded Velociraptor remains?	Gobi Desert
+4	C. Paleontological Sites	In what rugged region, spanning parts of Chile and Argentina, were massive sauropod fossils unearthed?	Patagonia
+5	C. Paleontological Sites	What site in Dorset, England yielded the first dinosaur bone in 1811?	Lyme Regis
+1	D. Groundbreaking Drama Series	Which show portrays a medieval struggle for the Iron Throne?	Game of Thrones
+2	D. Groundbreaking Drama Series	What show features mob boss Tony in therapy?	The Sopranos
+3	D. Groundbreaking Drama Series	What show depicts a chemistry teacher turned drug lord?	Breaking Bad
+4	D. Groundbreaking Drama Series	What drama centers on a corrupt Atlantic City politician?	Boardwalk Empire
+5	D. Groundbreaking Drama Series	Which series follows the ad men of Madison Avenue in the 1960s?	Mad Men
+1	E. Historical Cartography	Which ancient civilization’s maps showed the Nile’s course?	Egypt
+2	E. Historical Cartography	Who mapped the Pacific Ocean during his 18th-century voyages?	James Cook
+3	E. Historical Cartography	What 13th-century English map is famous for its circular design? It's name is Latin, meaning "Map of the World".	Mappa Mundi
+4	E. Historical Cartography	What map view was introduced by Gerardus Mercator in 1569?	Mercator projection
+5	E. Historical Cartography	Who created the first known world map in the 2nd century?	Ptolemy
