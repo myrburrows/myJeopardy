@@ -1,0 +1,25 @@
+1	A. Bedtime Stories	What is the name of the bear who loves honey in A.A. Milne’s bedtime stories?	Winnie the Pooh
+2	A. Bedtime Stories	Who wrote the classic bedtime story "The Tale of Peter Rabbit"?	Beatrix Potter
+3	A. Bedtime Stories	In "Goodnight Moon," what does the little bunny say goodnight to first?	The room
+4	A. Bedtime Stories	What does the caterpillar eat through first in "The Very Hungry Caterpillar"?	One apple
+5	A. Bedtime Stories	In "Where the Wild Things Are," what does Max become king of?	The Wild Things
+1	B. Urban Transportation	Which U.S. city has a famous cable car system still in use today?	San Francisco
+2	B. Urban Transportation	What Asian city is renowned for its super-efficient bullet trains?	Tokyo
+3	B. Urban Transportation	Which Dutch city is known for its extensive canal-based boat transportation?	Amsterdam
+4	B. Urban Transportation	What is the name of London’s iconic underground train system?	The Tube
+5	B. Urban Transportation	What type of transport is the “El” in Chicago?	Elevated train
+1	C. Mountain Biking	What piece of equipment helps mountain bikers shift speeds on tough climbs?	Gears
+2	C. Mountain Biking	Which Olympic event features mountain biking on rugged terrain?	Cross-country
+3	C. Mountain Biking	Which U.S. state hosts the famous Moab mountain biking trails?	Utah
+4	C. Mountain Biking	What type of tire is best for gripping rough mountain trails?	Knobby
+5	C. Mountain Biking	What is the name of the famous mountain biking race in Leadville, Colorado?	Leadville 100
+1	D. Contemporary Indie Directors	What indie director is behind "Lady Bird," a coming-of-age story?	Greta Gerwig
+2	D. Contemporary Indie Directors	Which director’s "Her" explores love between a man and an AI?	Spike Jonze
+3	D. Contemporary Indie Directors	Which indie filmmaker directed "The Lighthouse" with Robert Pattinson?	Robert Eggers
+4	D. Contemporary Indie Directors	Who directed the indie film "Moonlight," which won Best Picture in 2017?	Barry Jenkins
+5	D. Contemporary Indie Directors	What director is known for the quirky indie hit "Napoleon Dynamite"?	Jared Hess
+1	E. History of US States: South Carolina	Which fort in South Carolina saw the first shots of the Civil War?	Fort Sumter
+2	E. History of US States: South Carolina	Which city was South Carolina’s first permanent European settlement?	Charleston
+3	E. History of US States: South Carolina	What was the nickname for South Carolina during the Revolutionary War?	The Palmetto State
+4	E. History of US States: South Carolina	What South Carolina plantation crop was dyed with indigo?	Cotton
+5	E. History of US States: South Carolina	Which battle in South Carolina helped turn the tide of the Revolutionary War?	Cowpens
