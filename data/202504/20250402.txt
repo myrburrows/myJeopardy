@@ -1,0 +1,25 @@
+1	A. Geography of Arizona	What is the capital of Arizona?	Phoenix
+2	A. Geography of Arizona	What river defines Arizona's western edge?	Colorado River
+3	A. Geography of Arizona	What Arizona city is known for red rock scenery?	Sedona
+4	A. Geography of Arizona	What is Arizona’s highest elevation point?	Humphreys Peak
+5	A. Geography of Arizona	What desert dominates southern Arizona?	Sonoran Desert
+1	B. American Authors 1900-1949	Who penned the novel "The Call of the Wild" in 1903?	Jack London
+2	B. American Authors 1900-1949	What writer published "The Great Gatsby" in 1925?	F. Scott Fitzgerald
+3	B. American Authors 1900-1949	Which author’s "A Farewell to Arms" came out in 1929?	Ernest Hemingway
+4	B. American Authors 1900-1949	What poet published "The Waste Land" in 1922?	T.S. Eliot
+5	B. American Authors 1900-1949	Which author created the "Tarzan" series starting in 1912?	Edgar Rice Burroughs
+1	C. Cycling Races	What is France’s most famous cycling event?	Tour de France
+2	C. Cycling Races	In what month is the Tour de France usually held?	July
+3	C. Cycling Races	What color does the rider with the lowest overall time wear in the Tour de France?	Yellow
+4	C. Cycling Races	In the Tour de France, what does the polka dot jersey signify?	King of the Mountains
+5	C. Cycling Races	What multi-day race happens yearly in California?	Tour of California
+1	D. Mesopotamia	What rivers bordered ancient Mesopotamia?	Tigris and Euphrates
+2	D. Mesopotamia	Which king wrote a famous Mesopotamian law code?	Hammurabi
+3	D. Mesopotamia	Who was the chief Babylonian deity?	Marduk
+4	D. Mesopotamia	What was Mesopotamia’s earliest writing system?	Cuneiform
+5	D. Mesopotamia	Which Mesopotamian city had a notable ziggurat (massive, stepped pyramid)?	Ur
+1	E. Movie Musicals	What musical film has "Somewhere Over the Rainbow"?	The Wizard of Oz
+2	E. Movie Musicals	What film musical stars Julie Andrews as a nanny?	Mary Poppins
+3	E. Movie Musicals	Which musical movie depicts New York gang tensions?	West Side Story
+4	E. Movie Musicals	What movie musical includes "Greased Lightnin’"?	Grease
+5	E. Movie Musicals	Which film musical features the von Trapp family?	The Sound of Music
