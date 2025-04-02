@@ -1,0 +1,25 @@
+1	A. Sci-Fi Movies	Which movie has an alien calling home from Earth?	E.T. the Extra-Terrestrial
+2	A. Sci-Fi Movies	Which movie includes a computer named HAL that turns against its crew?	2001: A Space Odyssey
+3	A. Sci-Fi Movies	What film follows a detective hunting bioengineered humans?	Blade Runner
+4	A. Sci-Fi Movies	What sci-fi film is set on a resource-rich moon with blue natives?	Avatar
+5	A. Sci-Fi Movies	What film features a robot assassin sent back to kill a woman?	The Terminator
+1	B. Brown v. Board of Education	What did Brown v. Board of Education rule against in education?	Segregation
+2	B. Brown v. Board of Education	Which U.S. court decided the Brown v. Board case?	Supreme Court
+3	B. Brown v. Board of Education	Who was the Supreme Court leader for the Brown decision?	Earl Warren
+4	B. Brown v. Board of Education	In what city did the Brown family challenge school laws?	Topeka
+5	B. Brown v. Board of Education	What old ruling did Brown v. Board reverse?	Plessy v. Ferguson
+1	C. American Authors 1950-1959	What author told a fisherman’s tale in "The Old Man and the Sea"?	Ernest Hemingway
+2	C. American Authors 1950-1959	Which writer warned of censorship in "Fahrenheit 451"?	Ray Bradbury
+3	C. American Authors 1950-1959	Who shocked readers with "Lolita" in the late 1950s?	Vladimir Nabokov
+4	C. American Authors 1950-1959	Who wrote about a teen’s rebellion in "The Catcher in the Rye"?	J.D. Salinger
+5	C. American Authors 1950-1959	Which author captured the Beat Generation in "On the Road"?	Jack Kerouac
+1	D. Satellite Technology	Which country beat others to launch the first satellite?	Soviet Union
+2	D. Satellite Technology	What was the first object humans put into orbit?	Sputnik 1
+3	D. Satellite Technology	Which U.S. group launched Explorer 1 into orbit?	NASA
+4	D. Satellite Technology	What was the name of the first American satellite?	Explorer 1
+5	D. Satellite Technology	When did the U.S. join the satellite race with a launch?	1958
+1	E. Three-Point Shooting	Who is the all-time leader in NBA three-pointers made?	Stephen Curry
+2	E. Three-Point Shooting	What league inspired the NBA’s three-point rule?	ABA
+3	E. Three-Point Shooting	In what year did the NBA add the three-point shot?	1979
+4	E. Three-Point Shooting	How far is the three-point line from the basket in the NBA?	23.75 feet
+5	E. Three-Point Shooting	Who dominated the NBA Three-Point Contest with three wins?	Craig Hodges
