@@ -1,0 +1,25 @@
+1	A. Fantasy and Magic	What magical school does Harry Potter attend?	Hogwarts
+2	A. Fantasy and Magic	In Peter Pan, what fairy helps Peter fly?	Tinker Bell
+3	A. Fantasy and Magic	What magical nanny flies with an umbrella in a famous book?	Mary Poppins
+4	A. Fantasy and Magic	Who is the magical bear that loves honey in a children’s classic?	Winnie the Pooh
+5	A. Fantasy and Magic	Who is the boy who lives in the jungle with animals in Rudyard Kipling’s tale?	Mowgli
+1	B. Biological Classification	What kingdom includes plants like roses and oak trees?	Plantae
+2	B. Biological Classification	What species is the common house cat?	Felis catus
+3	B. Biological Classification	Which class do humans belong to in biological classification?	Mammalia
+4	B. Biological Classification	What phylum includes animals with backbones?	Chordata
+5	B. Biological Classification	What is the highest level of biological classification?	Domain
+1	C. Musical Genres	Which musical genre includes Oklahoma! with cowboys and farmers?	Western
+2	C. Musical Genres	Which genre features Grease with its 1950s rock ‘n’ roll vibe?	Jukebox Musical
+3	C. Musical Genres	Which genre includes Rent with its modern songs?	Rock Musical
+4	C. Musical Genres	Which genre features Phantom of the Opera with its grand songs?	Grand Opera Musical
+5	C. Musical Genres	What type of musical is Les Misérables with its dramatic storytelling?	Operetta
+1	D. Endangered Species in National Parks	What endangered bear lives in Yellowstone National Park?	Grizzly Bear
+2	D. Endangered Species in National Parks	What rare mammal roams Denali National Park?	Caribou
+3	D. Endangered Species in National Parks	Which endangered turtle nests in Cape Hatteras National Seashore?	Sea Turtle
+4	D. Endangered Species in National Parks	What endangered bird soars over Grand Canyon National Park?	California Condor
+5	D. Endangered Species in National Parks	Which rare wolf is protected in Great Smoky Mountains National Park?	Red Wolf
+1	E. Habsburg Dynasty	What famous queen was a Habsburg who ruled Spain with Ferdinand?	Isabella I
+2	E. Habsburg Dynasty	Which Habsburg empress ruled Austria in the 18th century?	Maria Theresa
+3	E. Habsburg Dynasty	What city was the main seat of Habsburg power in Austria?	Vienna
+4	E. Habsburg Dynasty	What alliance did the Habsburgs form with Russia against Napoleon?	Holy Alliance
+5	E. Habsburg Dynasty	What treaty ended the War of the Spanish Succession for the Habsburgs?	Treaty of Utrecht
