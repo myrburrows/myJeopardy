@@ -1,0 +1,23 @@
+1	A. International Space Station	What powers the International Space Station’s systems?	Solar panels
+2	A. International Space Station	How many people can live on the ISS at one time?	Six
+3	A. International Space Station	Which space agency launched the first module of the ISS into orbit?	Russia
+4	A. International Space Station	What year did the first crew arrive at the International Space Station?	2000
+5	A. International Space Station	Which American astronaut set the record for longest stay on the ISS (340 days)?	Scott Kelly
+1	B. Portuguese Empire	Which country in South America was a major Portuguese colony?	Brazil
+2	B. Portuguese Empire	Which Portuguese explorer reached India by sea in 1498?	Vasco da Gama
+3	B. Portuguese Empire	Which island group did Portugal colonize in the Atlantic Ocean?	Madeira
+4	B. Portuguese Empire	Which city in India was a Portuguese colony until 1961?	Goa
+5	B. Portuguese Empire	What spice did Portugal seek to control through its empire in Asia?	Black pepper
+1	C. Ice Skating	Which winter sport combines ice skating with shooting a puck?	Ice hockey
+2	C. Ice Skating	What Olympic event features pairs skating to music?	Ice dancing
+3	C. Ice Skating	What is the name of the blade’s edge used for spinning in figure skating?	Rocker
+4	C. Ice Skating	What figure skating jump involves a full turn in the air?	Toe loop
+5	C. Ice Skating	Which ice skating move involves spinning in place on one foot?	Sit spin
+1	D. Famous TV Theme Songs	Which cartoon’s theme song mentions “Flintstones, meet the Flintstones”?	The Flintstones
+2	D. Famous TV Theme Songs	What sitcom’s theme song asks “Where Everybody Knows Your Name”?	Cheers
+3	D. Famous TV Theme Songs	What Western show’s theme song became a hit for Frankie Laine?	Rawhide
+4	D. Famous TV Theme Songs	Which TV show’s theme is “I’ll Be There for You” by The Rembrandts?	Friends
+5	D. Famous TV Theme Songs	Which sci-fi show’s theme song has eerie theremin sounds?	The X-Files
+1	E. Capitals of Africa	Which country’s capital is Algiers?	Algeria
+2	E. Capitals of Africa	What is the capital city of Egypt?	Cairo
+3	E. Capitals of Africa	What East African nation has its capital at Addis Ababa?	Ethiopia

@@ -1,0 +1,25 @@
+1	A. Popular Hiking Trails	Which trail is known for its 2,190-mile stretch along the eastern U.S.?	Appalachian Trail
+2	A. Popular Hiking Trails	What is the most famous hiking trail in the United States?	Grand Canyon Trail
+3	A. Popular Hiking Trails	Which trail in Yosemite National Park offers views of Half Dome?	John Muir Trail
+4	A. Popular Hiking Trails	Which trail in Peru ends at the ancient city of Machu Picchu?	Inca Trail
+5	A. Popular Hiking Trails	Which trail in Spain is a popular pilgrimage route to Santiago de Compostela?	Camino de Santiago
+1	B. Geological Time Scale	In which era, which includes the Jurassic period, did dinosaurs dominate the Earth?	Mesozoic
+2	B. Geological Time Scale	Which period is famous for its coal-forming forests?	Carboniferous
+3	B. Geological Time Scale	What epoch are we currently living in?	Holocene
+4	B. Geological Time Scale	Which period ended with the largest mass extinction in Earth’s history?	Permian
+5	B. Geological Time Scale	What era is divided into Paleozoic, Mesozoic, and Cenozoic?	Phanerozoic
+1	C. Labor Unions	What term describes workers refusing to work until demands are met?	Strike
+2	C. Labor Unions	In which country did labor unions first gain significant traction?	United Kingdom
+3	C. Labor Unions	Which U.S. union, founded in 1886, became a major force for workers’ rights?	AFL (American Federation of Labor)
+4	C. Labor Unions	What did unions fight against that limited work hours for children?	Child labor
+5	C. Labor Unions	Which event in 1894 showed the power of U.S. railroad unions?	Pullman Strike
+1	D. Sahara vs. Gobi: Comparisons	Which desert is located primarily in Mongolia and China?	Gobi
+2	D. Sahara vs. Gobi: Comparisons	Which desert is the largest hot desert in the world?	Sahara
+3	D. Sahara vs. Gobi: Comparisons	Which desert is known for its cold winters and high elevation?	Gobi
+4	D. Sahara vs. Gobi: Comparisons	What is the largest country the Sahara Desert spans?	Algeria
+5	D. Sahara vs. Gobi: Comparisons	Which desert contains the fossilized remains of dinosaur eggs?	Gobi
+1	E. Black-and-White Cinematography	Which 1939 film, though mostly color, began in black-and-white?	The Wizard of Oz
+2	E. Black-and-White Cinematography	Which 1950 black-and-white film explored Hollywood’s dark side?	Sunset Boulevard
+3	E. Black-and-White Cinematography	What 1931 horror film used black-and-white to heighten its eerie mood?	Dracula
+4	E. Black-and-White Cinematography	Which 1941 film is famous for its innovative black-and-white cinematography?	Citizen Kane
+5	E. Black-and-White Cinematography	Which actress starred in the black-and-white film "Sunset Boulevard"?	Gloria Swanson
