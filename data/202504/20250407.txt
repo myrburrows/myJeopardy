@@ -1,0 +1,25 @@
+1	A. Longest-Running Broadway Shows	What is the longest-running Broadway show of all time (over 13,900 performances by 2023)?	Phantom of the Opera
+2	A. Longest-Running Broadway Shows	What show has been running since 1997 and is based on a Disney movie?	The Lion King
+3	A. Longest-Running Broadway Shows	Which musical about American history opened in 2015 and is still running?	Hamilton
+4	A. Longest-Running Broadway Shows	What is the longest-running play (not musical) on Broadway?	The Mousetrap
+5	A. Longest-Running Broadway Shows	What Harry Potter play has been running since 2018 on Broadway?	Harry Potter and the Cursed Child
+1	B. Top Best-Selling Books: 1995-1999	Which Harry Potter book began the series’ bestseller run in 1997?	Harry Potter and the Sorcerer’s Stone
+2	B. Top Best-Selling Books: 1995-1999	What 1995 bestseller by Michael Crichton is a sequel to Jurassic Park?	The Lost World
+3	B. Top Best-Selling Books: 1995-1999	What book, about young lawyer Rudy Baylor,  was the best-selling novel of 1995 in the U.S.?	The Rainmaker
+4	B. Top Best-Selling Books: 1995-1999	Which religious text has sold over 5 billion copies by 1995?	The Bible
+5	B. Top Best-Selling Books: 1995-1999	What Nicholas Sparks novel was a top seller in 1999?	A Walk to Remember
+1	C. Ottoman Empire	What was the title of Ottoman rulers?	Sultan
+2	C. Ottoman Empire	Who was the longest-reigning Ottoman sultan?	Suleiman the Magnificent
+3	C. Ottoman Empire	What year did the Ottoman Empire officially end: 1912, 1922, or 1932?	1922
+4	C. Ottoman Empire	What treaty in 1920 significantly reduced Ottoman territory: Sèvres, Westphalia or Portsmouth?	Treaty of Sèvres
+5	C. Ottoman Empire	Who founded the Ottoman Empire in 1299?	Osman I
+1	D. Rivers by Continent	What is the longest river in South America?	Amazon River
+2	D. Rivers by Continent	Which African river flows into the Mediterranean Sea?	Nile River
+3	D. Rivers by Continent	What river flows through China and is Asia’s longest?	Yangtze River
+4	D. Rivers by Continent	Which European river is a major trade route in Russia?	Volga River
+5	D. Rivers by Continent	Which Australian river is the longest?	Murray River
+1	E. Marine Ecosystems	Which ecosystem is found near the shore and supports diverse life?	Coral Reefs
+2	E. Marine Ecosystems	Which ecosystem thrives in the deep sea with no sunlight?	Hydrothermal Vents
+3	E. Marine Ecosystems	What is the name of the ecosystem with large brown algae forests?	Kelp Forests
+4	E. Marine Ecosystems	Which ecosystem supports life in the ocean’s darkest depths?	Abyssal Zone
+5	E. Marine Ecosystems	What ecosystem covers most of the ocean’s surface?	Pelagic Zone
