@@ -1,0 +1,25 @@
+1	A. Glaciers and Ice Ages	What is an iceberg?	A chunk of ice that breaks off a glacier
+2	A. Glaciers and Ice Ages	What is the largest glacier in the world?	Lambert Glacier in Antarctica
+3	A. Glaciers and Ice Ages	During which period was the last Ice Age at its peak?	The Pleistocene
+4	A. Glaciers and Ice Ages	About what percentage of Earth’s freshwater is in glaciers: 50%, 68%, or 75%?	About 68%
+5	A. Glaciers and Ice Ages	What is a moraine?	Debris left by a glacier
+1	B. Battle of Yorktown	In which war was the Battle of Yorktown fought?	The American Revolutionary War
+2	B. Battle of Yorktown	Who led the American forces at Yorktown?	George Washington
+3	B. Battle of Yorktown	Which country allied with the Americans at Yorktown?	France
+4	B. Battle of Yorktown	Who was the British commander who surrendered?	Lord Cornwallis
+5	B. Battle of Yorktown	Where is Yorktown located?	Virginia, USA, near Williamsburg
+1	C. History of Cycling	What material replaced wood in early bike frames?	Steel
+2	C. History of Cycling	Who was the first American to win the Tour de France?	Greg LeMond
+3	C. History of Cycling	What German invented the first bicycle in 1817?	Karl Drais
+4	C. History of Cycling	What was the first bicycle called?	The Draisine or velocipede
+5	C. History of Cycling	What was the Penny-Farthing known for?	Its large front wheel
+1	D. The Role of Light in Impressionism	In which city did Impressionism begin?	Paris
+2	D. The Role of Light in Impressionism	Who, painter of "Water Lillies" and "Haystacks", is considered the founder of Impressionism?	Claude Monet
+3	D. The Role of Light in Impressionism	How did Impressionists differ from realists?	They emphasized light over detail
+4	D. The Role of Light in Impressionism	What time of day did many Impressionists paint?	Early morning or late afternoon
+5	D. The Role of Light in Impressionism	What painting gave Impressionism its name?	Monet’s “Impression, Sunrise”
+1	E. Celebrity Scandals	Which rapper’s 2009 VMA interruption upset Taylor Swift?	Kanye West
+2	E. Celebrity Scandals	What scandal led to Martha Stewart’s 2004 prison sentence?	Insider trading
+3	E. Celebrity Scandals	Which celebrity’s 2007 head-shaving incident shocked fans?	Britney Spears
+4	E. Celebrity Scandals	Which actor’s anti-Semitic rant hurt his career in 2006?	Mel Gibson
+5	E. Celebrity Scandals	Which actress shoplifted from Saks Fifth Avenue in 2001?	Winona Ryder
