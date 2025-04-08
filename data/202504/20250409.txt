@@ -1,0 +1,25 @@
+1	A. Lost Ancient Cities	What was the name of the ancient city buried by a volcanic eruption in 79 AD?	Pompeii
+2	A. Lost Ancient Cities	What was the name of the legendary city said to be swallowed by the sea near Greece?	Atlantis
+3	A. Lost Ancient Cities	What lost city in Cambodia is known for the massive Angkor Wat temple?	Angkor
+4	A. Lost Ancient Cities	Which ancient city in Turkey housed the Temple of Artemis, a Wonder of the World?	Ephesus
+5	A. Lost Ancient Cities	Which ancient trading city in Mali sank into obscurity after its decline?	Timbuktu
+1	B. Iconic Live Performances	What festival in 1969 featured Jimi Hendrix playing "The Star-Spangled Banner"?	Woodstock
+2	B. Iconic Live Performances	Who sang "Bohemian Rhapsody" live at Wembley Stadium during Live Aid in 1985?	Queen
+3	B. Iconic Live Performances	Which singer’s 1993 Super Bowl halftime show set a new standard for performances?	Michael Jackson
+4	B. Iconic Live Performances	Which band performed a rooftop concert in London in 1969, their last public show?	The Beatles
+5	B. Iconic Live Performances	Who played a historic concert on the Berlin Wall after its fall in 1989?	David Bowie
+1	C. Geography of Vermont	What is the capital city of Vermont?	Montpelier
+2	C. Geography of Vermont	Which lake forms part of Vermont’s western border with New York?	Lake Champlain
+3	C. Geography of Vermont	What mountain range runs north-south through most of Vermont?	Green Mountains
+4	C. Geography of Vermont	Which neighboring state lies directly south of Vermont?	Massachusetts
+5	C. Geography of Vermont	What is the highest peak in Vermont, standing at 4,393 feet?	Mount Mansfield
+1	D. Gene Expression	What molecule carries genetic instructions from DNA to the ribosomes?	mRNA
+2	D. Gene Expression	What term describes when genes are turned "on" or "off" in response to the environment?	Regulation
+3	D. Gene Expression	Which cellular structure assembles proteins based on mRNA instructions?	Ribosome
+4	D. Gene Expression	What are the segments of DNA that code for proteins called?	Exons
+5	D. Gene Expression	Which process copies DNA into RNA during gene expression?	Transcription
+1	E. Edgar Allan Poe Award	What is the nickname for the Edgar Award statuette?	The Edgar
+2	E. Edgar Allan Poe Award	Which TV series won an Edgar for Best Episode in a TV Series in 2016?	Fargo
+3	E. Edgar Allan Poe Award	What award recognizes lifetime achievement in mystery writing?	Grand Master
+4	E. Edgar Allan Poe Award	Who won the Edgar for Best Novel in 1970 for "For the Thrill of It"?	Joe Gores
+5	E. Edgar Allan Poe Award	Which author won the first Edgar for Best First Novel with "The Horizontal Man"?	Helen Eustis
