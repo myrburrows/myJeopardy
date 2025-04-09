@@ -1,0 +1,25 @@
+1	A. Planets	What is the largest planet in our solar system?	Jupiter
+2	A. Planets	Which planet has the most moons discovered so far?	Saturn
+3	A. Planets	What planet was reclassified as a dwarf planet in 2006?	Pluto
+4	A. Planets	Which planet is famous for its prominent ring system?	Saturn
+5	A. Planets	Which planet has the Great Dark Spot?	Neptune
+1	B. Dadaism	Which art movement emerged as a reaction to World War I?	Dadaism
+2	B. Dadaism	Who is considered a key founder of Dadaism?	Marcel Duchamp
+3	B. Dadaism	What city was a major center for Dada activities?	Zurich
+4	B. Dadaism	Which movement did Dadaism heavily influence: Impressionism, Realism or Surrealism?	Surrealism
+5	B. Dadaism	What was a common Dadaist theme mocking societal norms: Light, Nonsense, or Landscape?	Nonsense
+1	C. The Holy Roman Empire	Who was crowned the first Holy Roman Emperor in 800 AD?	Charlemagne
+2	C. The Holy Roman Empire	What was the main religion of the Holy Roman Empire?	Catholicism
+3	C. The Holy Roman Empire	What was the primary language of administration in the Holy Roman Empire?	Latin
+4	C. The Holy Roman Empire	Which treaty ended the Thirty Years’ War within the Empire?	Peace of Westphalia
+5	C. The Holy Roman Empire	Which dynasty ruled the Holy Roman Empire for much of the late Middle Ages?	Habsburg
+1	D. Gentrification	Gentrification describes the influx of wealthier residents into a what areas?	Working-class
+2	D. Gentrification	What is a common criticism of gentrification regarding original residents?	Displacement
+3	D. Gentrification	Which U.S. city is often cited as an early example of gentrification?	New York
+4	D. Gentrification	Which New York City district became a gentrification model?	SoHo
+5	D. Gentrification	What type of businesses often appear in gentrified areas?	Boutiques
+1	E. Football Rules	How many players are on the field for one team during a football play?	11
+2	E. Football Rules	Which player typically snaps the ball to start a play?	Center
+3	E. Football Rules	What is the name of the line where play begins?	Line of scrimmage
+4	E. Football Rules	The term "down", when the ball is put into play and then stopped, comes from what sport?	Rugby
+5	E. Football Rules	What is the penalty called when the quarterback throws the ball away to avoid a sack?	Intentional grounding
