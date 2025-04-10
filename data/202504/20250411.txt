@@ -1,0 +1,25 @@
+1	A. Major River Systems in Asia	What is the longest river in Asia?	Yangtze River
+2	A. Major River Systems in Asia	Which river flows through India and Bangladesh?	Ganges River
+3	A. Major River Systems in Asia	Which river is the longest in Southeast Asia?	Mekong River
+4	A. Major River Systems in Asia	What river flows through Pakistan and empties into the Arabian Sea?	Indus River
+5	A. Major River Systems in Asia	Which river in Iraq is formed by the Tigris and Euphrates joining together?	Shatt al-Arab
+1	B. Famous Hockey Players	Who is known as "The Great One" in ice hockey?	Wayne Gretzky
+2	B. Famous Hockey Players	What player, mostly a Detroit Red Wing and retired at 52, was known as "Mr. Hockey"?	Gordie Howe
+3	B. Famous Hockey Players	Which ice hockey player is famous for the "Miracle on Ice" in 1980?	Mike Eruzione
+4	B. Famous Hockey Players	Who was the first player to score 50 goals in 50 games in the NHL, known at "The Rocket"?	Maurice Richard
+5	B. Famous Hockey Players	This female ice hockey player won multiple Olympic golds with Canada, Hayley ______.	Hayley Wickenheiser
+1	C. Popular Animated Series	What show features a family living in Springfield with a dad named Homer?	The Simpsons
+2	C. Popular Animated Series	Which animated series follows a sponge living in Bikini Bottom?	SpongeBob SquarePants
+3	C. Popular Animated Series	Which series is set in a town called South Park with four main kid characters?	South Park
+4	C. Popular Animated Series	Which Disney series is about twins Dipper and Mabel in a mysterious town?	Gravity Falls
+5	C. Popular Animated Series	What animated show has a talking dog named Brian and a baby named Stewie?	Family Guy
+1	D. Science: Airplane	Who invented the first successful powered airplane?	Wright Brothers
+2	D. Science: Airplane	Where did the Wright Brothers first fly their airplane?	Kitty Hawk
+3	D. Science: Airplane	What material was primarily used for the frame of the Wright Flyer?	Wood
+4	D. Science: Airplane	Which brother piloted the first successful flight on December 17, 1903?	Orville Wright
+5	D. Science: Airplane	Which invention helped the Wright Brothers control the airplane’s direction?	Wing warping
+1	E. Trade Routes	What ancient trade route, traveled by Marco Polo, connected China to the Mediterranean?	Silk Road
+2	E. Trade Routes	Which passage through the Arctic was sought for centuries to connect Europe and Asia?	Northwest Passage
+3	E. Trade Routes	What trade route around Africa’s southern tip was discovered by Vasco da Gama?	Cape Route
+4	E. Trade Routes	Which desert trade route connected North Africa to West Africa for gold and salt?	Trans-Saharan Route
+5	E. Trade Routes	What medieval European trade league controlled routes in the Baltic and North Seas?	Hanseatic League
