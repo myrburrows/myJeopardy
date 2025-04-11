@@ -1,0 +1,25 @@
+1	A. Southeast Asia	What is the primary religion in Thailand?	Buddhism
+2	A. Southeast Asia	What is the capital city of Vietnam?	Hanoi
+3	A. Southeast Asia	Which Southeast Asian country is known for its city-state structure?	Singapore
+4	A. Southeast Asia	Which country in Southeast Asia has a monarchy led by a sultan?	Brunei
+5	A. Southeast Asia	What is the largest island in Indonesia?	Java
+1	B. Shakespearean Comedies	Which comedy features the taming of a headstrong woman named Katherina?	The Taming of the Shrew
+2	B. Shakespearean Comedies	In *The Merchant of Venice*, what does Shylock demand as collateral for a loan?	A pound of flesh
+3	B. Shakespearean Comedies	Which comedy involves a shipwreck and mistaken identities on the coast of Illyria?	Twelfth Night
+4	B. Shakespearean Comedies	In *Much Ado About Nothing*, who is the witty heroine paired with Benedick?	Beatrice
+5	B. Shakespearean Comedies	In *Love’s Labour’s Lost*, what do the men swear to give up for three years?	Women
+1	C. Types of Rugby (Union, League)	What are the 2 major codes in worldwide rugby?	Rugby Union and Rugby League
+2	C. Types of Rugby (Union, League)	Which type of rugby is faster-paced, with focus on running and quick play restarts.	Rugby League
+3	C. Types of Rugby (Union, League)	Which type of rugby has 13 players per team on the field, vs 15 in the other)?	Rugby League
+4	C. Types of Rugby (Union, League)	Which code has a scoring try worth 5 points (vs 4 in the other)?	Rugby Union
+5	C. Types of Rugby (Union, League)	In Australia, which is referred to as "footy", Union or League?	League
+1	D. Political Satirists	Which comedian’s *Real Time* show debates political issues?	Bill Maher
+2	D. Political Satirists	What South African hosted *The Daily Show* and is known for political satire?	Trevor Noah
+3	D. Political Satirists	What is the name of John Oliver’s HBO political satire show?	Last Week Tonight
+4	D. Political Satirists	Which political satirist is famous for his “Bowling for Columbine” documentary?	Michael Moore
+5	D. Political Satirists	Which American satirist wrote for *Saturday Night Live* and hosted *Full Frontal*?	Samantha Bee
+1	E. Kyoto Protocol	Which country hosted the conference where the Kyoto Protocol was adopted?	Japan
+2	E. Kyoto Protocol	What type of gases does the Kyoto Protocol primarily target?	Carbon dioxide
+3	E. Kyoto Protocol	Which major country withdrew from the Kyoto Protocol in 2001?	United States
+4	E. Kyoto Protocol	What international body oversees the Kyoto Protocol?	United Nations
+5	E. Kyoto Protocol	Which treaty extended the Kyoto Protocol’s commitments beyond 2012?	Doha Amendment
