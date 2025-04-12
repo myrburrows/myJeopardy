@@ -1,0 +1,25 @@
+1	A. Capitals with Unique Names	What is the capital of Canada?	Ottowa
+2	A. Capitals with Unique Names	What is the capital of Iceland?	Reykjavík
+3	A. Capitals with Unique Names	What is the capital of Mongolia?	Ulaanbaatar
+4	A. Capitals with Unique Names	What is the capital city of Eritrea?	Asmara
+5	A. Capitals with Unique Names	What is the capital of Suriname?	Paramaribo
+1	B. Women’s Soccer	What country hosted the 2019 Women’s World Cup? The final was held at Parc Olympique Lyonnais.	France
+2	B. Women’s Soccer	What one-name Brazilian holds the record for most goals in Women’s World Cup history?	Marta
+3	B. Women’s Soccer	Who, led by Michelle Akers, won the first Women’s World Cup in 1991?	United States
+4	B. Women’s Soccer	What is the nickname of the Australian women’s soccer team?	Matildas
+5	B. Women’s Soccer	Who scored the winning goal in the 2015 World Cup final, completing a Hat Trick?	Carli Lloyd
+1	C. Major Battles of World Wars	Which World War II battle involved Japan’s attack on a U.S. naval base and brought the US into the war?	Pearl Harbor
+2	C. Major Battles of World Wars	What battle began the Allied invasion of Normandy?	D-Day
+3	C. Major Battles of World Wars	What was the final major German offensive in World War II?	Battle of the Bulge
+4	C. Major Battles of World Wars	What was the largest naval battle of World War II?	Battle of Leyte Gulf
+5	C. Major Battles of World Wars	What was the first major battle of World War I?	Battle of Mons
+1	D. Museum Architecture	What New York museum has a spiral design by Frank Lloyd Wright?	Guggenheim
+2	D. Museum Architecture	What museum in Paris was originally a fortress?	Louvre
+3	D. Museum Architecture	Which museum in Florence is housed in a former palace?	Uffizi
+4	D. Museum Architecture	Which museum in St. Petersburg was once a czar’s palace?	Hermitage
+5	D. Museum Architecture	What museum in Washington, D.C., has a pyramid-shaped courtyard?	National Gallery
+1	E. Social Media Influencers	Who is known for beauty tutorials and has a makeup line called Rare Beauty?	Selena Gomez
+2	E. Social Media Influencers	Which YouTuber is known for extreme stunts and giveaways?	MrBeast
+3	E. Social Media Influencers	Which influencer is associated with the Kardashian family and Skims?	Kylie Jenner
+4	E. Social Media Influencers	Who is a food influencer famous for Tasty recipe videos?	Hannah Hart
+5	E. Social Media Influencers	Who is a fitness influencer and founder of Gymshark?	Ben Francis
