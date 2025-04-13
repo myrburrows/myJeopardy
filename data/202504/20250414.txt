@@ -1,0 +1,25 @@
+1	A. Western Europe	What sea borders Spain to the south?	Mediterranean Sea
+2	A. Western Europe	Which Western European nation is famous for its fjords?	Norway
+3	A. Western Europe	Which Western European country is known for its tulip fields?	Netherlands
+4	A. Western Europe	What country is home to the city of Brussels?	Belgium
+5	A. Western Europe	Which country in Western Europe borders Germany and France?	Luxembourg
+1	B. Modern Drama	Who wrote the play "Death of a Salesman"?	Arthur Miller
+2	B. Modern Drama	Which playwright penned "A Streetcar Named Desire"?	Tennessee Williams
+3	B. Modern Drama	Which British playwright wrote "Pygmalion"?	George Bernard Shaw
+4	B. Modern Drama	What Norwegian wrote "A Doll’s House"?	Henrik Ibsen
+5	B. Modern Drama	Who is known for the play "Long Day’s Journey into Night"?	Eugene O’Neill
+1	C. Renaissance Architecture	Who designed the dome of St. Peter’s Basilica in Rome?	Michelangelo
+2	C. Renaissance Architecture	What Spanish palace has a Renaissance courtyard?	Alhambra
+3	C. Renaissance Architecture	Which Venetian church is known for its Renaissance bell tower?	San Marco
+4	C. Renaissance Architecture	What Florence cathedral dome was designed by Filippo Brunelleschi?	Santa Maria del Fiore
+5	C. Renaissance Architecture	Which Milan cathedral features early Renaissance elements?	Santa Maria delle Grazie
+1	D. Rainfall Patterns	Which U.S. state has the highest average rainfall?	Hawaii
+2	D. Rainfall Patterns	Which city is known for its frequent drizzle?	London
+3	D. Rainfall Patterns	What ocean current affects rainfall in Western Europe?	Gulf Stream
+4	D. Rainfall Patterns	What is the driest inhabited continent?	Australia
+5	D. Rainfall Patterns	Which African region has a distinct wet and dry season?	Savanna
+1	E. Pinball Machines	What feature prevents over-jarring and resets a pinball machine’s score?	Tilt
+2	E. Pinball Machines	What part of a pinball machine launches the ball?	Plunger
+3	E. Pinball Machines	Which company made the iconic "Addams Family" pinball game?	Bally
+4	E. Pinball Machines	What rotating target scores points with each spin?	Spinners
+5	E. Pinball Machines	What is the term for a free pinball game?	Replay
