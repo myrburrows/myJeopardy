@@ -1,0 +1,25 @@
+1	A. Cleopatra	Who was Cleopatra's first Roman ally?	Julius Caesar
+2	A. Cleopatra	Who was Cleopatra's famous lover after Caesar?	Mark Antony
+3	A. Cleopatra	What animal is associated with Cleopatra's death?	Asp
+4	A. Cleopatra	What language did Cleopatra famously speak fluently?	Greek
+5	A. Cleopatra	What was Cleopatra's native dynasty?	Ptolemaic
+1	B. Coral Atolls and Reefs	Which ocean hosts the Great Barrier Reef?	Pacific
+2	B. Coral Atolls and Reefs	Which country has the most coral reefs?	Australia
+3	B. Coral Atolls and Reefs	What shape is a common feature of an atoll?	Ring shape
+4	B. Coral Atolls and Reefs	Which atoll is famous for nuclear testing?	Bikini
+5	B. Coral Atolls and Reefs	What is the largest coral atoll in the world?	Kiritimati
+1	C. Iconic Sitcom Characters	Who is the bar owner in *Cheers*?	Sam Malone
+2	C. Iconic Sitcom Characters	What is Sheldon Cooper’s field in *The Big Bang Theory*?	Physics
+3	C. Iconic Sitcom Characters	What is Homer Simpson’s favorite food in *The Simpsons*?	Donuts
+4	C. Iconic Sitcom Characters	Who is the nosy neighbor in *I Love Lucy*?	Ethel Mertz
+5	C. Iconic Sitcom Characters	What is Chandler Bing’s job in *Friends*?	Data analyst
+1	D. Soil Science	What is the topmost layer of soil called?	Topsoil
+2	D. Soil Science	What organic matter is commonly added to soil to improve texture and nutrients?	Compost, manure, or peat moss
+3	D. Soil Science	What is the ideal soil pH for most plants?	Neutral
+4	D. Soil Science	What is added to soil to improve texture?	Organic matter
+5	D. Soil Science	What is the study of soil called?	Pedology
+1	E. Elegy	What is the main purpose of an elegy?	Mourn loss
+2	E. Elegy	Which poet penned an elegy for Abraham Lincoln?	Walt Whitman
+3	E. Elegy	What form can an elegy take?	Any structure
+4	E. Elegy	What ancient culture used elegies in funerals?	Greek
+5	E. Elegy	Which poet wrote *Elegy Written in a Country Churchyard*?	Thomas Gray
