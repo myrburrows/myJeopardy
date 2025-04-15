@@ -1,0 +1,25 @@
+1	A. Julius Caesar	On what date was Julius Caesar assassinated?	March 15, the Ides of March
+2	A. Julius Caesar	What was the name of Julius Caesar’s lover from Egypt?	Cleopatra
+3	A. Julius Caesar	Who led the conspiracy to assassinate Julius Caesar?	Brutus
+4	A. Julius Caesar	What military campaign made Caesar famous in Rome?	Gallic Wars (conquer Gaul)
+5	A. Julius Caesar	In 1582, the Julian calendar of 46 BCE was replace by the ______.	Gregorian calendar
+1	B. Blockbuster Movies	What franchise features lightsabers and Jedi?	Star Wars
+2	B. Blockbuster Movies	Which blockbuster has dinosaurs escaping on an island?	Jurassic Park
+3	B. Blockbuster Movies	Which film was the first film with a character named Indiana Jones?	Raiders of the Lost Ark
+4	B. Blockbuster Movies	Who directed the movie Jaws?	Steven Spielberg
+5	B. Blockbuster Movies	What animated film stars a clownfish named Nemo?	Finding Nemo
+1	C. National Parks by Country	Which country is home to Yellowstone National Park?	United States
+2	C. National Parks by Country	What African nation has Serengeti National Park?	Tanzania
+3	C. National Parks by Country	Which country has Kruger National Park?	South Africa
+4	C. National Parks by Country	Which country hosts Banff National Park?	Canada
+5	C. National Parks by Country	Which country is home to Fiordland National Park?	New Zealand
+1	D. Tom Clancy	What is Tom Clancy’s most famous novel about a Soviet submarine?	The Hunt for Red October
+2	D. Tom Clancy	What branch of the military inspired many of Clancy’s stories?	Navy
+3	D. Tom Clancy	Which Clancy book involves a nuclear threat in Baltimore?	The Sum of All Fears
+4	D. Tom Clancy	What profession did Jack Ryan hold before joining the CIA?	History Professor
+5	D. Tom Clancy	Which Clancy novel introduces the character John Clark?	The Cardinal of the Kremlin
+1	E. Waste Management	What is the process of reusing materials called?	Recycling
+2	E. Waste Management	What is the term for waste that can harm the environment?	Hazardous
+3	E. Waste Management	What process turns waste into energy?	Incineration
+4	E. Waste Management	What is the term for breaking down organic waste into soil?	Composting
+5	E. Waste Management	What type of bin is typically used for glass and plastic?	Recycling Bin
