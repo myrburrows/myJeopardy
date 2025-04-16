@@ -1,0 +1,25 @@
+1	A. Top Best-Selling Books: 1980-19989	What Tom Clancy thriller about a Soviet submarine was a 1984 bestseller?	The Hunt for Red October
+2	A. Top Best-Selling Books: 1980-19989	Which 1985 Larry McMurtry novel about the American West was a bestseller?	Lonesome Dove
+3	A. Top Best-Selling Books: 1980-19989	Which 1983 novel by John le Carré abouta pro-Palestinian actress became a bestseller?	The Little Drummer Girl
+4	A. Top Best-Selling Books: 1980-19989	Which 1980 Sidney Sheldon novel topped bestseller lists?	Rage of Angels
+5	A. Top Best-Selling Books: 1980-19989	What 1987 novel by Toni Morrison won the Pulitzer Prize and was a bestseller?	Beloved
+1	B. Baseball Rules	How many strikes result in a batter being out?	Three
+2	B. Baseball Rules	What is the term for a hit that allows the batter to reach first base safely?	Single
+3	B. Baseball Rules	What is the term for a play where two runners are tagged out on the same play?	Double play
+4	B. Baseball Rules	How many players are on the field for a defensive team?	Nine
+5	B. Baseball Rules	What is the penalty for a pitcher faking a pitch but holding the ball?	Balk
+1	C. Acting Techniques	What technique uses improvisation to develop characters and scenes?	Improvisational Acting
+2	C. Acting Techniques	What technique involves fully embodying a character’s emotions and experiences?	Method Acting
+3	C. Acting Techniques	What technique uses breath control to enhance vocal performance?	Linklater Technique
+4	C. Acting Techniques	What approach encourages actors to use personal memories to evoke emotions?	Stanislavski System
+5	C. Acting Techniques	What method involves breaking down a script into objectives and actions?	Meisner Technique
+1	D. Mountain Climate Zones	What is the primary factor affecting mountain climate zones?	Elevation
+2	D. Mountain Climate Zones	What is the term for the elevation above which trees cannot grow?	Tree Line
+3	D. Mountain Climate Zones	What zone in mountains supports coniferous forests and the most biodiversity?	Montane Zone
+4	D. Mountain Climate Zones	Which mountain climate zone is characterized by permanent snow and ice?	Nival Zone
+5	D. Mountain Climate Zones	What zone is just below the nival zone in mountain climates?	Alpine Zone
+1	E. Winston Churchill	What was Churchill’s role during World War II?	Prime Minister
+2	E. Winston Churchill	Which political party did Churchill belong to for most of his career?	Conservative
+3	E. Winston Churchill	Which war did Churchill serve in as a young soldier?	Boer War
+4	E. Winston Churchill	What was the name of Churchill’s ancestral home?	Blenheim Palace
+5	E. Winston Churchill	Which military campaign did Churchill write about in The River War?	Sudan Campaign
