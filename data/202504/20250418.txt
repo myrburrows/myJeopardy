@@ -1,0 +1,25 @@
+1	A. Geography of Russia	What is the capital city of Russia?	Moscow.
+2	A. Geography of Russia	Which mountain range forms a natural boundary between Europe and Asia in Russia?	Ural Mountains.
+3	A. Geography of Russia	What is the name of the world’s deepest lake located in Russia?	Lake Baikal.
+4	A. Geography of Russia	Which Russian river is the longest in Europe?	Volga River.
+5	A. Geography of Russia	Which Russian city hosted the 2014 Winter Olympics?	Sochi.
+1	B. Hockey Rules	How many players are allowed on the ice per team during regular play?	Six. 3 forwards, 2 defensemen, 1 goalkeeper
+2	B. Ice Hockey Rules	What is the term for when a player scores three goals in one game?	Hat trick.
+3	B. Ice Hockey Rules	How long is a standard NHL game period?	Twenty minutes.
+4	B. Ice Hockey Rules	What is the call when a player enters the opponent’s zone before the puck?	Offside.
+5	B. Ice Hockey Rules	What is the name of the area where the goal is located in ice hockey?	Crease.
+1	C. Fashion and Style Contests	What is the name of the fashion design show hosted by Heidi Klum and Tim Gunn?	Project Runway.
+2	C. Fashion and Style Contests	Which reality show involves styling celebrities for events?	Styled to Rock.
+3	C. Fashion and Style Contests	Which show focuses on finding the next big fashion designer in New York?	Next in Fashion.
+4	C. Fashion and Style Contests	What is the name of the fashion competition show on Amazon Prime?	Making the Cut.
+5	C. Fashion and Style Contests	Which show focuses on wedding dress shopping?	Say Yes to the Dress.
+1	D. Ernest Hemingway	What is the title of Hemingway’s novel about an old fisherman?	The Old Man and the Sea.
+2	D. Ernest Hemingway	What is the name of Hemingway’s novel set during the Spanish Civil War?	For Whom the Bell Tolls.
+3	D. Ernest Hemingway	What is the setting for Hemingway’s novel The Sun Also Rises?	Spain.
+4	D. Ernest Hemingway	What is the title of Hemingway’s World War I novel?	A Farewell to Arms.
+5	D. Ernest Hemingway	In which war did Hemingway serve as an ambulance driver?	World War I.
+1	E. Elm Trees	Which type of elm tree is native to North America?	American elm.
+2	E. Elm Trees	What is the primary disease that affects elm trees?	Dutch elm disease.
+3	E. Elm Trees	What is the primary method of spreading Dutch elm disease?	Elm bark beetles.
+4	E. Elm Trees	What is the shape of most elm tree leaves?	Oval with serrated edges.
+5	E. Elm Trees	What is the name of the fruit produced by elm trees?	Samara.
