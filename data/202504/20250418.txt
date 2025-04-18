@@ -1,25 +1,25 @@
-1	A. Geography of Russia	What is the capital city of Russia?	Moscow.
-2	A. Geography of Russia	Which mountain range forms a natural boundary between Europe and Asia in Russia?	Ural Mountains.
-3	A. Geography of Russia	What is the name of the world’s deepest lake located in Russia?	Lake Baikal.
-4	A. Geography of Russia	Which Russian river is the longest in Europe?	Volga River.
-5	A. Geography of Russia	Which Russian city hosted the 2014 Winter Olympics?	Sochi.
-1	B. Hockey Rules	How many players are allowed on the ice per team during regular play?	Six. 3 forwards, 2 defensemen, 1 goalkeeper
-2	B. Ice Hockey Rules	What is the term for when a player scores three goals in one game?	Hat trick.
-3	B. Ice Hockey Rules	How long is a standard NHL game period?	Twenty minutes.
-4	B. Ice Hockey Rules	What is the call when a player enters the opponent’s zone before the puck?	Offside.
-5	B. Ice Hockey Rules	What is the name of the area where the goal is located in ice hockey?	Crease.
-1	C. Fashion and Style Contests	What is the name of the fashion design show hosted by Heidi Klum and Tim Gunn?	Project Runway.
-2	C. Fashion and Style Contests	Which reality show involves styling celebrities for events?	Styled to Rock.
-3	C. Fashion and Style Contests	Which show focuses on finding the next big fashion designer in New York?	Next in Fashion.
-4	C. Fashion and Style Contests	What is the name of the fashion competition show on Amazon Prime?	Making the Cut.
-5	C. Fashion and Style Contests	Which show focuses on wedding dress shopping?	Say Yes to the Dress.
-1	D. Ernest Hemingway	What is the title of Hemingway’s novel about an old fisherman?	The Old Man and the Sea.
-2	D. Ernest Hemingway	What is the name of Hemingway’s novel set during the Spanish Civil War?	For Whom the Bell Tolls.
-3	D. Ernest Hemingway	What is the setting for Hemingway’s novel The Sun Also Rises?	Spain.
-4	D. Ernest Hemingway	What is the title of Hemingway’s World War I novel?	A Farewell to Arms.
-5	D. Ernest Hemingway	In which war did Hemingway serve as an ambulance driver?	World War I.
-1	E. Elm Trees	Which type of elm tree is native to North America?	American elm.
-2	E. Elm Trees	What is the primary disease that affects elm trees?	Dutch elm disease.
-3	E. Elm Trees	What is the primary method of spreading Dutch elm disease?	Elm bark beetles.
-4	E. Elm Trees	What is the shape of most elm tree leaves?	Oval with serrated edges.
-5	E. Elm Trees	What is the name of the fruit produced by elm trees?	Samara.
+1	A. Archipelagos of the World	Which archipelago is known for its unique wildlife, including giant tortoises?	Galapagos Islands
+2	A. Archipelagos of the World	What is the southernmost archipelago in South America, known for its rugged beauty?	Tierra del Fuego
+3	A. Archipelagos of the World	Which Caribbean archipelago includes the islands of Nassau and Andros?	Bahamas
+4	A. Archipelagos of the World	What is the largest archipelago in the world by number of islands?	Indonesia
+5	A. Archipelagos of the World	Which archipelago in the Indian Ocean is famous for its luxury resorts?	Maldives
+1	B. Top Best-Selling Books: 1970-1979	What 1977 Stephen King horror novel about a haunted hotel sold millions?	The Shining
+2	B. Top Best-Selling Books: 1970-1979	What 1974 Robert Ludlum thriller introduced Jason Bourne?	The Bourne Identity
+3	B. Top Best-Selling Books: 1970-1979	What 1979 John Irving novel features the character Garp?	The World According to Garp
+4	B. Top Best-Selling Books: 1970-1979	Which 1970 "weeper" novel by Erich Segal topped bestseller lists?	Love Story
+5	B. Top Best-Selling Books: 1970-1979	What 1972 novel by Richard Adams follows a group of rabbits?	Watership Down
+1	C. Pythagorean Theorem	Who is credited with formalizing the Pythagorean Theorem?	Pythagoras
+2	C. Pythagorean Theorem	What type of triangle does the Pythagorean Theorem apply to?	Right triangle
+3	C. Pythagorean Theorem	What is the name of the longest side in the Pythagorean Theorem?	Hypotenuse
+4	C. Pythagorean Theorem	What is the term for the two shorter sides in the Pythagorean Theorem?	Legs
+5	C. Pythagorean Theorem	What is the formula of the Pythagorean Theorem?	a² + b² = c²
+1	D. Denmark Royalty	Which Danish queen reigned from 1972 to 2024?	Margrethe II
+2	D. Denmark Royalty	What is the name of the current king of Denmark as of 2025?	Frederik X
+3	D. Denmark Royalty	What is the name of the Danish royal family’s dynasty?	Glücksburg
+4	D. Denmark Royalty	Who was the first king of Denmark, ruling in the 10th century?	Gorm the Old
+5	D. Denmark Royalty	What castle is the traditional residence of Danish monarchs?	Amalienborg
+1	E. Behind-the-Scenes on Broadway	Who is responsible for overseeing a Broadway show’s overall vision?	Director
+2	E. Behind-the-Scenes on Broadway	What is the term for the final rehearsal before a Broadway show opens?	Dress rehearsal
+3	E. Behind-the-Scenes on Broadway	What is the term for the person who prompts actors if they forget lines?	Stage manager
+4	E. Behind-the-Scenes on Broadway	Who ensures the props are placed correctly for each scene?	Props master
+5	E. Behind-the-Scenes on Broadway	What is the term for the book of written dialogue and stage directions in a musical?	Libretto
