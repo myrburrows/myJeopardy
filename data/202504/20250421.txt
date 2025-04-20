@@ -1,0 +1,25 @@
+1	A. Opera Houses	Which New York City opera house is part of Lincoln Center?	Metropolitan Opera
+2	A. Opera Houses	Which opera house in Moscow is famous for its ballet performances?	Bolshoi Theatre
+3	A. Opera Houses	Which opera house in London is also called the Royal Opera House?	Covent Garden
+4	A. Opera Houses	What is the name of the famous opera house in Australia?	Sydney Opera House
+5	A. Opera Houses	Which opera house in Milan, Italy, is renowned for its acoustics?	La Scala
+1	B. Mars Missions	What was the name of NASA’s first rover to land on Mars in 1997?	Sojourner
+2	B. Mars Missions	What is the name of NASA’s rover that landed on Mars in 2021?	Perseverance
+3	B. Mars Missions	Which country landed the Zhurong rover on Mars in 2021?	China
+4	B. Mars Missions	Which Mars mission discovered evidence of water ice in 2008?	Phoenix
+5	B. Mars Missions	What was the name of the first spacecraft to orbit Mars in 1971?	Mariner 9
+1	C. Polar Climate Regions	Which bear is commonly found in Arctic polar regions?	Polar bear
+2	C. Polar Climate Regions	Which ocean surrounds the Arctic polar climate zone?	Arctic Ocean
+3	C. Polar Climate Regions	What is the name of the polar climate zone around the North Pole?	Arctic
+4	C. Polar Climate Regions	Which polar region has no permanent human population?	Antarctica
+5	C. Polar Climate Regions	What type of vegetation is typical in polar climate zones?	Tundra
+1	D. Olympic Records	Who holds the men’s 100m sprint Olympic record as of 2024?	Usain Bolt
+2	D. Olympic Records	Which woman holds the Olympic record for the 400m hurdles, set at the Tokyo Olympics?	Sydney McLaughlin
+3	D. Olympic Records	Which country holds the Olympic record for both the 4x100 and 4x400 women's relay?	United States
+4	D. Olympic Records	Who set the Olympic record for the women’s 100m sprint in 1988 at Seoul at 10.54 seconds?	Florence Griffith-Joyner
+5	D. Olympic Records	What is the Olympic record for the women’s marathon time: 2:03:07, 2:13:07, or 2:23:07?	12/30/1899
+1	E. Cotton Gin	Who invented the cotton gin in 1793?	Eli Whitney
+2	E. Cotton Gin	What was the primary function of the cotton gin?	Separate cotton seeds from fiber
+3	E. Cotton Gin	Cotton became more profitable and widespread. What was one negative social impact of the cotton gin?	Increased slavery demand
+4	E. Cotton Gin	In what century was the cotton gin invented?	18th century
+5	E. Cotton Gin	Which non-farm industry saw significant growth due to the cotton gin?	Textile
