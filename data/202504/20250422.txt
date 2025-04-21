@@ -1,0 +1,25 @@
+1	A. Golf Scoring Systems	What is the term for scoring one stroke under par on a hole?	Birdie
+2	A. Golf Scoring Systems	What is the name for a score of two strokes under par on a hole?	Eagle
+3	A. Golf Scoring Systems	What is the term for completing a hole in the exact number of strokes expected?	Par
+4	A. Golf Scoring Systems	What system counts the number of holes won rather than total strokes?	Match Play
+5	A. Golf Scoring Systems	What is the name for a score of three under par on a hole?	Albatross
+1	B. Drama	Which 1972 drama explores the Corleone family’s crime syndicate?	The Godfather
+2	B. Drama	What drama type often portrays real-life events or historical figures?	Biographical Drama
+3	B. Drama	Which 1994 drama features a man named Andy Dufresne in a Maine prison?	The Shawshank Redemption
+4	B. Drama	What is the term for a drama with exaggerated emotions and conflicts?	Melodrama
+5	B. Drama	Which 2019 drama depicts the lives of the March sisters?	Little Women
+1	C. Flags with Religious Symbols	Which country’s flag has a blue Star of David, a Jewish symbol?	Israel
+2	C. Flags with Religious Symbols	Which country’s flag features a white cross on a red background?	Switzerland
+3	C. Flags with Religious Symbols	What Christian symbol appears on Greece’s blue and white flag?	Greek Cross
+4	C. Flags with Religious Symbols	Which nation’s flag includes a red cross, a Christian symbol?	Denmark
+5	C. Flags with Religious Symbols	Which country’s flag features a green cedar tree, a Christian symbol?	Lebanon
+1	D. Solar Energy	What is the primary source of energy for solar power?	Sunlight
+2	D. Solar Energy	What is a common unit for measuring solar panel output?	Watt
+3	D. Solar Energy	What device converts sunlight into electricity in solar panels?	Photovoltaic Cell
+4	D. Solar Energy	What factor most affects solar panel efficiency?	Sunlight Exposure
+5	D. Solar Energy	What is the name for a large-scale solar energy installation?	Solar Farm
+1	E. Renaissance Literature	Who wrote the sonnets that include “Shall I compare thee to a summer’s day”?	William Shakespeare
+2	E. Renaissance Literature	What is the name of Cervantes’ famous novel about a knight?	Don Quixote
+3	E. Renaissance Literature	Who wrote the epic poem *Paradise Lost*?	John Milton
+4	E. Renaissance Literature	Which poet wrote *The Faerie Queene* to honor Queen Elizabeth I?	Edmund Spenser
+5	E. Renaissance Literature	What is the title of Machiavelli’s political treatise from 1513?	The Prince
