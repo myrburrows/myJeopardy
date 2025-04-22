@@ -1,0 +1,25 @@
+1	A. Music Theory Basics	What term describes the speed of a piece of music?	Tempo
+2	A. Music Theory Basics	What term describes the combination of simultaneously sounded notes?	Chord
+3	A. Music Theory Basics	What is the name of the symbol that raises a note by a half step?	Sharp
+4	A. Music Theory Basics	What symbol indicates a note should be played briefly and sharply?	Staccato
+5	A. Music Theory Basics	What is the name of the scale with five notes, often used in folk music?	Pentatonic
+1	B. French Authors	Who wrote the novel "Les Misérables"?	Victor Hugo
+2	B. French Authors	Who wrote the science fiction novel "Twenty Thousand Leagues Under the Sea"?	Jules Verne
+3	B. French Authors	Who wrote the philosophical novel "Candide"?	Voltaire
+4	B. French Authors	Which French author is associated with the term “existentialism”?	Jean-Paul Sartre
+5	B. French Authors	Which French writer is known for "Madame Bovary"?	Gustave Flaubert
+1	C. Blizzards	What type of precipitation falls during a blizzard?	Snow
+2	C. Blizzards	What term describes the low visibility caused by blowing snow in a blizzard?	Whiteout
+3	C. Blizzards	What is the minimum wind speed mph for a storm to be classified as a blizzard: 15, 25, 35?	35 mph
+4	C. Blizzards	What instrument measures the wind speed during a blizzard?	Anemometer
+5	C. Blizzards	What is the name of the scale used to rate blizzards in the U.S.?	Northeast Snowfall Impact Scale
+1	D. Geography of Bolivia	What is the capital city of Bolivia?	La Paz
+2	D. Geography of Bolivia	What is the primary language spoken in Bolivia?	Spanish
+3	D. Geography of Bolivia	Which mountain range runs through western Bolivia?	Andes
+4	D. Geography of Bolivia	Which large lake forms part of Bolivia’s border with Peru?	Lake Titicaca
+5	D. Geography of Bolivia	What is the name of the desert in southern Bolivia?	Atacama Desert
+1	E. Domino Game Varieties	What is the term for the starting domino in many games?	Spinner
+2	E. Domino Game Varieties	Which game involves placing dominoes in a line with matching numbers?	Train
+3	E. Domino Game Varieties	What is the name of the domino game where players bid on tricks?	Texas 42
+4	E. Domino Game Varieties	Which domino game is also known as “Mexican Train”?	Chicken Foot
+5	E. Domino Game Varieties	What game uses a double-six set and aims to score points in multiples of five?	Muggins
