@@ -1,0 +1,25 @@
+1	A. Carom Billiards	What is remarkable about a carom billiards table compared to a "pool" table?	No pockets
+2	A. Carom Billiards	How many balls are typically used in a carom billiards game?	Three: red, white, yellow (or another white)
+3	A. Carom Billiards	What is a "carom" in carom billiards?	The cue ball hitting both object balls in one shot
+4	A. Carom Billiards	What is the name of a common carom billiards game using balk spaces?	Balkline
+5	A. Carom Billiards	What is the standard size of a carom billiards table?	10 feet by 5 feet
+1	B. Factory System	What system replaced cottage industries during the Industrial Revolution?	Factory system
+2	B. Factory System	What was the primary power source for early factory systems?	Steam engines
+3	B. Factory System	What was a key product of factories during the Industrial Revolution?	Textiles
+4	B. Factory System	What was a key benefit of the factory system for production?	Mass production
+5	B. Factory System	What invention improved textile production in factories?	Spinning jenny
+1	C. Mercury Program Astronauts	What is the common name for the first group of astronauts selected for the Mercury Program?	The Mercury Seven
+2	C. Mercury Program Astronauts	Who was the first American in space from the Mercury Program?	Alan Shepard
+3	C. Mercury Program Astronauts	Which Mercury astronaut was the first American to orbit Earth?	John Glenn
+4	C. Mercury Program Astronauts	Which Mercury astronaut later walked on the moon?	Alan Shepard
+5	C. Mercury Program Astronauts	Which Mercury astronaut flew the longest mission, lasting over 34 hours?	Gordon Cooper
+1	D. To Kill a Mockingbird	Who is the author of To Kill a Mockingbird?	Harper Lee
+2	D. To Kill a Mockingbird	Who is the lawyer defending Tom Robinson in the novel?	Atticus Finch
+3	D. To Kill a Mockingbird	What mysterious character lives next door to the Finches?	Boo Radley
+4	D. To Kill a Mockingbird	What is the name of Scout’s older brother?	Jem Finch
+5	D. To Kill a Mockingbird	What decade is To Kill a Mockingbird set in?	1930s
+1	E. Most Populated Islands	What is the most populated island in the world?	Java
+2	E. Most Populated Islands	Which country owns the island of Honshu, the second most populated island?	Japan
+3	E. Most Populated Islands	Which island, part of the United States, is among the most populated in the world?	Long Island
+4	E. Most Populated Islands	What is the most populated island in the Mediterranean Sea?	Sicily
+5	E. Most Populated Islands	What is the capital city of the island of Taiwan?	Taipei
