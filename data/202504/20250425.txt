@@ -1,0 +1,25 @@
+1	A. Coral Reefs	What is the largest coral reef system in the world?	Great Barrier Reef
+2	A. Coral Reefs	Which ocean has the most coral reefs?	Pacific Ocean
+3	A. Coral Reefs	What type of fish is famous for living among coral reefs, like Nemo?	Clownfish
+4	A. Coral Reefs	What is the main material coral reefs are made from?	Calcium carbonate
+5	A. Coral Reefs	What is a common predator of coral polyps?	Parrotfish
+1	B. Fantasy Literature	Who wrote the "Harry Potter" series?	J.K. Rowling
+2	B. Fantasy Literature	What is the name of the fictional world in "The Lord of the Rings"?	Middle-earth
+3	B. Fantasy Literature	Which fantasy series includes the book "The Hobbit"?	The Lord of the Rings
+4	B. Fantasy Literature	Who is the author of the "A Song of Ice and Fire" series?	George R.R. Martin
+5	B. Fantasy Literature	What is the name of the dragon in "The Hobbit"?	Smaug
+1	C. World Records in Swimming	What is the name of the street rat who finds a magic lamp in "Aladdin"?	Aladdin
+2	C. World Records in Swimming	What magical object allows Aladdin to fly?	Magic carpet
+3	C. World Records in Swimming	Who is the princess Aladdin falls in love with?	Jasmine
+4	C. World Records in Swimming	What is the name of the villain who seeks the lamp?	Jafar
+5	C. World Records in Swimming	What is the name of the animal that is Aladdin's loyal friend in the movie?	Abu
+1	D. Celebrity Endorsements	In which New York City borough is Barclays Center located?	Brooklyn
+2	D. Celebrity Endorsements	What NBA team calls Barclays Center home?	Brooklyn Nets
+3	D. Celebrity Endorsements	Which WNBA team plays at Barclays Center?	New York Liberty
+4	D. Celebrity Endorsements	Which architect designed the Barclays Center?	Frank Gehry
+5	D. Celebrity Endorsements	What is the name of the retail and office complex attached to Barclays Center?	Atlantic Yards
+1	E. Seattle	What is the name of Seattle’s famous observation tower?	Space Needle
+2	E. Seattle	What is the name of Seattle’s NFL team?	Seahawks
+3	E. Seattle	Which body of water borders Seattle to the west?	Puget Sound
+4	E. Seattle	Which TV show set in Seattle features Dr. Frasier Crane?	Frasier
+5	E. Seattle	What is the nickname for Seattle due to its green surroundings?	Emerald City
