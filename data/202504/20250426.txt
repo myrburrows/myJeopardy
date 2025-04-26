@@ -1,0 +1,25 @@
+1	A. Mediterranean Diet	What is the main fat source in the Mediterranean diet?	Olive oil.
+2	A. Mediterranean Diet	What type of meat is rarely consumed in the Mediterranean diet?	Red meat.
+3	A. Mediterranean Diet	Which beverage is consumed in moderation with meals?	Red wine.
+4	A. Mediterranean Diet	Which country’s cuisine heavily influences the Mediterranean diet?	Greece.
+5	A. Mediterranean Diet	Which nutrient in olive oil may reduce heart disease risk?	Monounsaturated fats.
+1	B. Hurricane Disasters	What was the costliest hurricane to hit the U.S., devastating New Orleans?	Hurricane Katrina (2005).
+2	B. Most Destructive Hurricanes	What hurricane struck the Caribbean and U.S. in 1992? It was the costliest before Katrina.	Hurricane Andrew.
+3	B. Most Destructive Hurricanes	What hurricane caused over $125 billion in damage in 2017?	Hurricane Harvey.
+4	B. Most Destructive Hurricanes	What Category 5 hurricane struck in Mississippi in 1969?	Hurricane Camille.
+5	B. Most Destructive Hurricanes	Which Texas hurricane is the deadliest in U.S. history?	Galveston Hurricane (1900).
+1	C. Cyclops	What is the defining physical trait of a Cyclops?	One eye.
+2	C. Cyclops	In which epic does the Cyclops Polyphemus appear?	The Odyssey.
+3	C. Cyclops	Who is the Greek hero who blinds the Cyclops?	Odysseus.
+4	C. Cyclops	What does Polyphemus eat in The Odyssey?	Odysseus’s men.
+5	C. Cyclops	Which god is the father of Polyphemus?	Poseidon.
+1	D. Battle of the Somme	Which war featured the Battle of the Somme?	World War I.
+2	D. Battle of the Somme	Who fought against the Germans in the Battle of the Somme?	British and French.
+3	D. Battle of the Somme	What town's relief was a major goal of the Battle of the Somme?	Verdun, France
+4	D. Battle of the Somme	What new technology debuted at the Somme?	Tanks.
+5	D. Battle of the Somme	How many total casualties were there at the Somme?	Over 1 million.
+1	E. Goalkeeping Skills	What is the goalkeeper’s main job in soccer?	Stop goals.
+2	E. Goalkeeping Skills	Which body part can goalkeepers use in the penalty area?	Hands.
+3	E. Goalkeeping Skills	What is the name of the area where goalkeepers can use hands?	Penalty area.
+4	E. Goalkeeping Skills	What trait is essential for goalkeepers?	Quick reflexes.
+5	E. Goalkeeping Skills	What protective gear do goalkeepers wear?	Gloves.
