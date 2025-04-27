@@ -1,0 +1,25 @@
+1	A. Iconic TV Families	Which TV show features the Pritchett-Dunphy-Tucker family?	Modern Family
+2	A. Iconic TV Families	What is the name of the family in "All in the Family"?	Bunker
+3	A. Iconic TV Families	Which show features the Huxtable family, led by Cliff and Clair?	The Cosby Show
+4	A. Iconic TV Families	Which TV family lives at 742 Evergreen Terrace in Springfield?	The Simpsons
+5	A. Iconic TV Families	What is the name of the family that include John-Boy, Mary Ellen and Zeb?	Walton
+1	B. Marine Pollution	What is the primary source of marine pollution from land?	Runoff
+2	B. Marine Pollution	What is the term for oil accidentally released into the ocean?	Oil Spill
+3	B. Marine Pollution	What is the largest source of microplastics in the ocean?	Synthetic Fibers
+4	B. Marine Pollution	What type of marine pollution is caused by abandoned fishing gear?	Ghost Nets
+5	B. Marine Pollution	Which international agreement regulates ocean dumping?	London Convention
+1	C. Phoenix	What is the name of Phoenix’s international airport?	Sky Harbor
+2	C. Phoenix	Which university has a major campus in downtown Phoenix?	Arizona State University
+3	C. Phoenix	Which desert surrounds the city of Phoenix?	Sonoran Desert
+4	C. Phoenix	Which mountain in Phoenix is a popular hiking destination?	Camelback Mountain
+5	C. Phoenix	What is the main river that once flowed through Phoenix?	Salt River
+1	D. Literary Awards	What is the international literature prize awarded by Sweden?	Nobel Prize in Literature
+2	D. Literary Awards	What is the name of the U.S. award for distinguished fiction?	Pulitzer Prize
+3	D. Literary Awards	Which award recognizes excellence in children’s literature?	Newbery Medal
+4	D. Literary Awards	What is the name of the award for crime fiction novels?	Edgar Award
+5	D. Literary Awards	Which award is given annually for the best novel in the UK?	Booker Prize
+1	E. First Aid in the Outdoors	Which emergency device can signal for help in remote areas?	Whistle
+2	E. First Aid in the Outdoors	Which item in a first aid kit helps immobilize a fracture?	Splint
+3	E. First Aid in the Outdoors	What is the common treatment for a bee sting in the outdoors?	Remove Stinger
+4	E. First Aid in the Outdoors	Which condition requires warming the skin slowly?	Frostbite
+5	E. First Aid in the Outdoors	Which item is used to stop severe bleeding in the wild?	Tourniquet
