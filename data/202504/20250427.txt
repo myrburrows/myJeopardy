@@ -1,0 +1,25 @@
+1	A. Cleveland, OH	Cleveland is the largest city along which of the Great Lakes?	Lake Erie
+2	A. Cleveland, OH	What river runs through downtown Cleveland?	Cuyahoga River
+3	A. Cleveland, OH	What is the name of Cleveland’s MLB team?	Cleveland Guardians
+4	A. Cleveland, OH	What music genre is celebrated at Cleveland’s ______ Hall of Fame?	Rock and Roll
+5	A. Cleveland, OH	What lakefront stadium hosts the Cleveland Browns?	FirstEnergy Stadium
+1	B. Igneous Rocks	Igneous rocks are formed from ______.	Cooled magma or lava
+2	B. Igneous Rocks	Which igneous rock is commonly used for kitchen countertops?	Granite
+3	B. Igneous Rocks	Which igneous rock floats on water due to its porous nature?	Pumice
+4	B. Igneous Rocks	Which igneous rock is the main component of the Earth’s oceanic crust?	Basalt
+5	B. Igneous Rocks	What is the glassy igneous rock formed from instant lava cooling?	Obsidian
+1	C. Cross-Country Skiing	Cross-country skiing involves skiing across ______.	flat or hilly terrain
+2	C. Cross-Country Skiing	Which piece of equipment holds the skier’s boot to the ski?	Binding
+3	C. Cross-Country Skiing	What are the two main techniques in cross-country skiing?	Classic and Skate
+4	C. Cross-Country Skiing	Which Scandinavian country dominates cross-country skiing?	Norway
+5	C. Cross-Country Skiing	What type of snow is ideal for cross-country skiing?	Packed Powder
+1	D. Maple Trees	Which maple tree product is commonly used as a sweetener?	Maple Syrup
+2	D. Maple Trees	Which country features a maple leaf on its flag?	Canada
+3	D. Maple Trees	What is the hard wood of maple trees often used for?	Furniture
+4	D. Maple Trees	Which maple species is primarily tapped for syrup production?	Sugar Maple
+5	D. Maple Trees	Which U.S. state is famous for its maple syrup production?	Vermont
+1	E. The Raven	Who wrote the narrative poem “The Raven”?	Edgar Allan Poe
+2	E. The Raven	Which word does the raven repeatedly say in the poem?	Nevermore
+3	E. The Raven	What emotion does the narrator primarily feel in “The Raven”?	Grief
+4	E. The Raven	What is the name of the lost love mourned in “The Raven”?	Lenore
+5	E. The Raven	What is the raven perched upon in the poem?	Bust of Pallas
