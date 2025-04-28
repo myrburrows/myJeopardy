@@ -1,0 +1,25 @@
+1	A. Zebra	Where do zebras mostly live?	African grasslands and savannahs
+2	A. Zebra	Zebra's stripes give motion dazzle, group camouflage and perception disruption. This is to ______.	confuse predators.
+3	A. Zebra	What is a baby zebra called?	A foal.
+4	A. Zebra	Are zebras carnivores, omnivores or herbivores?	Herbivores
+5	A. Zebra	Which zebra species is the largest: Plains, Grevy's, or Mountain?	Grevy’s zebra.
+1	B. A Christmas Story	Who is the main character?	Ralphie Parker.
+2	B. A Christmas Story	What does Ralphie want for Christmas?	A BB gun.
+3	B. A Christmas Story	What does Ralphie’s mom say about the BB gun?	“You’ll shoot your eye out.”
+4	B. A Christmas Story	What does Ralphie’s aunt give him?	A bunny suit.
+5	B. A Christmas Story	What is the name of Ralphie’s brother?	Randy.
+1	C. Ben Hogan	How many U.S. Opens did Hogan win: 1, 4, or 8?	Four.
+2	C. Ben Hogan	Name 2 of Ben Hogan's greatest contemporary rivals.	Byron Nelson and Sam Snead
+3	C. Ben Hogan	In what state was Ben Hogan born?	Texas.
+4	C. Ben Hogan	What was Ben Hogan’s nickname?	The Hawk.
+5	C. Ben Hogan	What is a famous Hogan book?	Five Lessons.
+1	D. The Fall of the Berlin Wall	What did the wall separate?	East and West Berlin.
+2	D. The Fall of the Berlin Wall	What country built the Berlin wall?	East Germany.
+3	D. The Fall of the Berlin Wall	On June 12, 1987 President Reagan said "______, tear down this wall!"	Mr. Gorbachev.
+4	D. The Fall of the Berlin Wall	What was the wall made of?	Concrete.
+5	D. The Fall of the Berlin Wall	Without gunfire, what conflict did the wall symbolize?	The Cold War.
+1	E. Beloved	Who wrote the novel Beloved?	Toni Morrison.
+2	E. Beloved	What is the main character’s name?	Sethe.
+3	E. Beloved	What is a key theme of Beloved?	Slavery’s trauma.
+4	E. Beloved	Who is Beloved in the story?	A mysterious girl.
+5	E. Beloved	What time period does Beloved cover?	Post-Civil War.
