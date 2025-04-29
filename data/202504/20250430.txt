@@ -1,0 +1,25 @@
+1	A. Motorsport Technology	What is the function of a pit lane speed limiter in motorsports?	Restricts car speed for safety in the pit lane.
+2	A. Motorsport Technology	What is the primary fuel used in modern IndyCar racing?	Ethanol-based fuel.
+3	A. Motorsport Technology	What is the primary function of a turbocharger in a race car?	Increases engine power by forcing extra air intake
+4	A. Motorsport Technology	What material is commonly used for brake discs in Formula 1 cars?	Carbon fiber.
+5	A. Motorsport Technology	What is the purpose of an aerodynamic diffuser on a race car?	Manages airflow to reduce drag and increase downforce.
+1	B. Avalanches	What Great Lake is Chicago located on?	Lake Michigan.
+2	B. Avalanches	What river runs through downtown Chicago?	Chicago River.
+3	B. Avalanches	What is the nickname for Chicago’s downtown area?	The Loop.
+4	B. Avalanches	What is the name of the famous multi-level street in Chicago?	Wacker Drive.
+5	B. Avalanches	What is the name of the underground pedestrian system in downtown Chicago?	The Pedway.
+1	C. Rocks and Minerals	What is the hardest naturally occurring mineral known?	Diamond.
+2	C. Rocks and Minerals	What mineral is commonly used as a source of aluminum?	Bauxite.
+3	C. Rocks and Minerals	What type of rock is sandstone?	Sedimentary rock.
+4	C. Rocks and Minerals	What type of rock is formed from cooled lava?	Igneous rock.
+5	C. Rocks and Minerals	What is the name of the scale used to measure mineral hardness?	Mohs Scale.
+1	D. Directors of Classic Hollywood	Who directed the 1941 film "Citizen Kane"?	Orson Welles.
+2	D. Directors of Classic Hollywood	What director made the 1946 film "It’s a Wonderful Life"?	Frank Capra.
+3	D. Directors of Classic Hollywood	Who directed the 1940 film "The Grapes of Wrath"?	John Ford.
+4	D. Directors of Classic Hollywood	What director is known for the 1939 film "Gone with the Wind"?	Victor Fleming.
+5	D. Directors of Classic Hollywood	What director made the 1952 Western "High Noon"?	Fred Zinnemann.
+1	E. The Cat in the Hat	Who is the author of "The Cat in the Hat"?	Dr. Seuss.
+2	E. The Cat in the Hat	What color is the Cat’s bow tie?	Red.
+3	E. The Cat in the Hat	What object does the Cat use to balance while holding many items?	Umbrella.
+4	E. The Cat in the Hat	What are the names of the two children the Cat visits?	Sally and her brother.
+5	E. The Cat in the Hat	What is the weather like on the day the Cat visits?	Rainy.
