@@ -1,0 +1,25 @@
+1	A. Indus Valley Civilization	In what modern-day countries modern day countries would the Indus Valley civilization be?	Pakistan and northwest India
+2	A. Indus Valley Civilization	What river was the Indus Valley Civilization primarily built around?	Indus River.
+3	A. Indus Valley Civilization	What is one of the major cities of the Indus Valley Civilization?	Harappa.
+4	A. Indus Valley Civilization	What type of economy was dominant in the Indus Valley Civilization?	Agricultural.
+5	A. Indus Valley Civilization	What feature of Indus Valley cities shows advanced urban planning?	Grid layout and underground sewers
+1	B. Daylight Saving Time	What is the typical time adjustment at the start of Daylight Saving Time?	One hour forward.
+2	B. Daylight Saving Time	What is the name of the time period when clocks are not adjusted?	Standard Time.
+3	B. Daylight Saving Time	Which U.S. states do not observe Daylight Saving Time?	Hawaii and Arizona
+4	B. Daylight Saving Time	What was the original purpose of Daylight Saving Time?	Save energy, use less energy evenings
+5	B. Daylight Saving Time	What country was the first to adopt Daylight Saving Time?	Germany.
+1	C. Adaptations of Art in Film	What 2003 film is based on Johannes Vermeer’s painting "Girl with a Pearl Earring"?	Girl with a Pearl Earring.
+2	C. Adaptations of Art in Film	What film features a scene mimicking Grant Wood’s "American Gothic"?	The Rocky Horror Picture Show.
+3	C. Adaptations of Art in Film	What movie recreates Vincent van Gogh’s life and his painting style?	Loving Vincent.
+4	C. Adaptations of Art in Film	What 1986 Woody Allen film draws visual inspiration from Claude Monet’s water lilies?	Hannah and Her Sisters.
+5	C. Adaptations of Art in Film	What film is inspired by the painting "The Birth of Venus" by William Bouguereau?	Ever After.
+1	D. Bridge Bidding Systems	What suit is ranked highest in Bridge bidding?	Spades.
+2	D. Bridge Bidding Systems	Charles ______ was a bridge expert, developed a bidding system, and wrote many bridge books.	Goren.
+3	D. Bridge Bidding Systems	What does a "no trump" bid indicate in Bridge?	No suit is trump.
+4	D. Bridge Bidding Systems	What is the minimum number of tricks a partnership must bid for in Bridge?	Seven.
+5	D. Bridge Bidding Systems	What does a "double" bid mean in Bridge?	Increases penalties or rewards.
+1	E. Eagle	What eagle is known for its striking white head?	Bald eagle.
+2	E. Eagle	Which eagle has a distinctive golden-brown neck?	Golden eagle.
+3	E. Eagle	What is the term for an eagle’s nest?	Eyrie.
+4	E. Eagle	What is the largest eagle species by wingspan?	Andean condor.
+5	E. Eagle	What eagle is known for its long, curved beak and sharp talons?	Harpy eagle.
