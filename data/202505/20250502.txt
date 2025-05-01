@@ -1,0 +1,25 @@
+1	A. Pelé	In which country was Pelé born?	Brazil
+2	A. Pelé	What number did Pelé famously wear?	10
+3	A. Pelé	What nickname was given to Pelé?	The King
+4	A. Pelé	What was Pelé's primary playing position?	Forward
+5	A. Pelé	Which American team did Pelé join in 1975?	New York Cosmos
+1	B. French Colonial Empire	Which continent had the largest French colonial presence?	Africa
+2	B. French Colonial Empire	What was the primary French colony in North America?	Quebec
+3	B. French Colonial Empire	What Caribbean island was a major French colony?	Haiti
+4	B. French Colonial Empire	Which Southeast Asian country was under French rule?	Vietnam
+5	B. French Colonial Empire	What was the name of France’s Pacific island colonies?	New Caledonia
+1	C. Extinct Species	Which large mammal, relative of the elephant, went extinct during the Ice Age?	Woolly Mammoth
+2	C. Extinct Species	Which extinct shark was larger than modern great whites?	Megalodon
+3	C. Extinct Species	Which extinct bird was native to Mauritius?	Dodo
+4	C. Extinct Species	What early human species, precursor of homo sapiens, went extinct around 40,000 years ago?	Neanderthal
+5	C. Extinct Species	Which extinct species is known as the “saber-toothed cat”?	Smilodon
+1	D. Literature: Thriller	Who wrote the thriller novel “The Da Vinci Code”?	Dan Brown
+2	D. Literature: Thriller	Who wrote the techno-thriller “The Hunt for Red October”?	Tom Clancy
+3	D. Literature: Thriller	What is the name of the detective in Michael Connelly’s thrillers?	Harry Bosch
+4	D. Literature: Thriller	Which thriller author created the character Jason Bourne?	Robert Ludlum
+5	D. Literature: Thriller	Which thriller author is known for “The Girl with the Dragon Tattoo”?	Stieg Larsson
+1	E. Touring Broadway Productions	Which musical about a founding father tours frequently?	Hamilton
+2	E. Touring Broadway Productions	What is the name of the family in “The Sound of Music” tours?	Von Trapp
+3	E. Touring Broadway Productions	Which touring production features the song “Defying Gravity”?	Wicked
+4	E. Touring Broadway Productions	Which touring musical is set in 19th-century France with Jean Valjean ?	Les Misérables
+5	E. Touring Broadway Productions	Which touring show features a chandelier crash?	The Phantom of the Opera
