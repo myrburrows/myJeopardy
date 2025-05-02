@@ -1,0 +1,25 @@
+1	A. Tokyo, Japan	What is the name of the imperial residence in Tokyo?	Imperial Palace
+2	A. Tokyo, Japan	Which famous tower in Tokyo is modeled after the Eiffel Tower?	Tokyo Tower
+3	A. Tokyo, Japan	What is the name of the river that flows through Tokyo?	Sumida River
+4	A. Tokyo, Japan	Which Tokyo park is famous for cherry blossoms?	Ueno Park
+5	A. Tokyo, Japan	What is the name of Tokyo’s busiest train station?	Shinjuku Station
+1	B. Humphrey Bogart	In which 1942 movie did the lead actor play Rick Blaine? "Play it again, Sam"	Casablanca
+2	B. Humphrey Bogart	Which 1948 movie had the lead actor as Fred C. Dobbs? Badges? We ain't got no badges	The Treasure of the Sierra Madre
+3	B. Humphrey Bogart	Which 1941 film featured the lead actor as Sam Spade? The stuff that dreams are made of.	The Maltese Falcon
+4	B. Humphrey Bogart	In which 1954 film did the lead actor play Lt. Cmdr. Queeg?	The Caine Mutiny
+5	B. Humphrey Bogart	Which 1954 film featured the lead actor as Linus Larrabee?	Sabrina
+1	C. Freedom Riders	Who was a prominent Freedom Rider leader? He was a Georgia congressman for 30+ years.	John Lewis
+2	C. Freedom Riders	In this city, freedom riders were arrested and jailed at Parchman Penitentiary.	Jackson, Mississippi
+3	C. Freedom Riders	In which city were Freedom Riders famouly attacked at the bus terminal?	Montgomery, Alabama
+4	C. Freedom Riders	What group organized the Freedom Rides?	CORE
+5	C. Freedom Riders	Which court case spurred the Freedom Rides?	Boynton v. Virginia
+1	D. Weightlifting Basics	What equipment is needed for a bench press?	Barbell
+2	D. Weightlifting Basics	What is a typical warm-up for weightlifting?	Stretching
+3	D. Weightlifting Basics	What muscle group do squats primarily work?	Quadriceps
+4	D. Weightlifting Basics	Which exercise targets the biceps in weightlifting?	Bicep curls
+5	D. Weightlifting Basics	Which exercise builds chest strength?	Bench press
+1	E. Pine Trees	What pine is commonly used as a Christmas tree?	Scotch Pine
+2	E. Pine Trees	Which pine produces pine nuts?	Piñon Pine
+3	E. Pine Trees	Which pine is the tallest?	Ponderosa Pine
+4	E. Pine Trees	Which pine is found in the southeastern U.S.?	Loblolly Pine
+5	E. Pine Trees	Which pine has soft needles?	White Pine
