@@ -1,0 +1,25 @@
+1	A. Alexander Graham Bell	What did Alexander Graham Bell invent?	Telephone
+2	A. Alexander Graham Bell	What was Bell’s first transmitted sentence?	“Mr. Watson, come here.”
+3	A. Alexander Graham Bell	What company did Bell co-found?	Bell Telephone Company
+4	A. Alexander Graham Bell	What device did Bell improve to transmit sound?	Telegraph
+5	A. Alexander Graham Bell	What was Bell’s profession besides inventing?	Teacher of the deaf
+1	B. Mark Twain	What is Mark Twain’s real name?	Samuel Clemens
+2	B. Mark Twain	What is Twain’s most famous novel?	Huckleberry Finn
+3	B. Mark Twain	What river inspired Twain’s pen name?	Mississippi River
+4	B. Mark Twain	What was Twain’s job before writing?	Riverboat pilot
+5	B. Mark Twain	What stoy, featuring a frog, was Twain’s first published story?	The Celebrated Jumping Frog
+1	C. Java	What is the capital city of Java?	Jakarta
+2	C. Java	What is Java’s primary religion?	Islam
+3	C. Java	What is the famous beverage named after Java?	Java coffee
+4	C. Java	What European colonial power once ruled Java?	Netherlands
+5	C. Java	What ancient temple is on Java?	Borobudur
+1	D. Shakespearean Plays	"To be, or not to be, that is the question"	Hamlet
+2	D. Shakespearean Plays	"Et tu, Brute?"	Julius Caesar
+3	D. Shakespearean Plays	"But soft, what light through yonder window breaks?"	Romeo and Juliet
+4	D. Shakespearean Plays	"Out, out, brief candle!"	Macbeth
+5	D. Shakespearean Plays	"The course of true love never did run smooth"	A Midsummer Night’s Dream
+1	E. Solitaire Games	What is the central characteristic of all forms of solitaire?	Solo card game
+2	E. Solitaire Games	Often simply called "Solitaire", what is the most common solitaire game?	Klondike
+3	E. Solitaire Games	What is the typical number of tableau piles in Klondike?	Seven
+4	E. Solitaire Games	The object of Klndike is to move all cards to ______ piles, 1 for each suit.	foundation
+5	E. Solitaire Games	What solitaire game uses two decks?	Spider
